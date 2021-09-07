@@ -1122,3 +1122,12 @@ mpmissions/dayzOffline.enoch/mapgroupcluster05.xml
 mpmissions/dayzOffline.enoch/mapgroupdirt.xml
 mpmissions/dayzOffline.enoch/mapgrouppos.xml
 mpmissions/dayzOffline.enoch/mapgroupproto.xml
+@Forced First Person Combat/NoUnpackOrRepackAllowed.txt
+@Forced First Person Combat/mod.cpp
+@Forced First Person Combat/meta.cpp
+@Forced First Person Combat/Keys/CooltrainV3.bikey
+@Forced First Person Combat/Example Config/readme.txt
+@Forced First Person Combat/Example Config/ForcedFirstPersonWhiteListExample.json
+@Forced First Person Combat/Example Config/ForcedFirstPerson.json
+@Forced First Person Combat/Addons/ForcedFirstPersonCombat.pbo.CooltrainV3.bisign
+@Forced First Person Combat/Addons/ForcedFirstPersonCombat.pbo
