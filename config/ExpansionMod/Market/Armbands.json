@@ -1,0 +1,86 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ARMBANDS",
+    "Items": [
+        {
+            "ClassName": "armband_white",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "armband_yellow",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "armband_orange",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "armband_red",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "armband_green",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "armband_pink",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "armband_blue",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "armband_black",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

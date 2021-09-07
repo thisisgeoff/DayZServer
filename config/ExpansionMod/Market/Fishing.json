@@ -1,0 +1,46 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_FISHING",
+    "Items": [
+        {
+            "ClassName": "worm",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bonehook",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "hook",
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 7,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "fishingrod",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

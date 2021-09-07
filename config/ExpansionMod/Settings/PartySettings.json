@@ -1,0 +1,14 @@
+{
+    "m_Version": 2,
+    "EnableParties": 1,
+    "MaxMembersInParty": 10,
+    "UseWholeMapForInviteList": 0,
+    "ShowPartyMember3DMarkers": 0,
+    "ShowDistanceUnderPartyMembersMarkers": 0,
+    "ShowNameOnPartyMembersMarkers": 0,
+    "EnableQuickMarker": 0,
+    "ShowDistanceUnderQuickMarkers": 0,
+    "ShowNameOnQuickMarkers": 0,
+    "CanCreatePartyMarkers": 0,
+    "ShowPartyMemberHUD": 0
+}

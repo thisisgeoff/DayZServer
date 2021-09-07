@@ -1,0 +1,151 @@
+{
+    "m_Version": 3,
+    "MarketSystemEnabled": 1,
+    "NetworkCategories": [],
+    "MarketAmmoBoxes": [
+        {
+            "Ammo": "Ammo_556x45",
+            "AmmoBox": "AmmoBox_556x45_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_556x45Tracer",
+            "AmmoBox": "AmmoBox_556x45Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_545x39",
+            "AmmoBox": "AmmoBox_545x39_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_545x39Tracer",
+            "AmmoBox": "AmmoBox_545x39Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x39",
+            "AmmoBox": "AmmoBox_762x39_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x39Tracer",
+            "AmmoBox": "AmmoBox_762x39Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_308Win",
+            "AmmoBox": "AmmoBox_308Win_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_308WinTracer",
+            "AmmoBox": "AmmoBox_308WinTracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x54",
+            "AmmoBox": "AmmoBox_762x54_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_762x54Tracer",
+            "AmmoBox": "AmmoBox_762x54Tracer_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_22",
+            "AmmoBox": "AmmoBox_22_50Rnd"
+        },
+        {
+            "Ammo": "Ammo_380",
+            "AmmoBox": "AmmoBox_380_35rnd"
+        },
+        {
+            "Ammo": "Ammo_9x19",
+            "AmmoBox": "AmmoBox_9x19_25rnd"
+        },
+        {
+            "Ammo": "Ammo_45ACP",
+            "AmmoBox": "AmmoBox_45ACP_25rnd"
+        },
+        {
+            "Ammo": "Ammo_357",
+            "AmmoBox": "AmmoBox_357_20Rnd"
+        },
+        {
+            "Ammo": "Ammo_12gaPellets",
+            "AmmoBox": "AmmoBox_00buck_10rnd"
+        },
+        {
+            "Ammo": "Ammo_12gaSlug",
+            "AmmoBox": "AmmoBox_12gaSlug_10Rnd"
+        },
+        {
+            "Ammo": "Ammo_12gaRubberSlug",
+            "AmmoBox": "AmmoBox_12gaRubberSlug_10Rnd"
+        },
+        {
+            "Ammo": "Ammo_9x39AP",
+            "AmmoBox": "AmmoBox_9x39AP_20rnd"
+        },
+        {
+            "Ammo": "Ammo_9x39",
+            "AmmoBox": "AmmoBox_9x39_20rnd"
+        },
+        {
+            "Ammo": "Expansion_Ammo_8mm",
+            "AmmoBox": "Expansion_AmmoBox_8mm_15rnd"
+        },
+        {
+            "Ammo": "Ammo_Expansion_46x30",
+            "AmmoBox": "AmmoBox_Expansion_46x30_25rnd"
+        },
+        {
+            "Ammo": "Ammo_Expansion_338",
+            "AmmoBox": "AmmoBox_Expansion_338_15rnd"
+        }
+    ],
+    "CurrencyIcon": "DayZExpansion/Market/GUI/icons/coinstack2_64x64.edds",
+    "ATMSystemEnabled": 1,
+    "MaxDepositMoney": 100000,
+    "DefaultDepositMoney": 10000,
+    "ATMPlayerTransferEnabled": 1,
+    "ATMPartyLockerEnabled": 1,
+    "MaxPartyDepositMoney": 100000,
+    "MarketVIPs": [],
+    "SellPricePercent": 75.0,
+    "LandSpawnPositions": [],
+    "AirSpawnPositions": [],
+    "WaterSpawnPositions": [],
+    "MarketMenuColors": {
+        "BaseColorVignette": "000000C8",
+        "BaseColorHeaders": "13171BFF",
+        "BaseColorLabels": "27272DFF",
+        "BaseColorText": "FBFCFEFF",
+        "BaseColorCheckboxes": "FBFCFEFF",
+        "BaseColorInfoSectionBackground": "2225268C",
+        "BaseColorTooltipsCorners": "FBFCFEFF",
+        "BaseColorTooltipsSeperatorLine": "FFB418FF",
+        "BaseColorTooltipsBackground": "27272DFF",
+        "ColorDecreaseQuantityButton": "DD262614",
+        "ColorDecreaseQuantityIcon": "DD262628",
+        "ColorSetQuantityButton": "C7265114",
+        "ColorIncreaseQuantityButton": "A0CC7114",
+        "ColorIncreaseQuantityIcon": "A0CC7128",
+        "ColorSellPanel": "27272DFF",
+        "ColorSellButton": "DD262628",
+        "ColorBuyPanel": "27272DFF",
+        "ColorBuyButton": "A0CC7128",
+        "ColorMarketIcon": "E241428C",
+        "ColorFilterOptionsButton": "C726518C",
+        "ColorFilterOptionsIcon": "C726518C",
+        "ColorSearchFilterButton": "C726518C",
+        "ColorCategoryButton": "C726518C",
+        "ColorCategoryCollapseIcon": "C726518C",
+        "ColorCurrencyDenominationText": "FFB418FF",
+        "ColorItemButton": "C726518C",
+        "ColorItemInfoIcon": "FFB418FF",
+        "ColorItemInfoTitle": "FFB418FF",
+        "ColorItemInfoHasContainerItems": "FFB418FF",
+        "ColorItemInfoHasAttachments": "FFB418FF",
+        "ColorItemInfoHasBullets": "FFB418FF",
+        "ColorItemInfoIsAttachment": "FFB418FF",
+        "ColorItemInfoIsEquipped": "FFB418FF",
+        "ColorItemInfoAttachments": "FFB418FF",
+        "ColorToggleCategoriesText": "C726518C",
+        "ColorCategoryCorners": "FBFCFEFF",
+        "ColorCategoryBackground": "222526FF"
+    },
+    "UseWholeMapForATMPlayerList": 0
+}

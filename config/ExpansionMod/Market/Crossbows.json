@@ -1,0 +1,16 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CROSSBOWS",
+    "Items": [
+        {
+            "ClassName": "expansion_crossbow",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

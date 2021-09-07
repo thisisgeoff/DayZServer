@@ -1,0 +1,124 @@
+
+
+=====================================================================
+== E:\Games\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== "E:\Games\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe"  -config=serverDZ.cfg -mod="@CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;" -port=2302 -profiles=config -cpuCount=4 -dologs -adminlog -netlog -freezecheck
+=====================================================================
+Exe timestamp: 2021/09/05 09:45:06
+Current time:  2021/09/06 22:07:40
+
+Version 1.13.154080
+22:07:40.234 String "STR_server_shutdown" listed twice in "Global"
+22:07:40.249 Localization not present: STR_DATE_FORMAT_SHORT
+22:07:40.249 Localization not present: STR_TIME_FORMAT
+22:07:40.249 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+22:07:40.249 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+22:07:40.249 Localization not present: STR_MP_VALIDERROR
+22:07:40.249 Localization not present: STR_MP_CONNECTION_LOOSING
+22:07:40.249 Localization not present: STR_MSG_MP_NO_PASSWORD
+22:07:40.249 Localization not present: STR_MSG_LAUNCH_GAME
+22:07:40.249 Localization not present: STR_LOAD_INIT
+22:07:40.249 Localization not present: STR_LOAD_WORLD
+22:07:40.249 Localization not present: STR_LOAD_GAME
+22:07:40.249 Localization not present: STR_SAVE_GAME
+22:07:40.249 Localization not present: STR_MP_CONNECT
+22:07:40.249 Localization not present: STR_MP_DISCONNECT
+22:07:40.249 Localization not present: STR_MP_CONNECTING
+22:07:40.249 Localization not present: STR_MP_TIMEOUT
+22:07:40.249 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+22:07:40.249 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+22:07:40.250 Localization not present: STR_DATE_FORMAT_SHORT
+22:07:40.250 Localization not present: STR_TIME_FORMAT
+22:07:40.250 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+22:07:40.250 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+22:07:40.250 Localization not present: STR_MP_VALIDERROR
+22:07:40.250 Localization not present: STR_MP_CONNECTION_LOOSING
+22:07:40.250 Localization not present: STR_MSG_MP_NO_PASSWORD
+22:07:40.250 Localization not present: STR_MSG_LAUNCH_GAME
+22:07:40.250 Localization not present: STR_LOAD_INIT
+22:07:40.250 Localization not present: STR_LOAD_WORLD
+22:07:40.250 Localization not present: STR_LOAD_GAME
+22:07:40.250 Localization not present: STR_SAVE_GAME
+22:07:40.250 Localization not present: STR_MP_CONNECT
+22:07:40.250 Localization not present: STR_MP_DISCONNECT
+22:07:40.250 Localization not present: STR_MP_CONNECTING
+22:07:40.250 Localization not present: STR_MP_TIMEOUT
+22:07:40.250 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+22:07:40.250 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+22:07:40.259 Initializing stats manager.
+22:07:40.260 Stats config disabled.
+22:07:41.19 Warning Message: Addon 'eAI_Scripts' requires addon 'JM_CF_Scripts'
+22:07:48.254 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+22:07:48.254 Updating base class Transport->AllVehicles, by DZ\data\config.bin/CfgVehicles/Air/
+22:07:48.262 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+22:07:48.262 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+22:07:48.262 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+22:07:48.262 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+22:07:48.262 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+22:07:48.262 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+22:07:48.262 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+22:07:48.262 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+22:07:48.299 Updating base class ->Rifle_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1_Base/
+22:07:48.299 Updating base class ->M4A1_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Mirek/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Boris/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Cyril/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Denis/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Elias/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Francis/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Guo/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Hassan/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Indar/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Jose/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Kaito/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Lewis/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Manua/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Niki/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Oliver/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Peter/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Quinn/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Rolf/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Seth/
+22:07:48.310 Updating base class ->SurvivorMale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorM_Taiki/
+22:07:48.310 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Frida/
+22:07:48.310 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Gabi/
+22:07:48.310 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Helga/
+22:07:48.310 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Irena/
+22:07:48.310 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Judy/
+22:07:48.310 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Keiko/
+22:07:48.311 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Linda/
+22:07:48.311 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Maria/
+22:07:48.311 Updating base class ->SurvivorFemale_Base, by DZ\characters\data\config.bin/CfgVehicles/SurvivorF_Naomi/
+22:07:48.547 Updating base class Weather->, by DZ\sounds\hpp\config.bin/CfgWorlds/CAWorld/Weather/
+22:07:48.861 ENGINE    (W): No module info used, trying to identify -> 0xFC660000
+
+22:07:48.861 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+
+22:07:48.909 [Inputs] Loading inputs default "bin/constants.xml"
+22:07:48.911 [Inputs] Loading inputs default "bin/specific.xml"
+22:07:48.911 [Inputs] Loading inputs default "eAI\Scripts\inputs.xml"
+22:07:48.911 [Inputs] Loading inputs cfg "config\Users\Survivor\Server.core.xml"
+22:07:48.911 !!! [Inputs] Cannot read inputs cfg "config\Users\Survivor\Server.core.xml", parser error
+22:07:48.911 [Inputs] Loading inputs cfg "bin/core.xml"
+22:07:48.912 !!! [Inputs] Cannot load input preset "user", file does not exist
+22:07:48.912 [Inputs] Exporting inputs cfg "config\Users\Survivor\Server.core.xml"
+22:07:49.104 SCRIPT    (W): @"eAI/Scripts/3_Game/eai\gui\eaicommandmenu.c,285": Unsafe down-casting, use 'ButtonWidget.Cast' for safe down-casting
+
+22:07:49.104 SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,10": Undefined function 'eAICommandManagerClient.GetRPCManager'
+
+22:07:49.104 SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,14": Undefined function 'eAICommandManagerClient.GetRPCManager'
+
+22:07:49.104 SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,18": Undefined function 'eAICommandManagerClient.GetRPCManager'
+
+22:07:49.104 SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,22": Undefined function 'eAICommandManagerClient.GetRPCManager'
+
+22:07:49.104 SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,29": Undefined function 'eAICommandManagerClient.GetRPCManager'
+
+22:07:49.104 SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,33": Undefined function 'eAICommandManagerClient.GetRPCManager'
+
+22:07:49.104 SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,37": Undefined function 'eAICommandManagerClient.GetRPCManager'
+
+22:07:49.108 SCRIPT    (E): Can't compile "Game" script module!
+
+eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c(10): Undefined function 'eAICommandManagerClient.GetRPCManager'
+

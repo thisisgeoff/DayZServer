@@ -1,0 +1,16 @@
+---------------------------------------------
+Log E:\Games\SteamLibrary\steamapps\common\DayZServer\config\script_2021-09-06_22-07-48.log started at 06.09. 22:07:48
+
+SCRIPT       : Registered 221 temporary action enum(s), UAN==221
+SCRIPT    (W): @"eAI/Scripts/3_Game/eai\gui\eaicommandmenu.c,285": Unsafe down-casting, use 'ButtonWidget.Cast' for safe down-casting
+SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,10": Undefined function 'eAICommandManagerClient.GetRPCManager'
+SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,14": Undefined function 'eAICommandManagerClient.GetRPCManager'
+SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,18": Undefined function 'eAICommandManagerClient.GetRPCManager'
+SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,22": Undefined function 'eAICommandManagerClient.GetRPCManager'
+SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,29": Undefined function 'eAICommandManagerClient.GetRPCManager'
+SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,33": Undefined function 'eAICommandManagerClient.GetRPCManager'
+SCRIPT    (E): @"eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c,37": Undefined function 'eAICommandManagerClient.GetRPCManager'
+SCRIPT    (E): Can't compile "Game" script module!
+
+eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c(10): Undefined function 'eAICommandManagerClient.GetRPCManager'
+SCRIPT    (E): Failed to load game scripts!

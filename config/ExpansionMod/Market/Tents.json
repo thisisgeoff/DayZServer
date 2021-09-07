@@ -1,0 +1,73 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_TENTS",
+    "Items": [
+        {
+            "ClassName": "partytent",
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 2600,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "partytent_blue",
+                "partytent_brown",
+                "partytent_lunapark"
+            ]
+        },
+        {
+            "ClassName": "mediumtent",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 3000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mediumtent_orange",
+                "mediumtent_green"
+            ]
+        },
+        {
+            "ClassName": "largetent",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 6000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cartent",
+            "MaxPriceThreshold": 14000,
+            "MinPriceThreshold": 7000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansioncamotentkit",
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 2600,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansioncamoboxkit",
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 2600,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

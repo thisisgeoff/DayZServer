@@ -1,0 +1,13 @@
+---------------------------------------------
+Log E:\Games\SteamLibrary\steamapps\common\DayZServer\config\crash_2021-09-06_22-07-48.log started at 06.09. 22:07:49
+
+
+
+------------------------------------
+DESKTOP-C08CB54, 06.09 2021 22:07:49
+Can't compile "Game" script module!
+
+eAI/Scripts/3_Game/eai\gui\eaicommandmanager.c(10): Undefined function 'eAICommandManagerClient.GetRPCManager'
+
+Runtime mode
+CLI params: config serverDZ.cfg mod "@CF;@eAI;@Namalsk  Skybox port 2302 profiles config cpuCount 4 dologs  adminlog  netlog  freezecheck  
