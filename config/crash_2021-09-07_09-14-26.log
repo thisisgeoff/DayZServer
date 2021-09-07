@@ -1,0 +1,49 @@
+---------------------------------------------
+Log E:\Games\SteamLibrary\steamapps\common\DayZServer\config\crash_2021-09-07_09-14-26.log started at 07.09. 09:14:31
+
+
+
+------------------------------------
+DESKTOP-C08CB54, 07.09 2021 09:14:31
+
+JSON ERROR:
+Invalid value.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\missions\expansionmissionsettings.c:148
+DayZExpansion/Core/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/3_Game/dayzexpansion_core\settings\expansionsettings.c:81
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:54
+DayZExpansion/Core/3_Game/dayzexpansion_core\settings\expansionsettings.c:203
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:84
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:84
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:75
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:183
+DayZExpansion/Core/3_Game/dayzexpansion_core\settings\expansionsettings.c:352
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\houses\buildingbase.c:38
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed; port 2302 profiles config cpuCount 4 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+DESKTOP-C08CB54, 07.09 2021 09:24:11
+NULL pointer to instance
+Class:      'AKM_Base'
+Entity id:256956
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+eAI/Scripts/4_World/eai\entities\weapon_base.c:186
+scripts/4_World/classes\emotemanager.c:647
+DayZExpansion/Core/4_World/dayzexpansion_core\classes\expansionemotemanager.c:33
+scripts/4_World/classes\emotemanager.c:292
+scripts/4_World/entities\manbase\playerbase.c:2470
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:35
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:210
+eAI/Scripts/4_World/eai\entities\eaibase.c:636
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed; port 2302 profiles config cpuCount 4 dologs  adminlog  netlog  freezecheck  

@@ -94,3 +94,82 @@ AdminLog started on 2021-09-07 at 05:21:24
 05:27:45 | [COT] 76561197990717655: Left the Free Camera
 05:27:47 | [COT] 76561197990717655: Entered the Free Camera
 05:28:38 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 08:32:26
+08:33:19 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+08:34:35 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 08:35:01
+08:35:43 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+08:36:44 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+08:37:37 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+08:38:23 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 08:38:24
+08:39:05 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+08:39:54 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 08:40:46
+08:41:40 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+08:42:57 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4963.6, 11275.6, 11.2>)[HP: 74.9761] hit by FallDamage
+08:45:45 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4835.4, 10861.5, 13.8>)[HP: 62.4443] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+08:54:11 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 08:55:46
+08:57:42 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+08:58:39 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+09:01:41 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+09:02:59 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+09:03:06 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+09:04:02 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 09:04:06
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 09:04:34
+09:05:02 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 09:06:50
+09:08:29 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+09:09:12 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4835.4, 10851.2, 13.4>)[HP: 31.5315] hit by FallDamage
+09:11:07 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 09:14:24
+09:17:10 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+09:24:11 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4552.9, 10395, 8.4>) committed suicide
+09:24:11 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4552.9, 10395, 8.4>) died. Stats> Water: 4892.92 Energy: 6847.56 Bleed sources: 0
+09:26:26 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 09:31:38
+09:32:54 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+09:35:18 | [COT] 76561197990717655: Entered the Free Camera
+09:35:19 | [COT] 76561197990717655: Left the Free Camera
+09:35:26 | [COT] 76561197990717655: Entered the Free Camera
+09:35:50 | [COT] 76561197990717655: Left the Free Camera
+09:35:51 | [COT] 76561197990717655: Entered the Free Camera
+09:39:02 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-07 at 09:40:55
+09:41:30 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+09:42:41 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
