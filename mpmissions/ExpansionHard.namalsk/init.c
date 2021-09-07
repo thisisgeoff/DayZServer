@@ -40,7 +40,7 @@ void main()
 	weather.MissionWeather( true );
 	weather.GetOvercast().SetLimits( 0.30, 1.0 );
 	weather.GetRain().SetLimits( 0.0, 1.0 );
-	weather.GetFog().SetLimits( 0.0, 0.5 );
+	weather.GetFog().SetLimits( 0.0, 1.0 );
 	weather.GetOvercast().SetForecastChangeLimits( 0.1, 0.3 );
 	weather.GetOvercast().SetForecastTimeLimits( 1600, 2100 );
 	weather.GetOvercast().Set( Math.RandomFloatInclusive( 0.1, 0.2 ), 0, 0 );	// ignored if storage is present

@@ -1131,3 +1131,15 @@ mpmissions/dayzOffline.enoch/mapgroupproto.xml
 @Forced First Person Combat/Example Config/ForcedFirstPerson.json
 @Forced First Person Combat/Addons/ForcedFirstPersonCombat.pbo.CooltrainV3.bisign
 @Forced First Person Combat/Addons/ForcedFirstPersonCombat.pbo
+@AdditionalFrozenFoodNamalsk/Addons/AdditionalFrozenFoodNamalsk.pbo
+@AdditionalFrozenFoodNamalsk/Addons/AdditionalFrozenFoodNamalsk.pbo.Reifen.bisign
+@AdditionalFrozenFoodNamalsk/Keys/Reifen.bikey
+@AdditionalFrozenFoodNamalsk/meta.cpp
+@Increased Lumens/Addons/Indi_Increased_Lumens.pbo
+@Increased Lumens/Addons/Indi_Increased_Lumens.pbo.Indi_Increased_Lumens_1.5.bisign
+@Increased Lumens/Keys/Indi_Increased_Lumens_1.5.bikey
+@Increased Lumens/meta.cpp
+@StaminaSettings/Addons/StaminaSettings.pbo
+@StaminaSettings/Addons/StaminaSettings.pbo.mangokrill.bisign
+@StaminaSettings/Keys/mangokrill.bikey
+@StaminaSettings/meta.cpp

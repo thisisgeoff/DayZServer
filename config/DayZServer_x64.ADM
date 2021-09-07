@@ -1,200 +1,55 @@
 
 
 ******************************************************************************
-AdminLog started on 2021-09-06 at 22:07:40
-
-
-******************************************************************************
-AdminLog started on 2021-09-06 at 22:08:17
-22:08:37 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-22:09:17 | [COT] 76561197990717655: Entered the Free Camera
-22:09:39 | [COT] 76561197990717655: Left the Free Camera
-22:09:50 | [COT] 76561197990717655: Entered the Free Camera
-22:10:49 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-22:11:07 | [COT] 76561197990717655: Set Health To 100 [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-22:11:13 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-22:11:58 | [COT] 76561197990717655: ESP: Viewing ESP
-22:12:11 | [COT] 76561197990717655: Set rain to 0.98 0 0
-22:12:11 | [COT] 76561197990717655: Set storm to 0.9604 0.8 4000
-22:12:11 | [COT] 76561197990717655: Set fog to 0 0 0
-22:12:11 | [COT] 76561197990717655: Set overcast to 0.14112 0 0
-22:12:11 | [COT] 76561197990717655: Set the date to 2011/12/4 6:43
-22:12:11 | [COT] 76561197990717655: Set wind to 20.9884 20.9884 1
-22:12:36 | [COT] 76561197990717655: Left the Free Camera
-22:12:54 | [COT] 76561197990717655: Entered the Free Camera
-22:14:52 | [COT] 76561197990717655: Set rain to 0.49 0 0
-22:14:52 | [COT] 76561197990717655: Set storm to 0.2401 0.8 4000
-22:14:52 | [COT] 76561197990717655: Set fog to 0 0 0
-22:14:52 | [COT] 76561197990717655: Set overcast to 0.152133 0 0
-22:14:52 | [COT] 76561197990717655: Set the date to 2011/12/4 7:39
-22:14:52 | [COT] 76561197990717655: Set wind to 30 30 1
-22:15:03 | [COT] 76561197990717655: Set rain to 0.98 0 0
-22:15:03 | [COT] 76561197990717655: Set storm to 0.9604 0.8 4000
-22:15:03 | [COT] 76561197990717655: Set fog to 0 0 0
-22:15:03 | [COT] 76561197990717655: Set overcast to 0.99 0 0
-22:15:03 | [COT] 76561197990717655: Set the date to 2011/12/4 7:39
-22:15:03 | [COT] 76561197990717655: Set wind to 30 30 1
-22:15:29 | [COT] 76561197990717655: Set rain to 0 0 0
-22:15:29 | [COT] 76561197990717655: Set storm to 0 0.8 4000
-22:15:29 | [COT] 76561197990717655: Set fog to 0 0 0
-22:15:29 | [COT] 76561197990717655: Set overcast to 0.5 0 0
-22:15:29 | [COT] 76561197990717655: Set the date to 2011/12/4 7:46
-22:15:29 | [COT] 76561197990717655: Set wind to 30 30 1
-22:15:34 | [COT] 76561197990717655: Set rain to 0 0 0
-22:15:34 | [COT] 76561197990717655: Set storm to 0 0.8 4000
-22:15:34 | [COT] 76561197990717655: Set fog to 0 0 0
-22:15:34 | [COT] 76561197990717655: Set overcast to 0.87 0 0
-22:15:34 | [COT] 76561197990717655: Set the date to 2011/12/4 7:46
-22:15:34 | [COT] 76561197990717655: Set wind to 30 30 1
-22:15:42 | [COT] 76561197990717655: Set rain to 0.97 0 0
-22:15:42 | [COT] 76561197990717655: Set storm to 0.9409 0.8 4000
-22:15:42 | [COT] 76561197990717655: Set fog to 0.96 0 0
-22:15:42 | [COT] 76561197990717655: Set overcast to 0.96 0 0
-22:15:42 | [COT] 76561197990717655: Set the date to 2011/12/4 7:46
-22:15:42 | [COT] 76561197990717655: Set wind to 30 30 1
-22:15:44 | [COT] 76561197990717655: Set rain to 0.97 0 0
-22:15:44 | [COT] 76561197990717655: Set storm to 0.9409 0.8 4000
-22:15:44 | [COT] 76561197990717655: Set fog to 0.96 0 0
-22:15:44 | [COT] 76561197990717655: Set overcast to 0.96 0 0
-22:15:44 | [COT] 76561197990717655: Set the date to 2011/12/4 7:46
-22:15:44 | [COT] 76561197990717655: Set wind to 30 30 1
-22:15:44 | [COT] 76561197990717655: Set rain to 0.97 0 0
-22:15:44 | [COT] 76561197990717655: Set storm to 0.9409 0.8 4000
-22:15:44 | [COT] 76561197990717655: Set fog to 0.96 0 0
-22:15:44 | [COT] 76561197990717655: Set overcast to 0.96 0 0
-22:15:44 | [COT] 76561197990717655: Set the date to 2011/12/4 7:46
-22:15:44 | [COT] 76561197990717655: Set wind to 30 30 1
-22:15:44 | [COT] 76561197990717655: Set rain to 0.97 0 0
-22:15:44 | [COT] 76561197990717655: Set storm to 0.9409 0.8 4000
-22:15:44 | [COT] 76561197990717655: Set fog to 0.96 0 0
-22:15:44 | [COT] 76561197990717655: Set overcast to 0.96 0 0
-22:15:44 | [COT] 76561197990717655: Set the date to 2011/12/4 7:46
-22:15:44 | [COT] 76561197990717655: Set wind to 30 30 1
-22:16:44 | [Chat - Global]("Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)): hello
-22:18:59 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 05:14:49
-05:19:12 | Player "Survivor"(id=Unknown) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 05:21:24
-05:22:04 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-05:23:12 | [COT] 76561197990717655: Entered the Free Camera
-05:23:35 | [COT] 76561197990717655: Left the Free Camera
-05:23:39 | [COT] 76561197990717655: Entered the Free Camera
-05:23:43 | [COT] 76561197990717655: Left the Free Camera
-05:24:23 | [COT] 76561197990717655: Entered the Free Camera
-05:26:03 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7491.5, 7982.2, 77.9>)[HP: 0] hit by Player "Unknown/Dead Entity" (id=Unknown pos=<7478.2, 7488.1, 71.6>) into Torso(1) for 110 damage (Bullet_556x45) with M4-A1 from 494.388 meters 
-05:26:03 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7491.5, 7982.2, 77.9>) killed by Player "Unknown/Dead Entity" (id=Unknown pos=<7478.2, 7488.1, 71.6>) with M4-A1 from 494.388 meters 
-05:27:16 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-05:27:32 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-05:27:45 | [COT] 76561197990717655: Left the Free Camera
-05:27:47 | [COT] 76561197990717655: Entered the Free Camera
-05:28:38 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 08:32:26
-08:33:19 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-08:34:35 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 08:35:01
-08:35:43 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-08:36:44 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-08:37:37 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-08:38:23 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 08:38:24
-08:39:05 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-08:39:54 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 08:40:46
-08:41:40 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-08:42:57 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4963.6, 11275.6, 11.2>)[HP: 74.9761] hit by FallDamage
-08:45:45 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4835.4, 10861.5, 13.8>)[HP: 62.4443] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
-08:54:11 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 08:55:46
-08:57:42 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-08:58:39 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-09:01:41 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-09:02:59 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-09:03:06 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-09:04:02 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 09:04:06
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 09:04:34
-09:05:02 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 09:06:50
-09:08:29 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-09:09:12 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4835.4, 10851.2, 13.4>)[HP: 31.5315] hit by FallDamage
-09:11:07 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 09:14:24
-09:17:10 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-09:24:11 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4552.9, 10395, 8.4>) committed suicide
-09:24:11 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4552.9, 10395, 8.4>) died. Stats> Water: 4892.92 Energy: 6847.56 Bleed sources: 0
-09:26:26 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 09:31:38
-09:32:54 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-09:35:18 | [COT] 76561197990717655: Entered the Free Camera
-09:35:19 | [COT] 76561197990717655: Left the Free Camera
-09:35:26 | [COT] 76561197990717655: Entered the Free Camera
-09:35:50 | [COT] 76561197990717655: Left the Free Camera
-09:35:51 | [COT] 76561197990717655: Entered the Free Camera
-09:39:02 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 09:40:55
-09:41:30 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-09:42:41 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-07 at 09:54:25
-09:56:34 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-10:01:29 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-10:01:47 | [COT] 76561197990717655: Set rain to 0.9 0 0
-10:01:47 | [COT] 76561197990717655: Set storm to 0.81 0.8 4000
-10:01:47 | [COT] 76561197990717655: Set fog to 0 0 0
-10:01:47 | [COT] 76561197990717655: Set overcast to 0.96 0 0
-10:01:47 | [COT] 76561197990717655: Set the date to 2011/12/4 12:25
-10:01:47 | [COT] 76561197990717655: Set wind to 17.9244 17.9244 1
-10:02:15 | [COT] 76561197990717655: Set rain to 0.9 0 0
-10:02:15 | [COT] 76561197990717655: Set storm to 0.81 0.8 4000
-10:02:15 | [COT] 76561197990717655: Set fog to 0.83 0 0
-10:02:15 | [COT] 76561197990717655: Set overcast to 0.960568 0 0
-10:02:15 | [COT] 76561197990717655: Set the date to 2011/12/4 12:25
-10:02:15 | [COT] 76561197990717655: Set wind to 60 60 1
-10:02:27 | [COT] 76561197990717655: Set rain to 0.99 0 0
-10:02:27 | [COT] 76561197990717655: Set storm to 0.9801 0.8 4000
-10:02:27 | [COT] 76561197990717655: Set fog to 0.99 0 0
-10:02:27 | [COT] 76561197990717655: Set overcast to 0.98 0 0
-10:02:27 | [COT] 76561197990717655: Set the date to 2011/12/4 23:1
-10:02:27 | [COT] 76561197990717655: Set wind to 60 60 1
-10:07:54 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-07 at 10:16:00
+10:17:30 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+10:19:24 | [COT] 76561197990717655: Spawned Entity Flashlight (Flashlight<d49c480>, -1, 70) at <9037.352539, 9.087789, 10148.048828>
+10:19:34 | [COT] 76561197990717655: Spawned Entity 9V Battery (Battery9V<1471feb0>, 50, 20) at <9037.352539, 9.087789, 10148.048828>
+10:21:22 | [COT] 76561197990717655: Spawned Entity Heat Pack (Heatpack<14f21190>, -1, 30) at <9038.544922, 9.087242, 10147.942383>
+10:21:22 | [COT] 76561197990717655: Spawned Entity Heat Pack (Heatpack<14f1e6c0>, -1, 30) at <9038.544922, 9.087242, 10147.942383>
+10:21:23 | [COT] 76561197990717655: Spawned Entity Heat Pack (Heatpack<f560fc20>, -1, 30) at <9038.544922, 9.087242, 10147.942383>
+10:21:23 | [COT] 76561197990717655: Spawned Entity Heat Pack (Heatpack<f5618520>, -1, 30) at <9038.544922, 9.087242, 10147.942383>
+10:21:24 | [COT] 76561197990717655: Spawned Entity Heat Pack (Heatpack<f5618db0>, -1, 30) at <9038.544922, 9.087242, 10147.942383>
+10:22:57 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9040.9, 10219.4, 11.8>)[HP: 51.582] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
+10:23:04 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9038.0, 10218.5, 11.9>)[HP: 50.0746] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+10:23:06 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9039.3, 10217.6, 11.8>)[HP: 49.4146] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+10:23:09 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9039.2, 10217.6, 11.8>)[HP: 48.7546] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+10:23:12 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9038.6, 10219, 11.9>)[HP: 41.3436] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieFemale)
+10:23:15 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9039.6, 10219.1, 11.9>)[HP: 39.744] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+10:23:16 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9040.2, 10219.2, 11.8>)[HP: 38.994] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieFemale)
+10:23:18 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9039.9, 10219.5, 11.9>)[HP: 31.5809] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieFemale)
+10:23:21 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9039.5, 10218.8, 11.9>)[HP: 0] hit by Player "Unknown/Dead Entity" (id=Unknown pos=<9050.5, 10246.8, 12.7>) into Torso(1) for 110 damage (Bullet_762x39) with KA-M from 30.0765 meters 
+10:23:21 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<9039.5, 10218.8, 11.9>) killed by Player "Unknown/Dead Entity" (id=Unknown pos=<9050.5, 10246.8, 12.7>) with KA-M from 30.0765 meters 
+10:24:11 | [COT] 76561197990717655: ESP: ESP updating
+10:24:22 | [COT] 76561197990717655: Spawned Entity Tactical Gloves (TacticalGloves_Green<14b6fc80>, -1, 165) at <6651.541016, 7.662385, 11965.658203>
+10:24:34 | [COT] 76561197990717655: Spawned Entity Ushanka (Ushanka_Green<14b6aaf0>, -1, 50) at <6651.541016, 7.662385, 11965.658203>
+10:25:00 | [COT] 76561197990717655: Spawned Entity Ski Mask (BalaclavaMask_Blue<16b6f090>, -1, 100) at <6651.541016, 7.662385, 11965.658203>
+10:25:17 | [COT] 76561197990717655: Spawned Entity Hunter Pants (HunterPants_Winter<12b02df0>, -1, 150) at <6651.541016, 7.662385, 11965.658203>
+10:25:26 | [COT] 76561197990717655: Spawned Entity Hunter Jacket (HuntingJacket_Winter<12afc130>, -1, 150) at <6651.541016, 7.662385, 11965.658203>
+10:25:28 | [COT] 76561197990717655: Spawned Entity Hunter Vest (HuntingVest<d5b4b80>, -1, 130) at <6651.541016, 7.662385, 11965.658203>
+10:25:30 | [COT] 76561197990717655: Spawned Entity Hunter Backpack (HuntingBag<d5c5250>, -1, 160) at <6651.541016, 7.662385, 11965.658203>
+10:26:41 | [COT] 76561197990717655: Set rain to 0.96 0 0
+10:26:41 | [COT] 76561197990717655: Set storm to 0.9216 0.8 4000
+10:26:41 | [COT] 76561197990717655: Set fog to 0.97 0 0
+10:26:41 | [COT] 76561197990717655: Set overcast to 0.97 0 0
+10:26:41 | [COT] 76561197990717655: Set the date to 2011/12/5 1:16
+10:26:41 | [COT] 76561197990717655: Set wind to 58.6475 58.6475 1
+10:27:02 | [COT] 76561197990717655: Set rain to 0.96 0 0
+10:27:02 | [COT] 76561197990717655: Set storm to 0.9216 0.8 4000
+10:27:02 | [COT] 76561197990717655: Set fog to 0.98 0 0
+10:27:02 | [COT] 76561197990717655: Set overcast to 0.96679 0 0
+10:27:02 | [COT] 76561197990717655: Set the date to 2011/12/5 1:18
+10:27:02 | [COT] 76561197990717655: Set wind to 60 60 1
+10:27:03 | [COT] 76561197990717655: Set rain to 0.96 0 0
+10:27:03 | [COT] 76561197990717655: Set storm to 0.9216 0.8 4000
+10:27:03 | [COT] 76561197990717655: Set fog to 0.98 0 0
+10:27:03 | [COT] 76561197990717655: Set overcast to 0.96679 0 0
+10:27:03 | [COT] 76561197990717655: Set the date to 2011/12/5 1:18
+10:27:03 | [COT] 76561197990717655: Set wind to 60 60 1
+10:27:03 | [COT] 76561197990717655: Set rain to 0.96 0 0
+10:27:03 | [COT] 76561197990717655: Set storm to 0.9216 0.8 4000
+10:27:03 | [COT] 76561197990717655: Set fog to 0.98 0 0
+10:27:03 | [COT] 76561197990717655: Set overcast to 0.96679 0 0
+10:27:03 | [COT] 76561197990717655: Set the date to 2011/12/5 1:18
+10:27:03 | [COT] 76561197990717655: Set wind to 60 60 1
+10:27:23 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected

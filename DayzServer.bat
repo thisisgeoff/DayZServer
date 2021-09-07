@@ -13,7 +13,7 @@ set serverProfile=config
 ::Logical CPU cores to use (Equal or less than available)
 set serverCPU=4
 ::mods (@modName;@anotherModname;@mod)
-set mods=@CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Forced First Person Combat;
+set mods=@CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Forced First Person Combat;@StaminaSettings;@AdditionalFrozenFoodNamalsk;@Increased Lumens;
 ::Sets title for terminal (DONT edit)
 title %serverName% batch
 ::DayZServer location (DONT edit)

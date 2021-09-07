@@ -1,10 +1,10 @@
 ---------------------------------------------
-Log E:\Games\SteamLibrary\steamapps\common\DayZServer\config\crash_2021-09-07_08-55-49.log started at 07.09. 08:55:54
+Log E:\Games\SteamLibrary\steamapps\common\DayZServer\config\crash_2021-09-07_10-16-02.log started at 07.09. 10:16:08
 
 
 
 ------------------------------------
-DESKTOP-C08CB54, 07.09 2021 08:55:54
+DESKTOP-C08CB54, 07.09 2021 10:16:08
 
 JSON ERROR:
 Invalid value.
@@ -25,4 +25,4 @@ DayZExpansion/Core/3_Game/dayzexpansion_core\settings\expansionsettings.c:352
 DayZExpansion/Scripts/4_World/dayzexpansion\entities\houses\buildingbase.c:38
 
 Runtime mode
-CLI params: config serverDZ.cfg mod @CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed; port 2302 profiles config cpuCount 4 dologs  adminlog  netlog  freezecheck  
+CLI params: config serverDZ.cfg mod @CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Forced First Person Combat;@StaminaSettings;@AdditionalFrozenFoodNamalsk;@Increased Lumens; port 2302 profiles config cpuCount 4 dologs  adminlog  netlog  freezecheck  
