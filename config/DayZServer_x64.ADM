@@ -53,3 +53,36 @@ AdminLog started on 2021-09-07 at 10:16:00
 10:27:03 | [COT] 76561197990717655: Set the date to 2011/12/5 1:18
 10:27:03 | [COT] 76561197990717655: Set wind to 60 60 1
 10:27:23 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+10:43:31 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+10:44:29 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+10:44:43 | [COT] 76561197990717655: Spawned vehicle [NOT READY]  ADA (Vehicle_OffroadHatchback) at <6553.763184, 11.963218, 11906.926758>
+10:44:56 | [COT] 76561197990717655: Spawned vehicle Gyrocopter (ExpansionGyrocopter) at <6553.760254, 11.964281, 11906.923828>
+10:45:37 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<6548.0, 11925.9, 11.3>) died. Stats> Water: 481.061 Energy: 357.429 Bleed sources: 0
+10:46:07 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+10:46:18 | [COT] 76561197990717655: Set rain to 0.251969 0 0
+10:46:18 | [COT] 76561197990717655: Set storm to 0.0634881 0.8 4000
+10:46:18 | [COT] 76561197990717655: Set fog to 0.5 0 0
+10:46:18 | [COT] 76561197990717655: Set overcast to 0.748031 0 0
+10:46:18 | [COT] 76561197990717655: Set the date to 2011/12/5 11:16
+10:46:18 | [COT] 76561197990717655: Set wind to 0.075 0.075 1
+10:46:44 | [COT] 76561197990717655: Spawned vehicle UH-1H (ExpansionUh1h) at <4785.298828, 8.916416, 11200.458984>
+10:48:29 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4724.2, 11053.1, 16.2>)[HP: 0] hit by Player "Unknown/Dead Entity" (id=Unknown pos=<4744.3, 10929, 19.4>) into Torso(1) for 110 damage (Bullet_762x39) with KA-M from 125.741 meters 
+10:48:29 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4724.2, 11053.1, 16.2>) killed by Player "Unknown/Dead Entity" (id=Unknown pos=<4744.3, 10929, 19.4>) with KA-M from 125.741 meters 
+10:49:50 | [COT] 76561197990717655: Spawned vehicle Gyrocopter (ExpansionGyrocopter) at <6805.707031, 10.053196, 11934.813477>
+10:51:46 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5977.8, 11100.6, 52.0>)[HP: 0] hit by FallDamage
+10:51:46 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5977.8, 11100.6, 52.0>) died. Stats> Water: 496.396 Energy: 469.689 Bleed sources: 0
+10:52:31 | [COT] 76561197990717655: Item set Expansion Market Money spawned on <8986.146484, 2.867139, 10480.291016>
+10:52:50 | [COT] 76561197990717655: Set rain to 0.01 0 0
+10:52:50 | [COT] 76561197990717655: Set storm to 0.0001 0.8 4000
+10:52:50 | [COT] 76561197990717655: Set fog to 0.01 0 0
+10:52:50 | [COT] 76561197990717655: Set overcast to 0 0 0
+10:52:50 | [COT] 76561197990717655: Set the date to 2011/12/5 11:28
+10:52:50 | [COT] 76561197990717655: Set wind to 2.85913 2.85913 1
+10:52:53 | [COT] 76561197990717655: Set rain to 0.01 0 0
+10:52:53 | [COT] 76561197990717655: Set storm to 0.0001 0.8 4000
+10:52:53 | [COT] 76561197990717655: Set fog to 0.01 0 0
+10:52:53 | [COT] 76561197990717655: Set overcast to 0 0 0
+10:52:53 | [COT] 76561197990717655: Set the date to 2011/12/5 11:28
+10:52:53 | [COT] 76561197990717655: Set wind to 0.02 0.02 1
+10:53:14 | [COT] 76561197990717655: Item set Fence Metal spawned on <8980.880859, 3.377532, 10483.404297>
+10:54:53 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected

@@ -1143,3 +1143,6 @@ mpmissions/dayzOffline.enoch/mapgroupproto.xml
 @StaminaSettings/Addons/StaminaSettings.pbo.mangokrill.bisign
 @StaminaSettings/Keys/mangokrill.bikey
 @StaminaSettings/meta.cpp
+*.RPT
+*.bin
+*.bin

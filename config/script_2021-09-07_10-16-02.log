@@ -514,3 +514,782 @@ SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
 SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1127.01 (sec), end: 600 (sec)
 SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
 SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 702 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1127.01
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1056.1 (sec), end: 100 (sec), TempDrop: -8.06366 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 732 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1056.1
+SCRIPT       : LOAD checksum:-1995782263
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 10:44:05.941 [EXPANSION DEBUG]: ExpansionPartyModule<bca7ca80>::OnInvokeConnect AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : 10:44:05.941 [EXPANSION DEBUG]: ExpansionMonitorModule::AddPlayerStats - Add player stats for with ID: AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : 10:44:05.941 [EXPANSION DEBUG]: ExpansionMonitorModule::AddPlayerStats - Add player states for player with ID: AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : Spawning patrol at <7736.240234, 34.470001, 11101.099609>
+SCRIPT       : HumanLoadout: $profile:eAI/HunterLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<697d8b60> Going to WP 1
+SCRIPT       : [Vehicle_OffroadHatchback<56efc6b0>] ExpansionVehicleBase WAS SPAWNED - NOT READY FOR PRODUCTION - ARMA 4
+SCRIPT       : [Vehicle_OffroadHatchback<56efc6b0>] CreateDynamic m_IsPhysicsHost=true physLayer=32 interactLayer=32
+SCRIPT       : Vehicle_OffroadHatchback<56efc6b0> state changed to 1 from -1
+SCRIPT       : ExpansionNetSyncDebugObject
+SCRIPT       : Vehicle_OffroadHatchback<56efc6b0> state changed to 0 from 1
+SCRIPT       : 10:45:00.175 [EXPANSION DEBUG]: ExpansionGyrocopter (pos=<6553.813477, 12.193178, 11906.961914>) CarScript::EEOnSimulate - CanSimulate true
+SCRIPT    (E): Division by zero
+Class:      'ExpansionGyrocopter'
+Entity id:258110
+
+Function: 'OnSimulation'
+Stack trace:
+DayZExpansion/Vehicles/Scripts/4_World/dayzexpansion_vehicles\entities\vehicles\deprecated\expansionhelicopterscript.c:1195
+DayZExpansion/Vehicles/Scripts/4_World/dayzexpansion_vehicles\entities\vehicles\carscript.c:2146
+SCRIPT       : 10:45:01.171 [EXPANSION DEBUG]: ExpansionGyrocopter (pos=<6553.815918, 11.968371, 11906.974609>) CarScript::EEOnSimulate - CanSimulate false
+SCRIPT       : [action] SurvivorM_Peter:03 started ActionGetInTransport<7287c960> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : 10:45:23.796 [EXPANSION DEBUG]: ExpansionGyrocopter (pos=<6555.046387, 11.686704, 11907.113281>) CarScript::EEOnSimulate - CanSimulate true
+SCRIPT       : eAI eAIGroup<697d8b60> Going to WP 2
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : SurvivorM_Peter:03 STS=2999 event EEKilled, player has died at STS=2999
+SCRIPT       : EEKilled - processing corpse
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Green
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Green
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Green
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Green
+SCRIPT       : 10:45:59.042 [EXPANSION DEBUG]: ExpansionPartyModule<bca7ca80>::OnInvokeConnect AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : 10:45:59.042 [EXPANSION DEBUG]: ExpansionMonitorModule::AddPlayerStats - Add player stats for with ID: AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : 10:45:59.042 [EXPANSION DEBUG]: ExpansionMonitorModule::AddPlayerStats - Add player states for player with ID: AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : eAI eAIGroup<697d8b60> Going to WP 3
+SCRIPT       : Deleted patrol at <7736.240234, 34.470001, 11101.099609>
+SCRIPT       : Spawning patrol at <4492.009766, 3.430000, 10429.700195>
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : 10:46:06.195 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - Start
+SCRIPT       : 10:46:06.195 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - End
+SCRIPT       : 10:46:06.195 [EXPANSION LOG]: Compass::OnInventoryEnter - Start
+SCRIPT       : 10:46:06.195 [EXPANSION LOG]: Compass::OnInventoryEnter - End
+SCRIPT       : eAI eAIGroup<61995430> Going to WP 1
+SCRIPT       : Spawning patrol at <5305.600098, 40.849998, 10803.599609>
+SCRIPT       : HumanLoadout: $profile:eAI/HunterLoadout.json exists, loading!
+SCRIPT       : HumanLoadout: $profile:eAI/HunterLoadout.json exists, loading!
+SCRIPT       : HumanLoadout: $profile:eAI/HunterLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<61999bf0> Going to WP 1
+SCRIPT       : eAI eAIGroup<61995430> Going to WP 2
+SCRIPT       : 10:46:47.843 [EXPANSION DEBUG]: ExpansionUh1h (pos=<4784.982422, 11.914044, 11200.727539>) CarScript::EEOnSimulate - CanSimulate true
+SCRIPT       : 10:46:47.871 [EXPANSION DEBUG]: ExpansionUh1h (pos=<4784.982422, 11.914044, 11200.727539>) CarScript::EEOnSimulate - CanSimulate false
+SCRIPT       : [action] SurvivorM_Hassan:04 started ActionGetInTransport<7287c960> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : eAI eAIGroup<61995430> Going to WP 3
+SCRIPT       : 10:47:05.269 [EXPANSION DEBUG]: ExpansionUh1h (pos=<4784.963867, 11.881914, 11200.726563>) CarScript::EEOnSimulate - CanSimulate true
+SCRIPT       : Spawning patrol at <6307.700195, 14.400000, 11810.599609>
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : 10:47:34.558 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - Start
+SCRIPT       : 10:47:34.558 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - End
+SCRIPT       : 10:47:34.558 [EXPANSION LOG]: Compass::OnInventoryEnter - Start
+SCRIPT       : 10:47:34.558 [EXPANSION LOG]: Compass::OnInventoryEnter - End
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : 10:47:34.578 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - Start
+SCRIPT       : 10:47:34.578 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - End
+SCRIPT       : 10:47:34.578 [EXPANSION LOG]: Compass::OnInventoryEnter - Start
+SCRIPT       : 10:47:34.578 [EXPANSION LOG]: Compass::OnInventoryEnter - End
+SCRIPT       : eAI eAIGroup<61ce48f0> Going to WP 1
+SCRIPT       : eAI eAIGroup<61ce48f0> Going to WP 2
+SCRIPT       : Spawning patrol at <4752.819824, 16.230000, 10793.000000>
+SCRIPT       : HumanLoadout: $profile:eAI/SoldierLoadout.json exists, loading!
+SCRIPT       : HumanLoadout: $profile:eAI/SoldierLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<2cafaaa0> Going to WP 1
+SCRIPT       : eAI eAIGroup<61999bf0> Going to WP 2
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : Spawning patrol at <5301.819824, 58.869999, 9602.389648>
+SCRIPT       : HumanLoadout: $profile:eAI/SoldierLoadout.json exists, loading!
+SCRIPT       : HumanLoadout: $profile:eAI/SoldierLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<2cb06d50> Going to WP 1
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : SAVE CHECKSUM:-1995782263
+SCRIPT       : eAI eAIGroup<61995430> Going to WP 4
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : Spawning patrol at <5028.910156, 7.420000, 11359.500000>
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : 10:48:04.957 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - Start
+SCRIPT       : 10:48:04.957 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - End
+SCRIPT       : 10:48:04.957 [EXPANSION LOG]: Compass::OnInventoryEnter - Start
+SCRIPT       : 10:48:04.957 [EXPANSION LOG]: Compass::OnInventoryEnter - End
+SCRIPT       : eAI eAIGroup<697cd090> Going to WP 1
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI eAIGroup<2cafaaa0> Going to WP 2
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI eAIGroup<61999bf0> Going to WP 3
+SCRIPT       : name: Raiders
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-09-07 10:48:29] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerHitBy() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 114
+SCRIPT    (E):    PlayerHitBy() eAI/Scripts/4_World/eai\classes\eaipluginadminlog.c : 4
+SCRIPT    (E):    EEHitBy() scripts/4_World/entities\manbase\playerbase.c : 738
+SCRIPT    (E):    EEHitBy() eAI/Scripts/4_World/eai\entities\eaibase.c : 261
+SCRIPT    (E):    EEHitBy() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 138
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : SurvivorM_Hassan:04 STS=5622 event EEKilled, player has died at STS=5622
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2021-09-07 10:48:29] ASSERTION NULL: Player has no identity or improperly programmed AI mod
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    Assert_Log() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 289
+SCRIPT    (E):    Assert_Null() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 315
+SCRIPT    (E):    FormatSteamWebhook() JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c : 199
+SCRIPT    (E):    PlayerKilled() JM/COT/Scripts/4_World/communityonlinetools\plugins\pluginadminlog.c : 64
+SCRIPT    (E):    PlayerKilled() eAI/Scripts/4_World/eai\classes\eaipluginadminlog.c : 9
+SCRIPT    (E):    PlayerKilled() DayZExpansion/Scripts/4_World/dayzexpansion\classes\pluginbase\pluginadminlog.c : 26
+SCRIPT    (E):    EEKilled() scripts/4_World/entities\manbase\playerbase.c : 686
+SCRIPT    (E):    EEKilled() nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c : 374
+SCRIPT    (E):    EEKilled() DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c : 117
+SCRIPT    (E):    -----------------
+SCRIPT       : ============================================================================================================
+SCRIPT       : EEKilled - processing corpse
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : eAI eAIGroup<697cd090> Going to WP 2
+SCRIPT       : eAI eAIGroup<61995430> Going to WP 5
+SCRIPT       : eAI eAIGroup<61ce48f0> Going to WP 3
+SCRIPT       : 10:48:51.648 [EXPANSION LOG]: Compass::OnInventoryExit - Start
+SCRIPT       : 10:48:51.648 [EXPANSION LOG]: Compass::OnInventoryExit - End
+SCRIPT       : 10:48:51.648 [EXPANSION LOG]: Compass::OnInventoryExit - Start
+SCRIPT       : 10:48:51.648 [EXPANSION LOG]: Compass::OnInventoryExit - End
+SCRIPT       : Deleted patrol at <6307.700195, 14.400000, 11810.599609>
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Black
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Black
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Black
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Blue
+SCRIPT       : 10:49:00.855 [EXPANSION DEBUG]: ExpansionPartyModule<bca7ca80>::OnInvokeConnect AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : 10:49:00.855 [EXPANSION DEBUG]: ExpansionMonitorModule::AddPlayerStats - Add player stats for with ID: AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : 10:49:00.855 [EXPANSION DEBUG]: ExpansionMonitorModule::AddPlayerStats - Add player states for player with ID: AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : eAI eAIGroup<2cb06d50> Going to WP 2
+SCRIPT       : eAI eAIGroup<2cafaaa0> Going to WP 3
+SCRIPT       : Spawning patrol at <7736.240234, 34.470001, 11101.099609>
+SCRIPT       : HumanLoadout: $profile:eAI/HunterLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<697dc050> Going to WP 1
+SCRIPT       : Deleted patrol at <5301.819824, 58.869999, 9602.389648>
+SCRIPT       : eAI eAIGroup<697cd090> Going to WP 3
+SCRIPT       : Spawning patrol at <6307.700195, 14.400000, 11810.599609>
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : 10:49:06.988 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - Start
+SCRIPT       : 10:49:06.988 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - End
+SCRIPT       : 10:49:06.988 [EXPANSION LOG]: Compass::OnInventoryEnter - Start
+SCRIPT       : 10:49:06.988 [EXPANSION LOG]: Compass::OnInventoryEnter - End
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<697e00a0> Going to WP 1
+SCRIPT       : eAI eAIGroup<697e00a0> Going to WP 2
+SCRIPT       : 10:49:07.476 [EXPANSION LOG]: Compass::OnInventoryExit - Start
+SCRIPT       : 10:49:07.476 [EXPANSION LOG]: Compass::OnInventoryExit - End
+SCRIPT       : Deleted patrol at <5028.910156, 7.420000, 11359.500000>
+SCRIPT       : Deleted patrol at <4752.819824, 16.230000, 10793.000000>
+SCRIPT       : 10:49:12.464 [EXPANSION LOG]: Compass::OnInventoryExit - Start
+SCRIPT       : 10:49:12.464 [EXPANSION LOG]: Compass::OnInventoryExit - End
+SCRIPT       : Deleted patrol at <4492.009766, 3.430000, 10429.700195>
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : 10:49:53.996 [EXPANSION DEBUG]: ExpansionGyrocopter (pos=<6805.710938, 10.290906, 11934.819336>) CarScript::EEOnSimulate - CanSimulate true
+SCRIPT       : 10:49:54.019 [EXPANSION DEBUG]: ExpansionGyrocopter (pos=<6805.710938, 10.290906, 11934.819336>) CarScript::EEOnSimulate - CanSimulate false
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : [action] SurvivorM_Peter:08 started ActionGetInTransport<7287c960> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : SAVE CHECKSUM:-1995782263
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : 10:50:14.593 [EXPANSION DEBUG]: ExpansionGyrocopter (pos=<6805.710938, 10.059464, 11934.820313>) CarScript::EEOnSimulate - CanSimulate true
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI eAIGroup<697dc050> Going to WP 2
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : Spawning patrol at <6802.859863, 15.010000, 11660.400391>
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : 10:50:45.601 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - Start
+SCRIPT       : 10:50:45.601 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - End
+SCRIPT       : 10:50:45.601 [EXPANSION LOG]: Compass::OnInventoryEnter - Start
+SCRIPT       : 10:50:45.601 [EXPANSION LOG]: Compass::OnInventoryEnter - End
+SCRIPT       : 10:50:45.605 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - Start
+SCRIPT       : 10:50:45.605 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - End
+SCRIPT       : 10:50:45.605 [EXPANSION LOG]: Compass::OnInventoryEnter - Start
+SCRIPT       : 10:50:45.605 [EXPANSION LOG]: Compass::OnInventoryEnter - End
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<6198dd30> Going to WP 1
+SCRIPT       : eAI eAIGroup<697dc050> Going to WP 3
+SCRIPT       : Deleted patrol at <7736.240234, 34.470001, 11101.099609>
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : Spawning patrol at <5028.910156, 7.420000, 11359.500000>
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<61bd09b0> Going to WP 1
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI eAIGroup<61999bf0> Going to WP 2
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : Spawning patrol at <4752.819824, 16.230000, 10793.000000>
+SCRIPT       : HumanLoadout: $profile:eAI/SoldierLoadout.json exists, loading!
+SCRIPT       : HumanLoadout: $profile:eAI/SoldierLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<697ce050> Going to WP 1
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : eAI eAIGroup<61bd09b0> Going to WP 2
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : [action] SurvivorM_Peter:08 started ActionGetOutTransport<7287ca80> item=null
+SCRIPT       : name: Raiders
+SCRIPT       : eAI eAIGroup<6198dd30> Going to WP 2
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : name: Raiders
+SCRIPT       : SurvivorM_Peter:08 STS=6100 event EEKilled, player has died at STS=6100
+SCRIPT       : EEKilled - processing corpse
+SCRIPT       : eAI eAIGroup<6198dd30> Going to WP 3
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Black
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Black
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TShirt_Black
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Blue
+SCRIPT       : ExpansionItemSpawnHelper::SpawnInInventorySecure - parent: TaloonBag_Blue
+SCRIPT       : 10:52:08.628 [EXPANSION DEBUG]: ExpansionPartyModule<bca7ca80>::OnInvokeConnect AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : 10:52:08.628 [EXPANSION DEBUG]: ExpansionMonitorModule::AddPlayerStats - Add player stats for with ID: AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : 10:52:08.628 [EXPANSION DEBUG]: ExpansionMonitorModule::AddPlayerStats - Add player states for player with ID: AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=
+SCRIPT       : Spawning patrol at <7736.240234, 34.470001, 11101.099609>
+SCRIPT       : HumanLoadout: $profile:eAI/HunterLoadout.json exists, loading!
+SCRIPT       : eAI eAIGroup<6198e970> Going to WP 1
+SCRIPT       : 10:52:12.859 [EXPANSION LOG]: Compass::OnInventoryExit - Start
+SCRIPT       : 10:52:12.859 [EXPANSION LOG]: Compass::OnInventoryExit - End
+SCRIPT       : Deleted patrol at <6307.700195, 14.400000, 11810.599609>
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 574 seconds
+SCRIPT       : eAI eAIGroup<697ce050> Going to WP 2
+SCRIPT       : eAI eAIGroup<61bd09b0> Going to WP 3
+SCRIPT       : Deleted patrol at <5028.910156, 7.420000, 11359.500000>
+SCRIPT       : Deleted patrol at <4752.819824, 16.230000, 10793.000000>
+SCRIPT       : Spawning patrol at <8510.709961, 24.930000, 11206.700195>
+SCRIPT       : HumanLoadout: $profile:eAI/CoastLoadout.json exists, loading!
+SCRIPT       : 10:52:16.554 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - Start
+SCRIPT       : 10:52:16.554 [EXPANSION LOG]: ChernarusMap::EEInventoryIn - End
+SCRIPT       : 10:52:16.554 [EXPANSION LOG]: Compass::OnInventoryEnter - Start
+SCRIPT       : 10:52:16.554 [EXPANSION LOG]: Compass::OnInventoryEnter - End
+SCRIPT       : eAI eAIGroup<697d9810> Going to WP 1
+SCRIPT       : 10:52:18.554 [EXPANSION LOG]: Compass::OnInventoryExit - Start
+SCRIPT       : 10:52:18.554 [EXPANSION LOG]: Compass::OnInventoryExit - End
+SCRIPT       : 10:52:18.554 [EXPANSION LOG]: Compass::OnInventoryExit - Start
+SCRIPT       : 10:52:18.554 [EXPANSION LOG]: Compass::OnInventoryExit - End
+SCRIPT       : Deleted patrol at <6802.859863, 15.010000, 11660.400391>
+SCRIPT       : Deleted patrol at <5305.600098, 40.849998, 10803.599609>
+SCRIPT       : SAVE CHECKSUM:-1995782263
+SCRIPT       : eAI eAIGroup<697d9810> Going to WP 2
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : eAI: Debug menu request
+SCRIPT       : Access denied to 76561197990717655 (Survivor)
+SCRIPT       : eAI eAIGroup<6198e970> Going to WP 2
+SCRIPT       : eAI eAIGroup<697d9810> Going to WP 3
+SCRIPT       : eAI eAIGroup<6198e970> Going to WP 3
+SCRIPT       : eAI eAIGroup<6198e970> Going to WP 4
+SCRIPT       : SAVE CHECKSUM:-1995782263
+SCRIPT       : [Logout]: New player AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= with logout time 15
+SCRIPT       : [emote] SurvivorF_Frida:017 play emote id=14 IH=FenceKit:04630
+SCRIPT       : eAI eAIGroup<6198e970> Going to WP 5
+SCRIPT       : eAI eAIGroup<697d9810> Going to WP 4
+SCRIPT       : [Logout]: Player AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= finished
+SCRIPT       : SAVE CHECKSUM:-1995782263
+SCRIPT       : Deleted patrol at <7736.240234, 34.470001, 11101.099609>
+SCRIPT       : 10:55:06.933 [EXPANSION LOG]: Compass::OnInventoryExit - Start
+SCRIPT       : 10:55:06.933 [EXPANSION LOG]: Compass::OnInventoryExit - End
+SCRIPT       : Deleted patrol at <8510.709961, 24.930000, 11206.700195>
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 725 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 987 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1021.81
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 597 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1124.12 (sec), end: 100 (sec), TempDrop: -8.99466 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 653 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1124.12
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 755 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 925.242
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 617 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1019.28 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 693 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1019.28
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1000.37 (sec), end: 100 (sec), TempDrop: -14.1884 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 889 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1000.37
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 874 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 866.955 (sec), end: 600 (sec), TempDrop: -14.7158 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 979 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 866.955
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 589 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 575 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 541.539
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start HeavyFog as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 935 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 914.603 (sec), end: 100 (sec), TempDrop: -12.6199 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 773 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 914.603
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 995.63 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 580 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Snowfall...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 772 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 995.63
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 721 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 668 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event EVRStorm as it is on cooldown for 1308 more seconds
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 756 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 984.634 (sec), end: 600 (sec), TempDrop: -12.5264 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 810 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 984.634
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 933 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 862 seconds
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 869.198 (sec), end: 600 (sec), TempDrop: -14.7634 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 925 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 869.198
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 594 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1062.97
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 605 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 825.083 (sec), end: 600 (sec), TempDrop: -18.5139 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 636 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 825.083
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 807 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 903.36
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 778 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 976.119 (sec), end: 600 (sec), TempDrop: -13.756 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 821 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 976.119
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Blizzard...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 889 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Blizzard as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 882 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 610 seconds
+SCRIPT       : ~DayZGame()
+SCRIPT    (E): NULL pointer to instance
+Class:      'Vehicle_OffroadHatchback'
+Entity id:257605
+
+Function: '~ExpansionVehicleBase'
+Stack trace:
+DayZExpansion/Vehicles/Scripts/4_World/dayzexpansion_vehicles\entities\vehicles\expansionvehiclebase.c:550
+SCRIPT       : ~ExpansionNetSyncDebugObject

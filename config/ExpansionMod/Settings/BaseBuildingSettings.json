@@ -53,7 +53,7 @@
                 26.0,
                 9521.0
             ],
-            "Radius": 4000.0,
+            "Radius": 4.0,
             "Items": [],
             "IsWhitelist": 1,
             "CustomMessage": ""
@@ -65,7 +65,7 @@
                 29.0,
                 10515.0
             ],
-            "Radius": 2000.0,
+            "Radius": 2.0,
             "Items": [],
             "IsWhitelist": 1,
             "CustomMessage": ""
@@ -77,7 +77,7 @@
                 10.0,
                 7593.4501953125
             ],
-            "Radius": 2000.0,
+            "Radius": 2.0,
             "Items": [],
             "IsWhitelist": 1,
             "CustomMessage": ""

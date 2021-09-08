@@ -26,3 +26,32 @@ DayZExpansion/Scripts/4_World/dayzexpansion\entities\houses\buildingbase.c:38
 
 Runtime mode
 CLI params: config serverDZ.cfg mod @CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Forced First Person Combat;@StaminaSettings;@AdditionalFrozenFoodNamalsk;@Increased Lumens; port 2302 profiles config cpuCount 4 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+DESKTOP-C08CB54, 07.09 2021 10:44:56
+Division by zero
+Class:      'ExpansionGyrocopter'
+Entity id:258110
+
+Function: 'OnSimulation'
+Stack trace:
+DayZExpansion/Vehicles/Scripts/4_World/dayzexpansion_vehicles\entities\vehicles\deprecated\expansionhelicopterscript.c:1195
+DayZExpansion/Vehicles/Scripts/4_World/dayzexpansion_vehicles\entities\vehicles\carscript.c:2146
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Forced First Person Combat;@StaminaSettings;@AdditionalFrozenFoodNamalsk;@Increased Lumens; port 2302 profiles config cpuCount 4 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+DESKTOP-C08CB54, 07.09 2021 17:41:25
+NULL pointer to instance
+Class:      'Vehicle_OffroadHatchback'
+Entity id:257605
+
+Function: '~ExpansionVehicleBase'
+Stack trace:
+DayZExpansion/Vehicles/Scripts/4_World/dayzexpansion_vehicles\entities\vehicles\expansionvehiclebase.c:550
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @CF;@eAI;@Namalsk Island;@Namalsk Survival;@Community-Online-Tools;@Dabs Framework;@SkyZ - Skybox Overhaul;@sVisual;@sGunplay;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Forced First Person Combat;@StaminaSettings;@AdditionalFrozenFoodNamalsk;@Increased Lumens; port 2302 profiles config cpuCount 4 dologs  adminlog  netlog  freezecheck  
