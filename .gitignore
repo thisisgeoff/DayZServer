@@ -1146,3 +1146,154 @@ mpmissions/dayzOffline.enoch/mapgroupproto.xml
 *.RPT
 *.bin
 *.bin
+*.pbo
+*.bisign
+*.bikey
+@BadgerBuildings/meta.cpp
+@BadgerBuildings/Tutorial/custom_billboards/billboards/$PBOPREFIX$
+@BadgerBuildings/Tutorial/custom_billboards/billboards/$PBOPREFIX$.txt
+@BadgerBuildings/Tutorial/custom_billboards/billboards/config.cpp
+@BadgerBuildings/Tutorial/custom_billboards/billboards/data/billboard_2020_co.paa
+@BadgerBuildings/Tutorial/custom_billboards/billboards/data/billboard_back_co.paa
+@BadgerBuildings/Tutorial/custom_billboards/billboards/data/billboard_custom1_co.paa
+@BadgerBuildings/Tutorial/custom_billboards/billboards/data/billboard_custom2_co.paa
+@BadgerBuildings/Tutorial/custom_billboards/billboards/data/billboard_entering_co.paa
+@BadgerBuildings/Tutorial/custom_billboards/billboards/data/billboard_front_co.paa
+@BadgerBuildings/Tutorial/custom_billboards/billboards/data/billboard_leaving_co.paa
+@BadgerBuildings/Tutorial/How To.txt
+@BetterClutterCutters/meta.cpp
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Abandoned_Church.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Abandoned_Sattelite_Antenna.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Gazebo.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Gazebo1.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Lighthouse.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Old_Willage_House.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Sewer(ext).jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Sewer(int).jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Sotovaya_vyshka.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_TrashBridge.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Tubes_Underground.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Buildings/SV_Warehouse.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Bulldozer.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_CrashedMi24.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Autobus.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_AZLK.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Kamaz1.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Kamaz2.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Kamaz3.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_PAZ672.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Tractor.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_VAZ2109.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_ZAZ.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_ZIL130.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_Bunker_Door.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_Corpse.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_Corpse1.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_Corpse2.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_Deadhead.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_Door.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_GoatHead.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_Ladder_Short.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack/Others/SV_Skeleton.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/AbandonedBuildings/SV_Abandoned_HighFloorBuilding.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/AbandonedBuildings/SV_Abandoned_HighFloorBuilding2.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/Buildings/SV_Abandoned_Warehouse.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/Buildings/SV_Factory.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/Buildings/SV_FootBridge.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/Buildings/SV_MilitaryTunnel.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/Other objects/SV_Boxes.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/Other objects/SV_LabMetalCage.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/Other objects/SV_Steel_Fence_Gates.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/RuinedBuildings/SV_Ruined_Building.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/RuinedBuildings/SV_Ruined_Chram.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack2/RuinedBuildings/SV_RuinedHome.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_AbandonedMine.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_Barn.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_CowShed.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_CowShed_Bucket.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_CowShed_Fork.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_CowShed_MilkJugOpen.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_CowShed_Stool.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_CowShed_Wheelbarrow.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_Garage.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack3/SV_Home.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack4/SV_Abandoned_Factory.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack4/SV_GuardTower4floor.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack4/SV_Mausoleum.jpg
+@BuildingsMegaModPack/Images/@BuildingsModPack4/SV_RadioTelescope.jpg
+@BuildingsMegaModPack/Level19 Objects/Server_mpmissions_Folder/init.c
+@BuildingsMegaModPack/Level19 Objects/Server_mpmissions_Folder/Level19.c
+@BuildingsMegaModPack/Level19 Objects/Server_mpmissions_Folder/mapgrouppos.xml
+@BuildingsMegaModPack/Level19 Objects/Server_mpmissions_Folder/mapgroupproto.xml
+@BuildingsMegaModPack/meta.cpp
+@BuildingsMegaModPack/Names of all Objects.txt
+@BuildingsMegaModPack/README_PLEASE.txt
+@BuildLoader/meta.cpp
+@BuildLoader/README.txt
+@DayZ Editor Loader/meta.cpp
+@DayZ Editor Loader/mod.cpp
+@Fog mist smoke particles/classnames/Classnames.txt
+@Fog mist smoke particles/classnames/types.xml
+@Fog mist smoke particles/Images/Smokeall1.png
+@Fog mist smoke particles/Images/Volcanoparticle.png
+@Fog mist smoke particles/Images/VolcanoParticle2png.png
+@Fog mist smoke particles/meta.cpp
+@Forever_Lights_and_Campfires/FBF_Config/FBFConfig.json
+@Forever_Lights_and_Campfires/meta.cpp
+@Forever_Lights_and_Campfires/Types/types.xml
+@Mists (Atmosphere)/meta.cpp
+@ParticlePointsPlacement/meta.cpp
+@ParticlePointsPlacement/mod.cpp
+@ZStuff/Images/Highway Culverts/SV_ZConcrete_Pipe.jpg
+@ZStuff/Images/Highway Culverts/SV_ZCulvert_A.jpg
+@ZStuff/Images/Highway Culverts/SV_ZCulvert_B.jpg
+@ZStuff/Images/Highway Culverts/SV_ZCulvert_C.jpg
+@ZStuff/Images/Highway Culverts/SV_ZCulvert_tunnel.jpg
+@ZStuff/Images/Highway Culverts/SV_ZGroundplane_slope_A.jpg
+@ZStuff/Images/Highway Culverts/SV_ZMetal_grate_round.jpg
+@ZStuff/Images/Highway Culverts/SV_ZMetal_grate_round_damaged.jpg
+@ZStuff/Images/Highway Culverts/SV_ZMetal_grate_square.jpg
+@ZStuff/Images/Highway Culverts/SV_ZMetal_pipe.jpg
+@ZStuff/Images/Outpost/OutpostComplete.jpg
+@ZStuff/Images/Outpost/OutpostModules.jpg
+@ZStuff/Images/Outpost/SV_ZRadioStation.jpg
+@ZStuff/Images/Survivors Wall And Outpost/Buildings.jpg
+@ZStuff/Images/Survivors Wall And Outpost/Catwalks.jpg
+@ZStuff/Images/Survivors Wall And Outpost/Pillars.jpg
+@ZStuff/Images/Survivors Wall And Outpost/Ruined.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWire2X.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWireFence.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWireX01.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWireX02.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWireX03.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAOCommAntenna.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAODike.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAOPole1.jpg
+@ZStuff/Images/Survivors Wall And Outpost/SV_ZSWAOPole2.jpg
+@ZStuff/Images/Survivors Wall And Outpost/Walls.jpg
+@ZStuff/Images/Survivors Wall And Outpost/Watchtowers.jpg
+@ZStuff/Images/SV_UOverpass (1 img).jpg
+@ZStuff/Images/SV_UOverpass (2 img).jpg
+@ZStuff/Images/SV_ZDumpster.jpg
+@ZStuff/Images/SV_ZGuardTowerDer.jpg
+@ZStuff/Images/SV_ZGuardTowerMet.jpg
+@ZStuff/Images/SV_ZGuardTowerSand.jpg
+@ZStuff/Images/SV_ZGunShop.jpg
+@ZStuff/Images/SV_ZOutpost.jpg
+@ZStuff/Images/SV_ZShelter(Interior).jpg
+@ZStuff/Images/SV_ZShelter.jpg
+@ZStuff/Images/SV_ZSkeleton1.jpg
+@ZStuff/Images/SV_ZSkeleton2.jpg
+@ZStuff/Images/SV_ZTrolley.jpg
+@ZStuff/Images/ZGuardTowers.jpg
+@ZStuff/meta.cpp
+@ZStuff/Objects.txt
+@ZStuff/README_PLEASE.txt
+*.log
+*.ADM
+*.ADM
+*.mdmp
+*.bin
+*.001
+*.002
+*.001
