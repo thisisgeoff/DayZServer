@@ -1297,3 +1297,12 @@ mpmissions/dayzOffline.enoch/mapgroupproto.xml
 *.001
 *.002
 *.001
+@Realistic Inventory Space/meta.cpp
+@dbo_surfaces_nam/Readmeand lisence.txt
+@dbo_surfaces_nam/meta.cpp
+@Custom animations/meta.cpp
+@Buggy/xmls/VehicleParts.txt
+@Buggy/xmls/types.xml
+@Buggy/xmls/Trader.txt
+@Buggy/xmls/classnames.txt
+@Buggy/meta.cpp
