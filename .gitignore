@@ -1306,3 +1306,34 @@ mpmissions/dayzOffline.enoch/mapgroupproto.xml
 @Buggy/xmls/Trader.txt
 @Buggy/xmls/classnames.txt
 @Buggy/meta.cpp
+config/PvZmoD_Information_Panel/PvZmoD_Information_Panel.xml
+config/PvZmoD_CustomisableZombies_Profile/PvZmoD_CustomisableZombies_HELP.txt
+config/PvZmoD_CustomisableZombies_Profile/PvZmoD_CustomisableZombies_Globals.xml
+config/PvZmoD_CustomisableZombies_Profile/PvZmoD_CustomisableZombies_Characteristics.xml
+config/PvZmoD_CustomisableZombies_Profile/PvZmoD_CustomisableZombies_Admins.txt
+@Blackouts Corvette/Types/vg7_corvette.xml
+@Blackouts Corvette/TraderConfig/VehicleParts.txt
+@Blackouts Corvette/TraderConfig/Trader Config.txt
+@Blackouts Corvette/mod.cpp
+@Blackouts Corvette/meta.cpp
+@AlienMoon/meta.cpp
+@BuilderItems/meta.cpp
+@FS/ByFIDOv.txt
+@FS/meta.cpp
+@FS_English_Translation/meta.cpp
+@GasMaskAddons/meta.cpp
+@GasMaskAddons/mod.cpp
+@GoreZ/meta.cpp
+@GoreZ/mod.cpp
+@RadZone/meta.cpp
+@RadZone/mod.cpp
+@RadZone/Readme.txt
+@RadZone/ServerFiles/config/ClothesProtectionConfig_explanations.txt
+@RadZone/ServerFiles/config/CrateSystemConfig_explanations.txt
+@RadZone/ServerFiles/config/RadiationConfig_explanations.txt
+@RadZone/ServerFiles/types.xml
+@SurrenderInventory/meta.cpp
+@WindstridesClothingPack/classes.txt
+@WindstridesClothingPack/meta.cpp
+@WindstridesClothingPack/mod.cpp
+@WindstridesClothingPack/types.xml
