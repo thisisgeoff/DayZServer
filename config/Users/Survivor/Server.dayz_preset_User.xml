@@ -762,6 +762,24 @@
     <input name="SUA_ADSWeaponInspect">
         <btn name="mBMiddle" />
     </input>
+    <input name="UAWorkbenchUI">
+        <btn name="kK" />
+    </input>
+    <input name="UABuildSnapUI">
+        <btn name="kB" />
+    </input>
+    <input name="UABBPInv">
+        <btn name="kL" />
+    </input>
+    <input name="UANextSnap">
+        <btn name="mWheelUp" />
+    </input>
+    <input name="UAPrevSnap">
+        <btn name="mWheelDown" />
+    </input>
+    <input name="UASnapLook">
+        <btn name="kDown" />
+    </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
         <limit name="hold" value="0.330000" />

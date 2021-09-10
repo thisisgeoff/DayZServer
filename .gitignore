@@ -1337,3 +1337,36 @@ config/PvZmoD_CustomisableZombies_Profile/PvZmoD_CustomisableZombies_Admins.txt
 @WindstridesClothingPack/meta.cpp
 @WindstridesClothingPack/mod.cpp
 @WindstridesClothingPack/types.xml
+@Code Lock/XML/types.xml
+@Code Lock/mod.cpp
+@Code Lock/meta.cpp
+@Breachingcharge/Usage - Repacking is NOT allowed.txt
+@Breachingcharge/Templates/lists for object names/Vanilla DayZ.txt
+@Breachingcharge/Templates/lists for object names/SimpleBase.txt
+@Breachingcharge/Templates/lists for object names/MoreDoors.txt
+@Breachingcharge/Templates/lists for object names/Expansion.txt
+@Breachingcharge/Templates/lists for object names/BaseBuildingPlus.txt
+@Breachingcharge/Templates/Json-Explanation.txt
+@Breachingcharge/Templates/Install-Instructions.txt
+@Breachingcharge/Templates/example json files/vanilla dayz + SimpleBase - breachingcharge.json
+@Breachingcharge/Templates/example json files/vanilla dayz + MoreDoors - breachingcharge.json
+@Breachingcharge/Templates/example json files/vanilla dayz + Expansion - breachingcharge.json
+@Breachingcharge/Templates/example json files/vanilla dayz + Expansion + BBP - breachingcharge.json
+@Breachingcharge/Templates/example json files/vanilla dayz + EvenMoreDoors - breachingcharge.json
+@Breachingcharge/Templates/example json files/vanilla dayz + BBP - breachingcharge.json
+@Breachingcharge/Templates/example json files/only fence gates - breachingcharge.json
+@Breachingcharge/Templates/example json files/default - breachingcharge.json
+@Breachingcharge/meta.cpp
+@BaseBuildingPlus/README.txt
+@BaseBuildingPlus/mod.cpp
+@BaseBuildingPlus/meta.cpp
+@BaseBuildingPlus/info/types.xml
+@BaseBuildingPlus/info/TraderConfig.txt
+@BaseBuildingPlus/info/Namalsk/types.xml
+@BaseBuildingPlus/info/Namalsk/README.txt
+@BaseBuildingPlus/info/Namalsk/BBP_Settings.json
+@BaseBuildingPlus/info/Livonia/README.txt
+@BaseBuildingPlus/info/Livonia/BBP_Settings.json
+@BaseBuildingPlus/info/BreachingCharge.json
+@BaseBuildingPlus/info/BBP_Settings.json
+@BaseBuildingPlus/credits.txt
