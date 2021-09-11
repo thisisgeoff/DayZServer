@@ -1,9 +1,8 @@
 
 
 ******************************************************************************
-AdminLog started on 2021-09-09 at 22:30:07
-22:32:31 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-22:35:30 | [COT] 76561197990717655: Teleported to position <7241.442871, 8.884086, 11080.716797>
-22:35:58 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-22:36:02 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-22:38:53 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-11 at 08:20:45
+08:22:29 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+08:24:46 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7269.4, 11065.8, 8.7>)[HP: 81.637] hit by FallDamage
+08:43:10 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7029.9, 11061.3, 17.1>)[HP: 96.5479] hit by FallDamage
+08:45:31 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected

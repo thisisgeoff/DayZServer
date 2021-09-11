@@ -75,35 +75,35 @@ ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, 
  
 // IMPORTANT: If you add an entry to the above list, pick the loadout for it by adding the loadout filename to this list
 ref array<string> patrol_loadouts = {
-"CoastLoadout.json", //Patrol 01 - Northern Coast
-"CoastLoadout.json", //Patrol 02 - North-East Coast
-"CoastLoadout.json", //Patrol 03 - Lubjansk Peninsula
-"SoldierLoadout.json", //Patrol 04 - BK-M06
-"CoastLoadout.json", //Patrol 05 - Lubjansk Bay/Harbour Patrol
-"HunterLoadout.json", //Patrol 06 - Jalovisko Hills
-"CoastLoadout.json", //Patrol 07 - Vorkuta Main Road
-"SoldierLoadout.json", //Patrol 08 - Airfield
-"HunterLoadout.json", //Patrol 09 - Refugee Camp Inland Patrol
-"SoldierLoadout.json", //Patrol 10 - Sebjan Marsh Patrol
-"ArcticSniper.json", //Patrol 11 - Nijita Mountain
-"ArcticSoldier.json", //Patrol 12 - Seraja Mountain
-"ArcticSniper.json", //Patrol 13 - Seraja Ridgeline Snipers
-"ArcticSoldier.json", //Patrol 14 - Object BK-T12 to Athena-1 Ridgeline
-"ArcticSoldier.json", //Patrol 15 - C130 Crash to Athena-1 Ridgeline
-"ForestSoldier.json", //Patrol 16 - Inland Forest (Ghillies)
-"CivLoadout.json", //Patrol 17 - Tara North Peninsula
-"CivLoadout.json", //Patrol 18 - Tara Port
-"CivLoadout.json", //Patrol 19 - Tara Land Bridge
-"SoldierLoadout.json", //Patrol 20 - Alakit/Vorkuta Tower
-"ArcticSoldier.json", //Patrol 21 - TF Bering
-"ForestSoldier.json", //Patrol 22 - Object A2 (Ghillies)
-"ArcticSoldier.json", //Patrol 23 - Ice Shelf
-"HunterLoadout.json" //Patrol 24 - Vorkuta East Forest
+"CoastLoadout.json", 	//Patrol 01 - Northern Coast
+"CoastLoadout.json", 	//Patrol 02 - North-East Coast
+"CoastLoadout.json", 	//Patrol 03 - Lubjansk Peninsula
+"SoldierLoadout.json", 	//Patrol 04 - BK-M06
+"CoastLoadout.json", 	//Patrol 05 - Lubjansk Bay/Harbour Patrol
+"HunterLoadout.json", 	//Patrol 06 - Jalovisko Hills
+"CoastLoadout.json", 	//Patrol 07 - Vorkuta Main Road
+"SoldierLoadout.json", 	//Patrol 08 - Airfield
+"HunterLoadout.json", 	//Patrol 09 - Refugee Camp Inland Patrol
+"SoldierLoadout.json", 	//Patrol 10 - Sebjan Marsh Patrol
+"ArcticSniper.json", 	//Patrol 11 - Nijita Mountain
+"ArcticSoldier.json", 	//Patrol 12 - Seraja Mountain
+"ArcticSniper.json", 	//Patrol 13 - Seraja Ridgeline Snipers
+"ArcticSoldier.json", 	//Patrol 14 - Object BK-T12 to Athena-1 Ridgeline
+"ArcticSoldier.json", 	//Patrol 15 - C130 Crash to Athena-1 Ridgeline
+"ForestSoldier.json", 	//Patrol 16 - Inland Forest (Ghillies)
+"CivLoadout.json", 		//Patrol 17 - Tara North Peninsula
+"CivLoadout.json", 		//Patrol 18 - Tara Port
+"CivLoadout.json", 		//Patrol 19 - Tara Land Bridge
+"SoldierLoadout.json", 	//Patrol 20 - Alakit/Vorkuta Tower
+"ArcticSoldier.json", 	//Patrol 21 - TF Bering
+"ForestSoldier.json", 	//Patrol 22 - Object A2 (Ghillies)
+"ArcticSoldier.json", 	//Patrol 23 - Ice Shelf
+"HunterLoadout.json" 	//Patrol 24 - Vorkuta East Forest
 };
 
 // you may change these quantities
-const int MIN_PER_PATROL = 1; // Min number of AI per patrol
-const int MAX_PER_PATROL = 5; // Max number of AI per patrol
+const int MIN_PER_PATROL = 1; 		// Min number of AI per patrol
+const int MAX_PER_PATROL = 5; 		// Max number of AI per patrol
 const int MAXR = 1500;				// This is the main spawn radius- how close a player needs to be to spawn them in.
 const int MINR = 450;				// If a player is this close to the patrol start point, it is too close for them to spawn
 const int DESPAWNR = 2000;			// If all players are this far away, they despawn.
