@@ -1,164 +1,55 @@
 
 
 ******************************************************************************
-AdminLog started on 2021-09-11 at 08:20:45
-08:22:29 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-08:24:46 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7269.4, 11065.8, 8.7>)[HP: 81.637] hit by FallDamage
-08:43:10 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7029.9, 11061.3, 17.1>)[HP: 96.5479] hit by FallDamage
-08:45:31 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-12 at 10:27:11
 
 
 ******************************************************************************
-AdminLog started on 2021-09-11 at 08:54:05
-08:55:46 | Player "Survivor"(id=Unknown) has been disconnected
+AdminLog started on 2021-09-12 at 10:28:53
 
 
 ******************************************************************************
-AdminLog started on 2021-09-11 at 08:57:53
+AdminLog started on 2021-09-12 at 10:31:12
+10:35:00 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+10:36:48 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+10:36:48 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+10:36:48 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+10:37:29 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+10:37:53 | [COT] 76561197990717655: Teleported to position <5825.494141, 16.323013, 10750.874023>
+10:39:33 | [COT] 76561197990717655: Teleported to position <7283.234375, 18.130014, 10920.259766>
+10:40:32 | [COT] 76561197990717655: Set rain to 0 0 0
+10:40:32 | [COT] 76561197990717655: Set storm to 0 0.8 4000
+10:40:32 | [COT] 76561197990717655: Set fog to 0 0 0
+10:40:32 | [COT] 76561197990717655: Set overcast to 0.01 0 0
+10:40:32 | [COT] 76561197990717655: Set the date to 2011/12/2 0:14
+10:40:32 | [COT] 76561197990717655: Set wind to 6.40761 6.40761 1
+10:43:33 | [COT] 76561197990717655: Spawned Entity  (FBF_AreaLight_Warm<e108a320>, -1, 0) at <7294.641602, 9.779751, 11039.694336>
+10:44:33 | [COT] 76561197990717655: Spawned Entity  (FBF_AreaLight_White<e1092e10>, -1, 0) at <7290.470215, 16.064064, 11046.277344>
+10:46:18 | [COT] 76561197990717655: Spawned Entity  (FBF_CustomAreaLight_3<e109dd90>, -1, 0) at <7283.197266, 14.512081, 11048.126953>
+10:47:00 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 
 
 ******************************************************************************
-AdminLog started on 2021-09-11 at 08:58:49
-09:00:46 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-09:13:56 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7207.3, 10887.2, 12.4>)[HP: 98.2881] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
-09:13:58 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7208.1, 10886.9, 12.4>)[HP: 97.6281] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieFemale)
-09:16:13 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7208.7, 10840.5, 16.3>)[HP: 99.2457] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
-09:16:18 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7207.9, 10840.1, 16.0>)[HP: 98.5761] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieFemale)
-09:33:23 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7155.7, 10771.8, 16.1>) is unconscious
-09:33:55 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7156.3, 10771.6, 16.1>) regained consciousness
-09:42:00 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7205.8, 10881.3, 12.4>)[HP: 96.5746] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
-09:42:01 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.0, 10881.5, 12.4>)[HP: 88.9351] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieMale)
-09:42:03 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.1, 10881.5, 12.4>)[HP: 88.1851] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
-09:42:04 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.2, 10881.5, 12.4>)[HP: 80.5489] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieMale)
-10:00:11 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<6980.4, 11050.3, 15.0>)[HP: 75.1556] hit by Infected into Block(-1) for 0 damage 
-10:00:13 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<6981.9, 11050.3, 14.9>)[HP: 72.9056] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
-10:00:15 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<6981.9, 11050.4, 14.9>)[HP: 62.9956] hit by Infected into Torso(1) for 10 damage (MeleeZombieSoldier)
-10:01:05 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7032.1, 11075.3, 15.3>)[HP: 61.0726] hit by FallDamage
-10:02:39 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7202.7, 10894.8, 12.4>)[HP: 62.1757] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
-10:02:40 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7202.8, 10894.9, 12.4>)[HP: 61.4257] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
-10:02:41 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7201.7, 10895, 12.4>)[HP: 59.7382] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
-10:02:43 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7201.2, 10895.2, 12.4>)[HP: 58.1407] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
-10:02:47 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7201.3, 10895.3, 12.4>)[HP: 56.5432] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
-10:02:48 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7201.2, 10895, 12.4>)[HP: 54.9457] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
-10:11:24 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7317.1, 10611.5, 35.9>)[HP: 68.089] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
-10:11:25 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7317.4, 10614.2, 35.3>)[HP: 65.839] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
-10:11:26 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7317.3, 10615.9, 34.9>)[HP: 63.679] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
-10:11:35 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7332.7, 10667, 29.3>)[HP: 58.9491] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:11:37 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.0, 10668.8, 29.1>)[HP: 57.9491] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-10:11:37 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7333.9, 10669.2, 29.1>)[HP: 55.6991] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
-10:11:38 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.5, 10671.7, 28.8>)[HP: 53.4491] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
-10:11:38 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.9, 10672.3, 28.7>)[HP: 52.5391] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
-10:11:41 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7345.6, 10681.9, 26.9>)[HP: 52.6291] hit by Infected into Block(-1) for 0 damage 
-10:11:43 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7348.4, 10680.7, 27.1>)[HP: 47.6291] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:11:43 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7348.5, 10680.7, 27.1>)[HP: 46.6291] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-10:11:43 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7348.8, 10680.6, 27.1>)[HP: 45.6291] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
-10:11:43 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7349.2, 10681, 27.1>) is unconscious
-10:11:44 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7350.1, 10681.7, 27.1>)[HP: 44.7191] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
-10:11:44 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7350.0, 10682.2, 27.1>)[HP: 42.4691] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
-10:11:45 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7349.4, 10682.5, 27.0>)[HP: 37.4691] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:11:45 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7349.4, 10682.5, 27.0>)[HP: 32.4691] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:12:37 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7350.3, 10681.9, 27.1>) regained consciousness
-10:21:41 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.2, 10512, 45.3>)[HP: 37.8739] hit by FallDamage
-10:21:43 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.1, 10512.5, 45.3>)[HP: 35.6239] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
-10:21:44 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.7, 10513.1, 45.2>)[HP: 34.6619] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-10:21:45 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.7, 10513.1, 45.2>)[HP: 33.6619] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-10:21:45 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7336, 10513, 45.2>)[HP: 28.6619] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:21:46 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.9, 10513.1, 45.2>)[HP: 26.1619] hit by Infected into LeftLeg(8) for 10 damage (MeleeZombieSoldier)
-10:21:47 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.4, 10513.5, 45.3>)[HP: 25.1999] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-10:21:48 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.5, 10513.6, 45.3>) is unconscious
-10:21:48 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.5, 10513.6, 45.3>)[HP: 24.1999] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-10:21:48 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.3, 10514, 45.3>)[HP: 23.1999] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
-10:21:48 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.5, 10514.9, 45.3>)[HP: 18.1999] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:21:48 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.2, 10515.2, 45.3>)[HP: 17.1999] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-10:21:49 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.2, 10515.3, 45.3>)[HP: 16.1999] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-10:21:49 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7333.8, 10515.5, 45.3>)[HP: 11.1999] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:22:40 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.6, 10517.5, 45.3>) regained consciousness
-10:23:19 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.4, 10516, 45.3>)[HP: 7.15089] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:23:25 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7335.0, 10514, 45.3>)[HP: 4.70799] hit by Infected into LeftLeg(8) for 10 damage (MeleeZombieSoldier)
-10:23:25 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.8, 10514.1, 45.3>) is unconscious
-10:23:26 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.2, 10515.3, 45.3>)[HP: 0] hit by Infected into Torso(1) for 5 damage (MeleeZombieSoldier)
-10:23:26 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7334.2, 10515.3, 45.3>) killed by ZmbM_nacSoldier_normal
-10:23:30 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-12 at 10:47:35
 
 
 ******************************************************************************
-AdminLog started on 2021-09-11 at 14:19:53
+AdminLog started on 2021-09-12 at 10:51:15
+10:52:58 | Player "Survivor"(id=Unknown) has been disconnected
+10:54:18 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+10:55:11 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7282.6, 11059, 10.3>)[HP: 88.8339] hit by FallDamage
+10:55:55 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 
 
 ******************************************************************************
-AdminLog started on 2021-09-11 at 14:25:59
-14:39:19 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-14:40:03 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5807.9, 10781.4, 16.8>)[HP: 97.4222] hit by FallDamage
-14:46:42 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4500.0, 8216.1, 87.1>)[HP: 89.943] hit by Infected into Torso(1) for 10 damage (MeleeZombieSoldier)
-14:46:43 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4500.6, 8218.5, 87.1>)[HP: 88.943] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
-14:48:22 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4520.5, 8212.4, 86.7>)[HP: 88.9191] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
-14:48:23 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4520.2, 8212.3, 86.8>)[HP: 87.9191] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
-14:55:35 | [COT] 76561197990717655: Entered the Free Camera
-14:57:03 | [COT] 76561197990717655: Spawned Entity Glow Stick (Chemlight_Red<5457ec20>, 100, 20) at <3602.361572, 41.492062, 6626.995117>
-14:57:27 | [COT] 76561197990717655: Left the Free Camera
-14:58:52 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<3609.6, 6539.0, 43.0>)[HP: 77.372] hit by FallDamage
-15:01:09 | [COT] 76561197990717655: Set rain to 0.25 0 0
-15:01:09 | [COT] 76561197990717655: Set storm to 0.0625 0.8 4000
-15:01:09 | [COT] 76561197990717655: Set fog to 0.5 0 0
-15:01:09 | [COT] 76561197990717655: Set overcast to 0.851341 0 0
-15:01:09 | [COT] 76561197990717655: Set the date to 2011/12/2 6:42
-15:01:09 | [COT] 76561197990717655: Set wind to 0.075 0.075 1
-15:01:12 | [COT] 76561197990717655: Set rain to 0.25 0 0
-15:01:12 | [COT] 76561197990717655: Set storm to 0.0625 0.8 4000
-15:01:12 | [COT] 76561197990717655: Set fog to 0.5 0 0
-15:01:12 | [COT] 76561197990717655: Set overcast to 0.851341 0 0
-15:01:12 | [COT] 76561197990717655: Set the date to 2011/12/2 7:26
-15:01:12 | [COT] 76561197990717655: Set wind to 0.075 0.075 1
-15:03:37 | [COT] 76561197990717655: Spawned vehicle Gyrocopter (ExpansionGyrocopter) at <4025.996338, 37.693665, 5518.780762>
-15:04:52 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-15:05:04 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-15:05:32 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4756.8, 5525.6, 51.2>)[HP: 0] hit by FallDamage
-15:05:32 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4756.8, 5525.6, 51.2>) died. Stats> Water: 4721.55 Energy: 6797.11 Bleed sources: 0
-15:06:05 | [COT] 76561197990717655: Entered the Free Camera
-15:06:08 | [COT] 76561197990717655: Left the Free Camera
-15:06:22 | [COT] 76561197990717655: Spawned vehicle Gyrocopter (ExpansionGyrocopter) at <6197.724609, 27.500809, 11745.284180>
-15:07:17 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-11 at 15:08:35
-15:12:22 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-15:13:05 | [COT] 76561197990717655: Entered the Free Camera
-15:13:06 | [COT] 76561197990717655: Left the Free Camera
-15:13:36 | [COT] 76561197990717655: Spawned vehicle Gyrocopter (ExpansionGyrocopter) at <6006.153320, 11.198767, 11724.539063>
-15:15:37 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<4465.0, 10441.7, 0.8>) died. Stats> Water: 467.889 Energy: 412.259 Bleed sources: 0
-15:16:17 | [COT] 76561197990717655: Spawned vehicle Mh-6 Little Bird (ExpansionMh6) at <6358.745605, 5.121649, 11931.630859>
-15:19:15 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<3971.2, 9996.5, 6.9>) died. Stats> Water: 495.876 Energy: 488.335 Bleed sources: 0
-15:20:01 | [COT] 76561197990717655: Spawned vehicle UH-1H (ExpansionUh1h) at <6581.475586, 5.653488, 11996.008789>
-15:23:45 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<3929.0, 10087.8, 5.3>) died. Stats> Water: 494.294 Energy: 485.803 Bleed sources: 0
-15:24:22 | [COT] 76561197990717655: Spawned vehicle Gyrocopter (ExpansionGyrocopter) at <6189.573242, 5.658419, 11912.025391>
-15:28:36 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<3920.7, 10017.6, 5.7>)[HP: 97.0637] hit by FallDamage
-15:38:12 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<3967.9, 9977.8, 5.6>)[HP: 56.9411] hit by FallDamage
-15:39:30 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<3954.6, 10007.3, 11.4>)[HP: 48.2182] hit by FallDamage
-15:45:47 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<3221.4, 8366.0, 6.9>) died. Stats> Water: 472.552 Energy: 130.92 Bleed sources: 0
-15:45:55 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-
-
-******************************************************************************
-AdminLog started on 2021-09-11 at 18:25:53
-18:37:17 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-18:38:09 | [COT] 76561197990717655: Entered the Free Camera
-18:38:10 | [COT] 76561197990717655: Left the Free Camera
-18:38:20 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-18:38:22 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-18:38:37 | [COT] 76561197990717655: Teleported to position <4051.203125, 65.368469, 9269.284180>
-18:44:12 | [COT] 76561197990717655: Teleported to position <4132.935059, 376.839996, 6689.756836>
-19:02:07 | [COT] 76561197990717655: Teleported to position <5980.085449, 17.000355, 6664.720703>
-19:24:21 | [COT] 76561197990717655: Set rain to 0.5 0 0
-19:24:21 | [COT] 76561197990717655: Set storm to 0.25 0.8 4000
-19:24:21 | [COT] 76561197990717655: Set fog to 0.48 0 0
-19:24:21 | [COT] 76561197990717655: Set overcast to 0.49 0 0
-19:24:21 | [COT] 76561197990717655: Set the date to 2011/12/2 11:51
-19:24:21 | [COT] 76561197990717655: Set wind to 0.49 0.49 1
-19:25:30 | [COT] 76561197990717655: ESP: ESP updating
-19:26:17 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-19:32:41 | [COT] 76561197990717655: ESP: Clearing ESP
-19:32:41 | [COT] 76561197990717655: ESP: ESP updating
-19:36:38 | [COT] 76561197990717655: ESP: Clearing ESP
-19:36:39 | [COT] 76561197990717655: ESP: ESP updating
-19:38:53 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-12 at 11:01:46
+11:05:53 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+11:09:13 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+11:09:15 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+11:09:15 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+11:09:15 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+11:09:29 | [COT] 76561197990717655: Spawned Entity NVG Headstrap (NVGHeadstrap<3f66640>, -1, 200) at <7238.225586, 14.075397, 11093.005859>
+11:09:31 | [COT] 76561197990717655: Spawned Entity Night Vision Goggles (NVGoggles<5aeffa20>, -1, 100) at <7238.225586, 14.075397, 11093.005859>
+11:27:57 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+11:28:08 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+11:30:57 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected

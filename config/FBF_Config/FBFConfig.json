@@ -18,7 +18,7 @@
         "VisibleDuringDaylight": 0
     },
     "m_SpotlightLight": {
-        "Radius": 60.0,
+        "Radius": 50.0,
         "WithShadows": 0,
         "Brightness": 10.0,
         "VisibleDuringDaylight": 0
