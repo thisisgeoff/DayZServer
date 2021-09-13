@@ -881,6 +881,9 @@
     <input name="eAICommandMenu">
         <btn name="kT" />
     </input>
+    <input name="UAHeroesAndBanditsPanel">
+        <btn name="kJ" />
+    </input>
     <input name="SUA_ADSWeaponInspect">
         <btn name="mBMiddle" />
     </input>

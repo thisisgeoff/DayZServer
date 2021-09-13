@@ -53,3 +53,33 @@ AdminLog started on 2021-09-12 at 11:01:46
 11:27:57 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 11:28:08 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
 11:30:57 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-12 at 20:03:19
+20:07:50 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+20:11:56 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7201.4, 10818.7, 16.2>)[HP: 98.783] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieFemale)
+20:11:58 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7204.7, 10818.7, 16.1>)[HP: 94.1767] hit by Infected into Torso(1) for 4.5 damage (MeleeZombie)
+20:11:59 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.3, 10817.1, 16.1>)[HP: 93.3511] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+20:12:01 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7205.8, 10816.6, 16.2>)[HP: 92.8511] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+20:12:01 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7205.3, 10816.9, 16.2>)[HP: 86.1011] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieFemale)
+20:12:03 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7204.8, 10816.9, 16.2>)[HP: 84.3443] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
+20:12:04 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.1, 10813.5, 16.3>)[HP: 77.5943] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieFemale)
+20:12:04 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.3, 10812.6, 16.3>)[HP: 76.4693] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+20:12:05 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.3, 10809.5, 16.4>) is unconscious
+20:12:06 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.9, 10808.1, 16.5>)[HP: 75.4312] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+20:12:06 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7207.0, 10807.7, 16.5>)[HP: 74.9312] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+20:12:57 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7208.8, 10805.3, 16.8>) regained consciousness
+20:19:01 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+20:19:03 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+20:19:05 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+20:19:07 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+20:21:19 | [COT] 76561197990717655: Teleported to position <5830.211914, 16.573730, 10745.338867>
+20:21:30 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+20:21:44 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+20:23:26 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5754.3, 10768.1, 16.9>)[HP: 81.4981] hit by FallDamage
+20:27:26 | [COT] 76561197990717655: ESP: ESP updating
+20:27:38 | [COT] 76561197990717655: ESP: Viewing ESP
+20:27:42 | [COT] 76561197990717655: ESP: Clearing ESP
+20:27:43 | [COT] 76561197990717655: ESP: Viewing ESP
+20:31:32 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
