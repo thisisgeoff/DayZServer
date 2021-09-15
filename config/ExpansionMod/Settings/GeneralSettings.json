@@ -16,7 +16,7 @@
         "BuildingIvys": 0
     },
     "EnableLamps": 2,
-    "EnableGenerators": 0,
+    "EnableGenerators": 1,
     "EnableLighthouses": 1,
     "EnableHUDNightvisionOverlay": 1,
     "DisableMagicCrosshair": 1,

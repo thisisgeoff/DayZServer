@@ -104,7 +104,7 @@
     "ATMPartyLockerEnabled": 1,
     "MaxPartyDepositMoney": 100000,
     "MarketVIPs": [],
-    "SellPricePercent": 75.0,
+    "SellPricePercent": 50.0,
     "LandSpawnPositions": [],
     "AirSpawnPositions": [],
     "WaterSpawnPositions": [],

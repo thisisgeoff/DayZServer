@@ -1,0 +1,6505 @@
+{
+    "MapName": "namalsk",
+    "CameraPosition": [
+        5830.388671875,
+        33.02710723876953,
+        10750.4248046875
+    ],
+    "EditorObjects": [
+        {
+            "Type": "bldr_prop_CigarettePack_Merkur",
+            "DisplayName": "bldr_prop_CigarettePack_Merkur",
+            "Position": [
+                5789.2421875,
+                17.665550231933595,
+                10780.9453125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BaseRadio",
+            "DisplayName": "bldr_prop_BaseRadio",
+            "Position": [
+                5789.85205078125,
+                17.65159034729004,
+                10778.7509765625
+            ],
+            "Orientation": [
+                104.45476531982422,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TruckBattery",
+            "DisplayName": "bldr_prop_TruckBattery",
+            "Position": [
+                5791.16845703125,
+                17.64095115661621,
+                10778.6220703125
+            ],
+            "Orientation": [
+                67.58240509033203,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_FishNetTrap",
+            "DisplayName": "bldr_prop_FishNetTrap",
+            "Position": [
+                5791.2177734375,
+                17.09955406188965,
+                10779.1005859375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CanisterGasoline",
+            "DisplayName": "bldr_prop_CanisterGasoline",
+            "Position": [
+                5791.8408203125,
+                17.086965560913087,
+                10779.9921875
+            ],
+            "Orientation": [
+                -0.42564913630485537,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WorkingGloves_Beige",
+            "DisplayName": "bldr_prop_WorkingGloves_Beige",
+            "Position": [
+                5788.69921875,
+                17.64912223815918,
+                10779.8798828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_NailBox",
+            "DisplayName": "bldr_prop_NailBox",
+            "Position": [
+                5789.16162109375,
+                17.043790817260743,
+                10783.26953125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_NailBox",
+            "DisplayName": "bldr_prop_NailBox",
+            "Position": [
+                5789.1982421875,
+                17.04380989074707,
+                10783.4375
+            ],
+            "Orientation": [
+                34.12852096557617,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Matchbox",
+            "DisplayName": "bldr_prop_Matchbox",
+            "Position": [
+                5789.15087890625,
+                17.0830135345459,
+                10782.82421875
+            ],
+            "Orientation": [
+                -81.25370788574219,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TannedLeather",
+            "DisplayName": "bldr_prop_TannedLeather",
+            "Position": [
+                5788.96533203125,
+                16.90679931640625,
+                10780.99609375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_DisinfectantAlcohol",
+            "DisplayName": "bldr_DisinfectantAlcohol",
+            "Position": [
+                5789.05078125,
+                17.477317810058595,
+                10782.857421875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BookBible",
+            "DisplayName": "BookBible",
+            "Position": [
+                5788.89013671875,
+                17.685400009155275,
+                10780.7001953125
+            ],
+            "Orientation": [
+                138.99090576171876,
+                -89.86876678466797,
+                179.99989318847657
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_office_chair",
+            "DisplayName": "bldr_office_chair",
+            "Position": [
+                5790.40380859375,
+                17.244138717651368,
+                10779.673828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_pc",
+            "DisplayName": "bldr_pc",
+            "Position": [
+                5790.533203125,
+                17.652528762817384,
+                10778.7431640625
+            ],
+            "Orientation": [
+                87.07874298095703,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_scale",
+            "DisplayName": "bldr_scale",
+            "Position": [
+                5791.912109375,
+                18.186918258666993,
+                10783.1767578125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_cashier",
+            "DisplayName": "bldr_cashier",
+            "Position": [
+                5791.55078125,
+                17.72381019592285,
+                10781.9833984375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_fridge",
+            "DisplayName": "bldr_fridge",
+            "Position": [
+                5788.90380859375,
+                16.945247650146486,
+                10782.130859375
+            ],
+            "Orientation": [
+                93.78658294677735,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_flag_chernarus_wall",
+            "DisplayName": "bldr_flag_chernarus_wall",
+            "Position": [
+                5796.72998046875,
+                18.148889541625978,
+                10773.6826171875
+            ],
+            "Orientation": [
+                -82.28473663330078,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_flag_chernarus_wall",
+            "DisplayName": "bldr_flag_chernarus_wall",
+            "Position": [
+                5788.73046875,
+                18.972488403320314,
+                10783.376953125
+            ],
+            "Orientation": [
+                95.31906127929688,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999969005584717,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_stul_kuch1",
+            "DisplayName": "bldr_stul_kuch1",
+            "Position": [
+                5795.494140625,
+                16.90927505493164,
+                10779.505859375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_bag_dz",
+            "DisplayName": "bldr_bag_dz",
+            "Position": [
+                5798.00634765625,
+                17.287389755249025,
+                10781.7587890625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Bin",
+            "DisplayName": "bldr_Garbage_Bin",
+            "Position": [
+                5794.74072265625,
+                17.415586471557618,
+                10783.619140625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Container_Glass",
+            "DisplayName": "bldr_Garbage_Container_Glass",
+            "Position": [
+                5798.103515625,
+                17.69011116027832,
+                10784.4970703125
+            ],
+            "Orientation": [
+                -81.01317596435547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_through_trailer",
+            "DisplayName": "bldr_misc_through_trailer",
+            "Position": [
+                5784.21533203125,
+                17.23076820373535,
+                10798.5712890625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_tent_chair",
+            "DisplayName": "bldr_tent_chair",
+            "Position": [
+                5795.9619140625,
+                17.3455867767334,
+                10779.0380859375
+            ],
+            "Orientation": [
+                153.58636474609376,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_tent_chair",
+            "DisplayName": "bldr_tent_chair",
+            "Position": [
+                5797.03955078125,
+                17.349990844726564,
+                10780.412109375
+            ],
+            "Orientation": [
+                63.4488525390625,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_tent_chair",
+            "DisplayName": "bldr_tent_chair",
+            "Position": [
+                5796.20556640625,
+                17.352344512939454,
+                10781.15625
+            ],
+            "Orientation": [
+                19.10280418395996,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_WoodPile1",
+            "DisplayName": "bldr_Misc_WoodPile1",
+            "Position": [
+                5799.0888671875,
+                17.24267578125,
+                10782.314453125
+            ],
+            "Orientation": [
+                6.146666526794434,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999996542930603,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_PortableGasStove",
+            "DisplayName": "bldr_PortableGasStove",
+            "Position": [
+                5789.2587890625,
+                17.861915588378908,
+                10780.4619140625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Pot",
+            "DisplayName": "bldr_Pot",
+            "Position": [
+                5789.25732421875,
+                17.9499454498291,
+                10780.4609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_LargeGasCanister",
+            "DisplayName": "bldr_LargeGasCanister",
+            "Position": [
+                5789.25146484375,
+                17.86368751525879,
+                10780.4619140625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Mosin9130",
+            "DisplayName": "bldr_Mosin9130",
+            "Position": [
+                5788.517578125,
+                18.625457763671876,
+                10781.4384765625
+            ],
+            "Orientation": [
+                -83.68634796142578,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999961853027344,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_GardenLime",
+            "DisplayName": "bldr_prop_GardenLime",
+            "Position": [
+                5789.134765625,
+                16.91286277770996,
+                10779.671875
+            ],
+            "Orientation": [
+                -128.8558349609375,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Binoculars",
+            "DisplayName": "bldr_prop_Binoculars",
+            "Position": [
+                5789.01220703125,
+                17.749860763549806,
+                10781.0283203125
+            ],
+            "Orientation": [
+                -20.482006072998048,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long2",
+            "DisplayName": "bldr_Decal_dirt_damage_long2",
+            "Position": [
+                5805.20654296875,
+                20.392728805541993,
+                10766.68359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long2",
+            "DisplayName": "bldr_Decal_dirt_damage_long2",
+            "Position": [
+                5804.890625,
+                20.391407012939454,
+                10773.2177734375
+            ],
+            "Orientation": [
+                -14.795321464538575,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988675117493,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long2",
+            "DisplayName": "bldr_Decal_dirt_damage_long2",
+            "Position": [
+                5786.69970703125,
+                20.39528465270996,
+                10770.98828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long2",
+            "DisplayName": "bldr_Decal_dirt_damage_long2",
+            "Position": [
+                5797.78369140625,
+                20.41167449951172,
+                10786.0302734375
+            ],
+            "Orientation": [
+                86.95433807373047,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5800.65869140625,
+                16.84307289123535,
+                10772.33984375
+            ],
+            "Orientation": [
+                4.505363941192627,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5796.1298828125,
+                27.415800094604493,
+                10790.599609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5810.71533203125,
+                21.891298294067384,
+                10765.8759765625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5813.6591796875,
+                21.54142189025879,
+                10754.3408203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5754.23876953125,
+                21.863113403320314,
+                10763.6875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5760.5498046875,
+                21.78673553466797,
+                10805.7666015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5795.8701171875,
+                18.040199279785158,
+                10780.099609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkSpotLight",
+            "DisplayName": "NetworkSpotLight",
+            "Position": [
+                5801.7900390625,
+                29.93079948425293,
+                10784.7001953125
+            ],
+            "Orientation": [
+                -46.91400146484375,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkSpotLight",
+            "DisplayName": "NetworkSpotLight",
+            "Position": [
+                5797.240234375,
+                29.75909996032715,
+                10796.2001953125
+            ],
+            "Orientation": [
+                -160.32398986816407,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkSpotLight",
+            "DisplayName": "NetworkSpotLight",
+            "Position": [
+                5788.0498046875,
+                29.936399459838868,
+                10790.0
+            ],
+            "Orientation": [
+                83.33129119873047,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "FBF_LongTorch",
+            "DisplayName": "FBF_LongTorch",
+            "Position": [
+                5769.94921875,
+                17.510276794433595,
+                10792.994140625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "FBF_LongTorch",
+            "DisplayName": "FBF_LongTorch",
+            "Position": [
+                5777.369140625,
+                17.806140899658204,
+                10798.8447265625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5780.8388671875,
+                16.858476638793947,
+                10788.8740234375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5781.19482421875,
+                16.857860565185548,
+                10789.712890625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5779.34912109375,
+                16.860820770263673,
+                10789.2216796875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed02_aban1_red",
+            "DisplayName": "Land_Wreck_sed02_aban1_red",
+            "Position": [
+                5800.29736328125,
+                17.727720260620118,
+                10767.2451171875
+            ],
+            "Orientation": [
+                -86.82008361816406,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "land_wrecked_bmp2",
+            "DisplayName": "land_wrecked_bmp2",
+            "Position": [
+                5799.10498046875,
+                19.45322608947754,
+                10716.3671875
+            ],
+            "Orientation": [
+                25.142108917236329,
+                -1.0238555669784547,
+                0.025443870574235917
+            ],
+            "Scale": 0.9999465942382813,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "land_wrecked_bmp1",
+            "DisplayName": "land_wrecked_bmp1",
+            "Position": [
+                5850.623046875,
+                25.48668098449707,
+                10676.556640625
+            ],
+            "Orientation": [
+                -164.4884796142578,
+                3.343454599380493,
+                11.440291404724121
+            ],
+            "Scale": 0.9927688241004944,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "land_wrecked_mi8",
+            "DisplayName": "land_wrecked_mi8",
+            "Position": [
+                5725.77197265625,
+                19.456167221069337,
+                10722.9970703125
+            ],
+            "Orientation": [
+                -53.00716018676758,
+                -2.8072731494903566,
+                -2.479708433151245
+            ],
+            "Scale": 0.9992823600769043,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_hmmwv",
+            "DisplayName": "bldr_wreck_hmmwv",
+            "Position": [
+                5731.12841796875,
+                17.889867782592775,
+                10675.2763671875
+            ],
+            "Orientation": [
+                -81.991943359375,
+                -2.4238076210021974,
+                -5.333603382110596
+            ],
+            "Scale": 0.998249888420105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_t72_chassis",
+            "DisplayName": "bldr_wreck_t72_chassis",
+            "Position": [
+                5836.01904296875,
+                23.699562072753908,
+                10674.9189453125
+            ],
+            "Orientation": [
+                -169.0814666748047,
+                4.112875938415527,
+                7.054267883300781
+            ],
+            "Scale": 0.9965631365776062,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_t72_turret",
+            "DisplayName": "bldr_wreck_t72_turret",
+            "Position": [
+                5834.5126953125,
+                24.49981689453125,
+                10677.6455078125
+            ],
+            "Orientation": [
+                0.0,
+                -5.120023250579834,
+                -6.0900187492370609
+            ],
+            "Scale": 0.9965604543685913,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "land_wrecked_bmp1",
+            "DisplayName": "land_wrecked_bmp1",
+            "Position": [
+                5835.40625,
+                25.631017684936525,
+                10645.3681640625
+            ],
+            "Orientation": [
+                -126.48751831054688,
+                -2.321258306503296,
+                8.480220794677735
+            ],
+            "Scale": 0.9962082505226135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_SodaCan_Kvass",
+            "DisplayName": "bldr_SodaCan_Kvass",
+            "Position": [
+                5795.84228515625,
+                17.951416015625,
+                10780.4365234375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_SodaCan_Kvass",
+            "DisplayName": "bldr_SodaCan_Kvass",
+            "Position": [
+                5795.80859375,
+                17.944686889648439,
+                10779.763671875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_SodaCan_Kvass",
+            "DisplayName": "bldr_SodaCan_Kvass",
+            "Position": [
+                5796.3681640625,
+                17.950563430786134,
+                10780.173828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_carpet_big",
+            "DisplayName": "bldr_carpet_big",
+            "Position": [
+                5793.8173828125,
+                16.919763565063478,
+                10780.509765625
+            ],
+            "Orientation": [
+                -150.32662963867188,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_picture_b_02",
+            "DisplayName": "bldr_picture_b_02",
+            "Position": [
+                5794.810546875,
+                17.83877944946289,
+                10777.744140625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_picture_a_05",
+            "DisplayName": "bldr_picture_a_05",
+            "Position": [
+                5798.091796875,
+                17.627456665039064,
+                10780.55859375
+            ],
+            "Orientation": [
+                -90.5937728881836,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979138374329,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_radio_b",
+            "DisplayName": "bldr_radio_b",
+            "Position": [
+                5794.1552734375,
+                17.86322784423828,
+                10778.1005859375
+            ],
+            "Orientation": [
+                42.62285614013672,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_dkamna_bila",
+            "DisplayName": "bldr_dkamna_bila",
+            "Position": [
+                5795.1650390625,
+                16.925107955932618,
+                10783.072265625
+            ],
+            "Orientation": [
+                5.261495113372803,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999961853027344,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelf_dz",
+            "DisplayName": "bldr_shelf_dz",
+            "Position": [
+                5794.35986328125,
+                16.90801429748535,
+                10778.13671875
+            ],
+            "Orientation": [
+                92.68140411376953,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wheel_cart_dz",
+            "DisplayName": "bldr_wheel_cart_dz",
+            "Position": [
+                5780.24951171875,
+                16.871313095092775,
+                10786.2822265625
+            ],
+            "Orientation": [
+                46.07597351074219,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_range_line_dispersions",
+            "DisplayName": "bldr_misc_range_line_dispersions",
+            "Position": [
+                5756.52001953125,
+                17.848899841308595,
+                10781.2998046875
+            ],
+            "Orientation": [
+                -83.2533950805664,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_easteregg2",
+            "DisplayName": "bldr_sign_easteregg2",
+            "Position": [
+                5778.01806640625,
+                18.451641082763673,
+                10766.263671875
+            ],
+            "Orientation": [
+                -82.16468048095703,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_pub_village",
+            "DisplayName": "bldr_sign_pub_village",
+            "Position": [
+                5777.80712890625,
+                20.117231369018556,
+                10763.8623046875
+            ],
+            "Orientation": [
+                -85.11246490478516,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_decal_pubcz3",
+            "DisplayName": "bldr_sign_decal_pubcz3",
+            "Position": [
+                5782.26611328125,
+                18.186010360717775,
+                10767.0146484375
+            ],
+            "Orientation": [
+                6.341485023498535,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999986886978149,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5761.76513671875,
+                16.962085723876954,
+                10772.2431640625
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.0915444940328598,
+                0.004884767811745405
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5761.66650390625,
+                16.96014976501465,
+                10770.7890625
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154444187879563,
+                0.004884767346084118
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5761.60302734375,
+                16.960426330566408,
+                10769.3369140625
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154444187879563,
+                0.004884767346084118
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5761.5322265625,
+                16.962724685668947,
+                10767.896484375
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154444187879563,
+                0.004884767346084118
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5761.85302734375,
+                16.957714080810548,
+                10773.71875
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154444187879563,
+                0.004884767346084118
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5765.18017578125,
+                16.95734405517578,
+                10767.712890625
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154438972473145,
+                0.004884766414761543
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5765.2529296875,
+                16.95861053466797,
+                10769.1650390625
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154444187879563,
+                0.004884767346084118
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5765.3369140625,
+                16.95850372314453,
+                10770.6259765625
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154444187879563,
+                0.004884767346084118
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5765.40576171875,
+                16.957338333129884,
+                10772.083984375
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154444187879563,
+                0.004884767346084118
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5765.48486328125,
+                16.959259033203126,
+                10773.5380859375
+            ],
+            "Orientation": [
+                -86.94563293457031,
+                0.09154444187879563,
+                0.004884767346084118
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5769.0791015625,
+                16.95747947692871,
+                10773.2080078125
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.09153967350721359,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5768.98779296875,
+                16.956192016601564,
+                10771.755859375
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5768.962890625,
+                16.9542179107666,
+                10770.3642578125
+            ],
+            "Orientation": [
+                -85.65428924560547,
+                0.09153500199317932,
+                0.004884720779955387
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5768.8232421875,
+                16.95450782775879,
+                10768.81640625
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5768.70166015625,
+                16.95719337463379,
+                10767.3759765625
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5772.72119140625,
+                16.956789016723634,
+                10772.783203125
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5772.595703125,
+                16.95685577392578,
+                10771.3525390625
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5772.5087890625,
+                16.957225799560548,
+                10769.9150390625
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5772.4375,
+                16.95668601989746,
+                10768.43359375
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5772.31005859375,
+                16.956220626831056,
+                10766.978515625
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5775.94970703125,
+                16.957317352294923,
+                10766.6728515625
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5776.07568359375,
+                16.95700454711914,
+                10768.1103515625
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5776.1611328125,
+                16.956871032714845,
+                10769.5419921875
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5776.24853515625,
+                16.956857681274415,
+                10770.9892578125
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_path_panels",
+            "DisplayName": "bldr_path_panels",
+            "Position": [
+                5776.37353515625,
+                16.95688247680664,
+                10772.41796875
+            ],
+            "Orientation": [
+                94.85761260986328,
+                0.0915396586060524,
+                0.004884747788310051
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter8x8",
+            "DisplayName": "BetterClutterCutter8x8",
+            "Position": [
+                5757.9482421875,
+                16.93136978149414,
+                10771.4833984375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long1",
+            "DisplayName": "bldr_Decal_dirt_damage_long1",
+            "Position": [
+                5753.63720703125,
+                20.4647216796875,
+                10769.14453125
+            ],
+            "Orientation": [
+                -94.32254028320313,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long1",
+            "DisplayName": "bldr_Decal_dirt_damage_long1",
+            "Position": [
+                5758.00390625,
+                20.430530548095704,
+                10769.87890625
+            ],
+            "Orientation": [
+                -98.79442596435547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999980926513672,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_tractorprohibited",
+            "DisplayName": "bldr_sign_tractorprohibited",
+            "Position": [
+                5753.2177734375,
+                17.978343963623048,
+                10772.177734375
+            ],
+            "Orientation": [
+                91.7356185913086,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Rubble_DirtPile_Small",
+            "DisplayName": "bldr_Rubble_DirtPile_Small",
+            "Position": [
+                5787.74853515625,
+                16.966936111450197,
+                10776.7294921875
+            ],
+            "Orientation": [
+                -174.5690460205078,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999984502792358,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5787.11572265625,
+                16.844226837158204,
+                10776.8154296875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Lada_Green",
+            "DisplayName": "Land_Wreck_Lada_Green",
+            "Position": [
+                5755.65478515625,
+                17.56197166442871,
+                10764.994140625
+            ],
+            "Orientation": [
+                123.88763427734375,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979734420776,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PlantMaterial",
+            "DisplayName": "bldr_prop_PlantMaterial",
+            "Position": [
+                5788.7861328125,
+                16.948823928833009,
+                10773.7998046875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PlantMaterial",
+            "DisplayName": "bldr_prop_PlantMaterial",
+            "Position": [
+                5788.826171875,
+                16.948816299438478,
+                10773.4912109375
+            ],
+            "Orientation": [
+                86.06980895996094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PlantMaterial",
+            "DisplayName": "bldr_prop_PlantMaterial",
+            "Position": [
+                5788.6416015625,
+                16.8953800201416,
+                10773.6328125
+            ],
+            "Orientation": [
+                126.79364776611328,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PlantMaterial",
+            "DisplayName": "bldr_prop_PlantMaterial",
+            "Position": [
+                5788.6689453125,
+                16.94883155822754,
+                10773.21484375
+            ],
+            "Orientation": [
+                90.59060668945313,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PlantMaterial",
+            "DisplayName": "bldr_prop_PlantMaterial",
+            "Position": [
+                5788.57666015625,
+                16.895387649536134,
+                10773.4189453125
+            ],
+            "Orientation": [
+                90.80121612548828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_MainCastle_barsdoors",
+            "DisplayName": "bldr_Prison_MainCastle_barsdoors",
+            "Position": [
+                5778.0810546875,
+                18.895442962646486,
+                10793.72265625
+            ],
+            "Orientation": [
+                6.650204658508301,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999977350234985,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_SeaChest",
+            "DisplayName": "bldr_prop_SeaChest",
+            "Position": [
+                5769.40380859375,
+                17.749814987182618,
+                10791.5
+            ],
+            "Orientation": [
+                -176.11630249023438,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_tent_boxwooden",
+            "DisplayName": "bldr_tent_boxwooden",
+            "Position": [
+                5776.53955078125,
+                18.22987174987793,
+                10789.388671875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelfs_small",
+            "DisplayName": "bldr_shelfs_small",
+            "Position": [
+                5773.76904296875,
+                17.751750946044923,
+                10795.6181640625
+            ],
+            "Orientation": [
+                -81.63374328613281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999982118606567,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_SeaChest",
+            "DisplayName": "bldr_prop_SeaChest",
+            "Position": [
+                5769.939453125,
+                17.747846603393556,
+                10795.6572265625
+            ],
+            "Orientation": [
+                -161.0297393798828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_WoodPile1",
+            "DisplayName": "bldr_Misc_WoodPile1",
+            "Position": [
+                5769.6201171875,
+                17.929061889648439,
+                10794.357421875
+            ],
+            "Orientation": [
+                6.146666526794434,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "SmokePoint_3",
+            "DisplayName": "SmokePoint_3",
+            "Position": [
+                5769.4599609375,
+                26.356800079345704,
+                10793.099609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_indcnc_10",
+            "DisplayName": "bldr_wall_indcnc_10",
+            "Position": [
+                5764.01171875,
+                16.245403289794923,
+                10794.1884765625
+            ],
+            "Orientation": [
+                -82.96549224853516,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979734420776,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_plnt_c_GrassDry_summer",
+            "DisplayName": "bldr_plnt_c_GrassDry_summer",
+            "Position": [
+                5755.7900390625,
+                17.24340057373047,
+                10773.099609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_plnt_c_GrassDry_summer",
+            "DisplayName": "bldr_plnt_c_GrassDry_summer",
+            "Position": [
+                5755.90087890625,
+                17.241159439086915,
+                10774.09375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_plnt_c_GrassDry_summer",
+            "DisplayName": "bldr_plnt_c_GrassDry_summer",
+            "Position": [
+                5756.95703125,
+                17.236875534057618,
+                10773.966796875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_plnt_c_GrassDry_summer",
+            "DisplayName": "bldr_plnt_c_GrassDry_summer",
+            "Position": [
+                5758.27685546875,
+                17.234270095825197,
+                10774.3232421875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_plnt_c_GrassDry_summer",
+            "DisplayName": "bldr_plnt_c_GrassDry_summer",
+            "Position": [
+                5757.07666015625,
+                17.236135482788087,
+                10774.9697265625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Mp133Shotgun",
+            "DisplayName": "bldr_Mp133Shotgun",
+            "Position": [
+                5788.48583984375,
+                18.28938865661621,
+                10781.2958984375
+            ],
+            "Orientation": [
+                -85.07727813720703,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999980926513672,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_case_cans_b",
+            "DisplayName": "bldr_case_cans_b",
+            "Position": [
+                5796.96728515625,
+                16.938385009765626,
+                10777.791015625
+            ],
+            "Orientation": [
+                5.655906677246094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_carpet_big",
+            "DisplayName": "bldr_carpet_big",
+            "Position": [
+                5790.66796875,
+                16.92229652404785,
+                10781.4345703125
+            ],
+            "Orientation": [
+                164.41831970214845,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sofa_leather_old",
+            "DisplayName": "bldr_sofa_leather_old",
+            "Position": [
+                5772.6611328125,
+                18.170814514160158,
+                10792.771484375
+            ],
+            "Orientation": [
+                -80.15921020507813,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_foldingbed_open",
+            "DisplayName": "bldr_foldingbed_open",
+            "Position": [
+                5804.5205078125,
+                17.856264114379884,
+                10795.8212890625
+            ],
+            "Orientation": [
+                2.510575771331787,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5756.60009765625,
+                19.150800704956056,
+                10762.599609375
+            ],
+            "Orientation": [
+                -174.98789978027345,
+                0.3059948980808258,
+                -0.3412439823150635
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5764.42431640625,
+                19.11271095275879,
+                10761.92578125
+            ],
+            "Orientation": [
+                -174.9969024658203,
+                0.19062718749046327,
+                -0.07533745467662811
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5772.05224609375,
+                19.10396385192871,
+                10761.0869140625
+            ],
+            "Orientation": [
+                -172.38136291503907,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5779.607421875,
+                19.10002326965332,
+                10760.01171875
+            ],
+            "Orientation": [
+                -171.65097045898438,
+                -0.09070350974798203,
+                -0.013311444781720639
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5787.19091796875,
+                19.081045150756837,
+                10758.955078125
+            ],
+            "Orientation": [
+                -172.56301879882813,
+                0.12649965286254884,
+                -0.260843962430954
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5794.58837890625,
+                19.06095314025879,
+                10757.7109375
+            ],
+            "Orientation": [
+                -167.94590759277345,
+                -0.013077807612717152,
+                -0.37773826718330386
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5802.0009765625,
+                19.02136993408203,
+                10756.3251953125
+            ],
+            "Orientation": [
+                -170.35696411132813,
+                -0.43649759888648989,
+                -0.16715340316295625
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5809.5517578125,
+                18.95742416381836,
+                10755.142578125
+            ],
+            "Orientation": [
+                -171.40345764160157,
+                -1.4713079929351807,
+                -0.6859167218208313
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5813.88720703125,
+                18.97932243347168,
+                10765.83203125
+            ],
+            "Orientation": [
+                96.25736236572266,
+                -0.8299627900123596,
+                0.0012015854008495808
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5814.7734375,
+                18.994232177734376,
+                10773.439453125
+            ],
+            "Orientation": [
+                97.2618408203125,
+                -0.19346566498279572,
+                0.06776315718889237
+            ],
+            "Scale": 1.0000001192092896,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5815.6875,
+                18.998672485351564,
+                10781.0966796875
+            ],
+            "Orientation": [
+                96.53226470947266,
+                -0.27323421835899355,
+                -0.03128737583756447
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5816.0947265625,
+                18.99245262145996,
+                10788.7197265625
+            ],
+            "Orientation": [
+                89.50260925292969,
+                -0.1833418309688568,
+                0.001591594540514052
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5816.1962890625,
+                18.986074447631837,
+                10793.806640625
+            ],
+            "Orientation": [
+                91.5972900390625,
+                -0.2698003351688385,
+                -0.19094285368919373
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5812.63720703125,
+                18.987897872924806,
+                10798.5927734375
+            ],
+            "Orientation": [
+                10.372302055358887,
+                -0.22986480593681336,
+                0.237517312169075
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5805.11572265625,
+                19.022939682006837,
+                10800.0166015625
+            ],
+            "Orientation": [
+                11.076041221618653,
+                -0.35790425539016726,
+                0.3969651162624359
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5797.62841796875,
+                19.066679000854493,
+                10801.5341796875
+            ],
+            "Orientation": [
+                11.991565704345704,
+                -0.2174399346113205,
+                0.14125357568264008
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5790.072265625,
+                19.08493423461914,
+                10803.0703125
+            ],
+            "Orientation": [
+                11.29384994506836,
+                -0.10785336047410965,
+                0.07194612920284271
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5782.5498046875,
+                19.093976974487306,
+                10804.453125
+            ],
+            "Orientation": [
+                9.731924057006836,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5774.962890625,
+                19.095056533813478,
+                10805.599609375
+            ],
+            "Orientation": [
+                7.354879856109619,
+                -0.10265638679265976,
+                0.07918508350849152
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5767.46875,
+                19.12023162841797,
+                10806.880859375
+            ],
+            "Orientation": [
+                11.918427467346192,
+                0.8399621844291687,
+                0.4583432376384735
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5757.7978515625,
+                19.273038864135743,
+                10805.0390625
+            ],
+            "Orientation": [
+                -79.40379333496094,
+                1.74418044090271,
+                0.1400197148323059
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5762.2119140625,
+                19.157325744628908,
+                10807.935546875
+            ],
+            "Orientation": [
+                10.830798149108887,
+                -0.4347222149372101,
+                -0.16715340316295625
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5756.279296875,
+                19.12619972229004,
+                10797.5888671875
+            ],
+            "Orientation": [
+                102.77871704101563,
+                -2.8938770294189455,
+                -0.4694552719593048
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5754.86328125,
+                19.13396453857422,
+                10790.0283203125
+            ],
+            "Orientation": [
+                -80.9861831665039,
+                0.8146865367889404,
+                0.12924820184707642
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5754.08740234375,
+                19.126184463500978,
+                10782.3828125
+            ],
+            "Orientation": [
+                -87.75738525390625,
+                0.27837830781936648,
+                -0.08084277808666229
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5753.86328125,
+                19.128114700317384,
+                10775.716796875
+            ],
+            "Orientation": [
+                91.2530746459961,
+                -0.3645757734775543,
+                -0.09967000782489777
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Billboard_Custom_Color",
+            "DisplayName": "Billboard_Custom_Color",
+            "Position": [
+                5819.08984375,
+                18.348899841308595,
+                10764.2001953125
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5796.36669921875,
+                19.073820114135743,
+                10773.259765625
+            ],
+            "Orientation": [
+                96.25736236572266,
+                -0.829933226108551,
+                0.0012015854008495808
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5795.9228515625,
+                19.073820114135743,
+                10769.3515625
+            ],
+            "Orientation": [
+                96.25736236572266,
+                -0.829933226108551,
+                0.0012015854008495808
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5813.447265625,
+                20.62110137939453,
+                10766.115234375
+            ],
+            "Orientation": [
+                -83.45040893554688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5814.298828125,
+                20.51607322692871,
+                10773.8369140625
+            ],
+            "Orientation": [
+                -83.45040893554688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5815.263671875,
+                20.47276496887207,
+                10781.8486328125
+            ],
+            "Orientation": [
+                -83.45040893554688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5815.3212890625,
+                20.818763732910158,
+                10787.61328125
+            ],
+            "Orientation": [
+                89.73900604248047,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5815.17578125,
+                20.795047760009767,
+                10793.7763671875
+            ],
+            "Orientation": [
+                88.04761505126953,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5810.87744140625,
+                20.81914520263672,
+                10798.0654296875
+            ],
+            "Orientation": [
+                -167.42205810546876,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999969005584717,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5804.02685546875,
+                20.854143142700197,
+                10799.3984375
+            ],
+            "Orientation": [
+                -169.2686004638672,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999949932098389,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5796.1982421875,
+                20.75859260559082,
+                10800.9326171875
+            ],
+            "Orientation": [
+                -168.11895751953126,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999910593032837,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5788.1044921875,
+                20.956241607666017,
+                10802.375
+            ],
+            "Orientation": [
+                -169.89833068847657,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999964833259583,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5780.4677734375,
+                20.789289474487306,
+                10803.8623046875
+            ],
+            "Orientation": [
+                8.801664352416993,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999945163726807,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5772.0244140625,
+                21.01725196838379,
+                10805.3828125
+            ],
+            "Orientation": [
+                8.626798629760743,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999948740005493,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5763.78369140625,
+                20.979562759399415,
+                10806.6279296875
+            ],
+            "Orientation": [
+                -171.5737762451172,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999983906745911,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5758.8603515625,
+                20.962310791015626,
+                10803.8798828125
+            ],
+            "Orientation": [
+                -83.45040893554688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5757.8046875,
+                20.92003631591797,
+                10796.8291015625
+            ],
+            "Orientation": [
+                103.5609130859375,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999948740005493,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5756.65576171875,
+                20.935976028442384,
+                10789.287109375
+            ],
+            "Orientation": [
+                -83.45040893554688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5755.74658203125,
+                20.9637508392334,
+                10781.2109375
+            ],
+            "Orientation": [
+                -84.32257080078125,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999960064888,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5755.06884765625,
+                20.930513381958009,
+                10775.794921875
+            ],
+            "Orientation": [
+                -83.45040893554688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5756.92333984375,
+                20.237220764160158,
+                10762.44921875
+            ],
+            "Orientation": [
+                5.292316913604736,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999951124191284,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5764.88427734375,
+                20.15506362915039,
+                10761.669921875
+            ],
+            "Orientation": [
+                5.292316913604736,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5772.89013671875,
+                20.191699981689454,
+                10760.900390625
+            ],
+            "Orientation": [
+                7.329727649688721,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5780.9375,
+                20.187271118164064,
+                10759.689453125
+            ],
+            "Orientation": [
+                7.718358516693115,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5789.3037109375,
+                20.15937042236328,
+                10758.5146484375
+            ],
+            "Orientation": [
+                7.21489143371582,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5796.98193359375,
+                20.132461547851564,
+                10757.1259765625
+            ],
+            "Orientation": [
+                13.099894523620606,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5808.5986328125,
+                20.053293228149415,
+                10755.16015625
+            ],
+            "Orientation": [
+                7.563013553619385,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999926090240479,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5802.869140625,
+                20.10624122619629,
+                10756.1376953125
+            ],
+            "Orientation": [
+                11.31291389465332,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999922513961792,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_tank_small_rusty",
+            "DisplayName": "bldr_tank_small_rusty",
+            "Position": [
+                5794.06982421875,
+                18.066600799560548,
+                10769.099609375
+            ],
+            "Orientation": [
+                96.71329498291016,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_tank_small_gas",
+            "DisplayName": "bldr_tank_small_gas",
+            "Position": [
+                5787.53125,
+                17.429597854614259,
+                10783.578125
+            ],
+            "Orientation": [
+                -175.72312927246095,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999969601631165,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x4",
+            "DisplayName": "BetterClutterCutter4x4",
+            "Position": [
+                5801.88330078125,
+                16.872529983520509,
+                10780.42578125
+            ],
+            "Orientation": [
+                -86.67357635498047,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5801.26416015625,
+                16.85860824584961,
+                10785.931640625
+            ],
+            "Orientation": [
+                10.306536674499512,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999980926513672,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5809.73095703125,
+                16.801626205444337,
+                10766.486328125
+            ],
+            "Orientation": [
+                95.60177612304688,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5805.5625,
+                16.845294952392579,
+                10772.9228515625
+            ],
+            "Orientation": [
+                86.8792953491211,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999960064888,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Chair_Camp2",
+            "DisplayName": "bldr_Misc_Chair_Camp2",
+            "Position": [
+                5801.94384765625,
+                17.348880767822267,
+                10778.9306640625
+            ],
+            "Orientation": [
+                156.7494659423828,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Chair_Camp2",
+            "DisplayName": "bldr_Misc_Chair_Camp2",
+            "Position": [
+                5802.46435546875,
+                17.344446182250978,
+                10781.7333984375
+            ],
+            "Orientation": [
+                48.6146125793457,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hospital_bench",
+            "DisplayName": "bldr_hospital_bench",
+            "Position": [
+                5799.875,
+                16.849624633789064,
+                10780.359375
+            ],
+            "Orientation": [
+                -83.26764678955078,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_tent_ltable",
+            "DisplayName": "bldr_tent_ltable",
+            "Position": [
+                5809.13134765625,
+                17.283065795898439,
+                10775.0498046875
+            ],
+            "Orientation": [
+                -172.5269012451172,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964833259583,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_pallets3",
+            "DisplayName": "bldr_misc_pallets3",
+            "Position": [
+                5808.3310546875,
+                17.57681655883789,
+                10764.541015625
+            ],
+            "Orientation": [
+                -10.499486923217774,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_pallets2",
+            "DisplayName": "bldr_misc_pallets2",
+            "Position": [
+                5797.38916015625,
+                17.25612449645996,
+                10771.326171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Toilet_Dry",
+            "DisplayName": "bldr_Misc_Toilet_Dry",
+            "Position": [
+                5800.546875,
+                18.556612014770509,
+                10798.0927734375
+            ],
+            "Orientation": [
+                -82.7926025390625,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x4",
+            "DisplayName": "BetterClutterCutter4x4",
+            "Position": [
+                5788.890625,
+                16.880571365356447,
+                10796.94921875
+            ],
+            "Orientation": [
+                58.00411605834961,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Tower_Small",
+            "DisplayName": "Land_Mil_Tower_Small",
+            "Position": [
+                5810.87890625,
+                20.332965850830079,
+                10766.81640625
+            ],
+            "Orientation": [
+                -172.27691650390626,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Farm_WaterTower_Small",
+            "DisplayName": "Land_Farm_WaterTower_Small",
+            "Position": [
+                5760.8017578125,
+                20.943275451660158,
+                10786.8984375
+            ],
+            "Orientation": [
+                97.82792663574219,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_fenr_3",
+            "DisplayName": "bldr_wall_fenr_3",
+            "Position": [
+                5811.29052734375,
+                17.734716415405275,
+                10762.609375
+            ],
+            "Orientation": [
+                10.162569999694825,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_fenr_3",
+            "DisplayName": "bldr_wall_fenr_3",
+            "Position": [
+                5808.4287109375,
+                17.75667953491211,
+                10763.0625
+            ],
+            "Orientation": [
+                10.162569999694825,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_fenr_3",
+            "DisplayName": "bldr_wall_fenr_3",
+            "Position": [
+                5807.18701171875,
+                17.754669189453126,
+                10764.81640625
+            ],
+            "Orientation": [
+                -84.95498657226563,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_feng_pole",
+            "DisplayName": "bldr_wall_feng_pole",
+            "Position": [
+                5809.86767578125,
+                17.7255916595459,
+                10762.759765625
+            ],
+            "Orientation": [
+                -169.80572509765626,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_feng_pole",
+            "DisplayName": "bldr_wall_feng_pole",
+            "Position": [
+                5807.0068359375,
+                17.700227737426759,
+                10763.396484375
+            ],
+            "Orientation": [
+                -169.80572509765626,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_fenr_3",
+            "DisplayName": "bldr_wall_fenr_3",
+            "Position": [
+                5807.42626953125,
+                17.744468688964845,
+                10767.6640625
+            ],
+            "Orientation": [
+                -84.95498657226563,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_feng_pole",
+            "DisplayName": "bldr_wall_feng_pole",
+            "Position": [
+                5807.31103515625,
+                17.72323989868164,
+                10766.2783203125
+            ],
+            "Orientation": [
+                91.15995788574219,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_indfnc_3",
+            "DisplayName": "bldr_wall_indfnc_3",
+            "Position": [
+                5793.76513671875,
+                17.399795532226564,
+                10785.96875
+            ],
+            "Orientation": [
+                123.7087173461914,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_indfnc_3",
+            "DisplayName": "bldr_wall_indfnc_3",
+            "Position": [
+                5795.88671875,
+                17.411909103393556,
+                10787.828125
+            ],
+            "Orientation": [
+                152.1171875,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_indfnc_3",
+            "DisplayName": "bldr_wall_indfnc_3",
+            "Position": [
+                5797.75537109375,
+                17.39116859436035,
+                10790.0
+            ],
+            "Orientation": [
+                108.62139892578125,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_indfnc_3",
+            "DisplayName": "bldr_wall_indfnc_3",
+            "Position": [
+                5798.39892578125,
+                17.37334442138672,
+                10792.9677734375
+            ],
+            "Orientation": [
+                95.14743041992188,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999980926513672,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_indfnc_3",
+            "DisplayName": "bldr_wall_indfnc_3",
+            "Position": [
+                5798.6826171875,
+                17.35011100769043,
+                10795.96484375
+            ],
+            "Orientation": [
+                96.58513641357422,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_indfnc_3",
+            "DisplayName": "bldr_wall_indfnc_3",
+            "Position": [
+                5798.87548828125,
+                17.295413970947267,
+                10798.923828125
+            ],
+            "Orientation": [
+                92.09554290771485,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Caravan_MGreen",
+            "DisplayName": "Land_Wreck_Caravan_MGreen",
+            "Position": [
+                5804.73974609375,
+                18.540124893188478,
+                10794.212890625
+            ],
+            "Orientation": [
+                9.950286865234375,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999986886978149,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Volha_Blue",
+            "DisplayName": "Land_Wreck_Volha_Blue",
+            "Position": [
+                5800.72119140625,
+                17.4389705657959,
+                10771.830078125
+            ],
+            "Orientation": [
+                -97.55966186523438,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x4",
+            "DisplayName": "BetterClutterCutter4x4",
+            "Position": [
+                5784.61376953125,
+                16.88030242919922,
+                10787.892578125
+            ],
+            "Orientation": [
+                8.439244270324707,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999959468841553,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Misc_Greenhouse",
+            "DisplayName": "Land_Misc_Greenhouse",
+            "Position": [
+                5791.240234375,
+                18.04640007019043,
+                10774.599609375
+            ],
+            "Orientation": [
+                5.320827007293701,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x4",
+            "DisplayName": "BetterClutterCutter4x4",
+            "Position": [
+                5792.091796875,
+                16.86265754699707,
+                10775.908203125
+            ],
+            "Orientation": [
+                -175.38890075683595,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Plant_Tomato",
+            "DisplayName": "bldr_prop_Plant_Tomato",
+            "Position": [
+                5790.17822265625,
+                17.05864143371582,
+                10775.6337890625
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Plant_Tomato",
+            "DisplayName": "bldr_prop_Plant_Tomato",
+            "Position": [
+                5791.37060546875,
+                16.992544174194337,
+                10775.7587890625
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Plant_Tomato",
+            "DisplayName": "bldr_prop_Plant_Tomato",
+            "Position": [
+                5792.94873046875,
+                16.992109298706056,
+                10775.638671875
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Plant_Tomato",
+            "DisplayName": "bldr_prop_Plant_Tomato",
+            "Position": [
+                5793.0869140625,
+                16.990114212036134,
+                10774.326171875
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Plant_Tomato",
+            "DisplayName": "bldr_prop_Plant_Tomato",
+            "Position": [
+                5792.79052734375,
+                16.990140914916993,
+                10773.0830078125
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Plant_Tomato",
+            "DisplayName": "bldr_prop_Plant_Tomato",
+            "Position": [
+                5791.25439453125,
+                17.056608200073243,
+                10773.14453125
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Plant_Tomato",
+            "DisplayName": "bldr_prop_Plant_Tomato",
+            "Position": [
+                5789.78125,
+                17.056625366210939,
+                10773.2109375
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5804.705078125,
+                16.84978675842285,
+                10776.6435546875
+            ],
+            "Orientation": [
+                75.61833953857422,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999933242797852,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5791.3955078125,
+                19.073314666748048,
+                10766.1396484375
+            ],
+            "Orientation": [
+                -173.5079345703125,
+                -0.8148660659790039,
+                0.0012015654938295484
+            ],
+            "Scale": 0.9999653697013855,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5782.119140625,
+                19.055444717407228,
+                10767.3271484375
+            ],
+            "Orientation": [
+                -173.5079345703125,
+                -0.8148378133773804,
+                0.0012015654938295484
+            ],
+            "Scale": 0.9999653697013855,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_MainCastle_barsdoors",
+            "DisplayName": "bldr_Prison_MainCastle_barsdoors",
+            "Position": [
+                5786.16015625,
+                17.928499221801759,
+                10766.7001953125
+            ],
+            "Orientation": [
+                96.11228942871094,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5782.80908203125,
+                20.14259147644043,
+                10767.5380859375
+            ],
+            "Orientation": [
+                7.21489143371582,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5790.80859375,
+                20.161128997802736,
+                10766.3408203125
+            ],
+            "Orientation": [
+                7.214890480041504,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5786.5205078125,
+                16.848426818847658,
+                10770.94921875
+            ],
+            "Orientation": [
+                -105.6139144897461,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999996542930603,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5784.33544921875,
+                16.855682373046876,
+                10778.25
+            ],
+            "Orientation": [
+                83.49266052246094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999946355819702,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5784.7353515625,
+                16.865293502807618,
+                10785.3212890625
+            ],
+            "Orientation": [
+                96.59174346923828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5779.35986328125,
+                17.611799240112306,
+                10781.400390625
+            ],
+            "Orientation": [
+                6.33627986907959,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5771.52734375,
+                17.46611213684082,
+                10782.189453125
+            ],
+            "Orientation": [
+                4.2494683265686039,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999993085861206,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Slum_Roof3",
+            "DisplayName": "bldr_Slum_Roof3",
+            "Position": [
+                5800.91455078125,
+                17.771371841430665,
+                10780.5810546875
+            ],
+            "Orientation": [
+                94.37124633789063,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999993085861206,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_workbench_dz",
+            "DisplayName": "bldr_workbench_dz",
+            "Position": [
+                5779.283203125,
+                17.334203720092775,
+                10770.4912109375
+            ],
+            "Orientation": [
+                -85.48688507080078,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979734420776,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Chainsaw",
+            "DisplayName": "Chainsaw",
+            "Position": [
+                5779.181640625,
+                18.051790237426759,
+                10771.2392578125
+            ],
+            "Orientation": [
+                54.5966796875,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999982118606567,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CanisterGasoline",
+            "DisplayName": "bldr_prop_CanisterGasoline",
+            "Position": [
+                5779.6201171875,
+                17.101003646850587,
+                10769.6826171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CanisterGasoline",
+            "DisplayName": "bldr_prop_CanisterGasoline",
+            "Position": [
+                5779.595703125,
+                17.101037979125978,
+                10770.095703125
+            ],
+            "Orientation": [
+                -57.5466423034668,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999978542327881,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x4",
+            "DisplayName": "BetterClutterCutter4x4",
+            "Position": [
+                5781.95263671875,
+                16.883251190185548,
+                10771.2392578125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5787.7841796875,
+                16.843666076660158,
+                10776.83203125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Lada_Red",
+            "DisplayName": "Land_Wreck_Lada_Red",
+            "Position": [
+                5777.185546875,
+                17.50889778137207,
+                10776.572265625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_S1023_Blue",
+            "DisplayName": "Land_Wreck_S1023_Blue",
+            "Position": [
+                5773.7275390625,
+                17.811166763305665,
+                10776.9091796875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Harverster",
+            "DisplayName": "Land_Wreck_Harverster",
+            "Position": [
+                5794.23974609375,
+                18.698612213134767,
+                10796.376953125
+            ],
+            "Orientation": [
+                -130.1693572998047,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_TirePile_Large",
+            "DisplayName": "bldr_Misc_TirePile_Large",
+            "Position": [
+                5761.86376953125,
+                17.28542137145996,
+                10776.4345703125
+            ],
+            "Orientation": [
+                90.23121643066406,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                5758.72021484375,
+                19.060199737548829,
+                10775.2001953125
+            ],
+            "Orientation": [
+                -173.5079345703125,
+                -0.8152031302452087,
+                0.0012015694519504905
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_WoodenCrate_5x",
+            "DisplayName": "bldr_Misc_WoodenCrate_5x",
+            "Position": [
+                5787.080078125,
+                17.816028594970704,
+                10781.0556640625
+            ],
+            "Orientation": [
+                90.64134216308594,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999966621398926,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_TirePile_Large",
+            "DisplayName": "bldr_Misc_TirePile_Large",
+            "Position": [
+                5763.59375,
+                17.282838821411134,
+                10776.5302734375
+            ],
+            "Orientation": [
+                -43.80512237548828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Tractor",
+            "DisplayName": "Land_Wreck_Tractor",
+            "Position": [
+                5787.97119140625,
+                18.211671829223634,
+                10797.193359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Slum_Roof4",
+            "DisplayName": "bldr_Slum_Roof4",
+            "Position": [
+                5775.595703125,
+                24.064870834350587,
+                10791.693359375
+            ],
+            "Orientation": [
+                -83.48843383789063,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999931454658508,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_roadblock_arrow",
+            "DisplayName": "bldr_sign_roadblock_arrow",
+            "Position": [
+                5806.955078125,
+                18.700464248657228,
+                10763.1845703125
+            ],
+            "Orientation": [
+                93.41616821289063,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_roadblock_stop",
+            "DisplayName": "bldr_sign_roadblock_stop",
+            "Position": [
+                5788.0390625,
+                18.20648193359375,
+                10766.240234375
+            ],
+            "Orientation": [
+                96.53379821777344,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_tirepile_group",
+            "DisplayName": "bldr_misc_tirepile_group",
+            "Position": [
+                5768.37255859375,
+                21.14693260192871,
+                10786.18359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_FuelStation_Feed",
+            "DisplayName": "Land_FuelStation_Feed",
+            "Position": [
+                5799.50048828125,
+                17.687599182128908,
+                10763.19921875
+            ],
+            "Orientation": [
+                7.310552597045898,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999957084655762,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_misc_chickenCoop",
+            "DisplayName": "Land_misc_chickenCoop",
+            "Position": [
+                5780.1708984375,
+                17.677907943725587,
+                10788.9658203125
+            ],
+            "Orientation": [
+                -82.32454681396485,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5773.9990234375,
+                16.87529945373535,
+                10784.724609375
+            ],
+            "Orientation": [
+                13.214723587036133,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999949932098389,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_haybale_decayed",
+            "DisplayName": "bldr_misc_haybale_decayed",
+            "Position": [
+                5771.27099609375,
+                17.4383602142334,
+                10787.2197265625
+            ],
+            "Orientation": [
+                35.845001220703128,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999977350234985,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_pallets3",
+            "DisplayName": "bldr_misc_pallets3",
+            "Position": [
+                5811.025390625,
+                17.542268753051759,
+                10763.8388671875
+            ],
+            "Orientation": [
+                -153.83204650878907,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5809.0185546875,
+                16.813541412353517,
+                10774.669921875
+            ],
+            "Orientation": [
+                98.87955474853516,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                5796.4111328125,
+                20.159914016723634,
+                10772.697265625
+            ],
+            "Orientation": [
+                -83.45040893554688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5786.6064453125,
+                16.84205436706543,
+                10765.8857421875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5787.29345703125,
+                16.838716506958009,
+                10764.9609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5785.91259765625,
+                16.84547233581543,
+                10765.05859375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter1x1",
+            "DisplayName": "BetterClutterCutter1x1",
+            "Position": [
+                5786.88427734375,
+                16.84065055847168,
+                10763.8740234375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_haybale",
+            "DisplayName": "bldr_misc_haybale",
+            "Position": [
+                5769.09814453125,
+                17.626482009887697,
+                10787.5244140625
+            ],
+            "Orientation": [
+                102.72888946533203,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_WoodenCrate_3x",
+            "DisplayName": "bldr_Misc_WoodenCrate_3x",
+            "Position": [
+                5791.95654296875,
+                17.56071662902832,
+                10785.498046875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Roadblock_Table",
+            "DisplayName": "Land_Roadblock_Table",
+            "Position": [
+                5790.63330078125,
+                17.254926681518556,
+                10778.7490234375
+            ],
+            "Orientation": [
+                -177.1221160888672,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Table_Large",
+            "DisplayName": "bldr_Misc_Table_Large",
+            "Position": [
+                5791.693359375,
+                17.28297233581543,
+                10782.6865234375
+            ],
+            "Orientation": [
+                6.172486305236816,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999995768070221,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_box_c_multi",
+            "DisplayName": "bldr_box_c_multi",
+            "Position": [
+                5789.0791015625,
+                16.8458251953125,
+                10793.86328125
+            ],
+            "Orientation": [
+                41.989410400390628,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999984502792358,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BrakeFluid",
+            "DisplayName": "bldr_prop_BrakeFluid",
+            "Position": [
+                5779.41845703125,
+                17.81616973876953,
+                10771.529296875
+            ],
+            "Orientation": [
+                -161.84254455566407,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Firewood",
+            "DisplayName": "bldr_prop_Firewood",
+            "Position": [
+                5799.46728515625,
+                16.895904541015626,
+                10781.54296875
+            ],
+            "Orientation": [
+                160.72915649414063,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_metalcrate",
+            "DisplayName": "bldr_metalcrate",
+            "Position": [
+                5788.6015625,
+                16.908523559570314,
+                10778.8916015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenCrate",
+            "DisplayName": "bldr_prop_WoodenCrate",
+            "Position": [
+                5789.1884765625,
+                16.901229858398439,
+                10778.8828125
+            ],
+            "Orientation": [
+                -169.0662078857422,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "SeaChest",
+            "DisplayName": "SeaChest",
+            "Position": [
+                5788.74609375,
+                16.88378143310547,
+                10779.9208984375
+            ],
+            "Orientation": [
+                3.8785791397094728,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999971389770508,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Roadblock_Table",
+            "DisplayName": "Land_Roadblock_Table",
+            "Position": [
+                5789.01123046875,
+                17.25909996032715,
+                10780.39453125
+            ],
+            "Orientation": [
+                91.40348052978516,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelf_1side",
+            "DisplayName": "bldr_shelf_1side",
+            "Position": [
+                5789.00146484375,
+                16.849987030029298,
+                10783.533203125
+            ],
+            "Orientation": [
+                -175.59571838378907,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_food",
+            "DisplayName": "bldr_sign_food",
+            "Position": [
+                5793.13427734375,
+                18.045055389404298,
+                10786.0908203125
+            ],
+            "Orientation": [
+                -75.35840606689453,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999982118606567,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CombinationLock",
+            "DisplayName": "bldr_prop_CombinationLock",
+            "Position": [
+                5789.19140625,
+                17.663286209106447,
+                10781.263671875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CamoNet",
+            "DisplayName": "bldr_prop_CamoNet",
+            "Position": [
+                5789.0625,
+                16.994871139526368,
+                10780.6416015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PowerGenerator",
+            "DisplayName": "bldr_prop_PowerGenerator",
+            "Position": [
+                5791.72021484375,
+                16.88629913330078,
+                10779.5
+            ],
+            "Orientation": [
+                92.01669311523438,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BatteryCharger",
+            "DisplayName": "bldr_prop_BatteryCharger",
+            "Position": [
+                5791.43701171875,
+                17.64929962158203,
+                10778.66796875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_AmmoBox",
+            "DisplayName": "bldr_prop_AmmoBox",
+            "Position": [
+                5788.77001953125,
+                17.76490020751953,
+                10781.2001953125
+            ],
+            "Orientation": [
+                -83.9906997680664,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_FirstAidKit",
+            "DisplayName": "bldr_prop_FirstAidKit",
+            "Position": [
+                5789.1083984375,
+                17.479557037353517,
+                10782.705078125
+            ],
+            "Orientation": [
+                147.0504608154297,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_AntiPestsSpray",
+            "DisplayName": "bldr_prop_AntiPestsSpray",
+            "Position": [
+                5788.75390625,
+                17.820249557495118,
+                10780.2275390625
+            ],
+            "Orientation": [
+                -53.12999725341797,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PlantMaterial",
+            "DisplayName": "bldr_prop_PlantMaterial",
+            "Position": [
+                5788.90771484375,
+                17.67831039428711,
+                10779.619140625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Vodka",
+            "DisplayName": "bldr_prop_Vodka",
+            "Position": [
+                5789.11669921875,
+                17.177919387817384,
+                10782.908203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Canteen",
+            "DisplayName": "bldr_prop_Canteen",
+            "Position": [
+                5789.11962890625,
+                17.15240478515625,
+                10782.7041015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_SodaCan_Cola",
+            "DisplayName": "bldr_prop_SodaCan_Cola",
+            "Position": [
+                5789.208984375,
+                17.45299530029297,
+                10783.6767578125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_SodaCan_Kvass",
+            "DisplayName": "bldr_prop_SodaCan_Kvass",
+            "Position": [
+                5789.29345703125,
+                17.461063385009767,
+                10783.7548828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BoxCerealCrunchin",
+            "DisplayName": "bldr_prop_BoxCerealCrunchin",
+            "Position": [
+                5789.27685546875,
+                18.262155532836915,
+                10783.296875
+            ],
+            "Orientation": [
+                -53.800968170166019,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999985694885254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BakedBeansCan",
+            "DisplayName": "bldr_prop_BakedBeansCan",
+            "Position": [
+                5789.12841796875,
+                17.749448776245118,
+                10783.09765625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PeachesCan",
+            "DisplayName": "bldr_prop_PeachesCan",
+            "Position": [
+                5789.11328125,
+                17.749584197998048,
+                10783.2001953125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TacticalBaconCan",
+            "DisplayName": "bldr_prop_TacticalBaconCan",
+            "Position": [
+                5789.20849609375,
+                17.74956703186035,
+                10783.1767578125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Tomato",
+            "DisplayName": "bldr_prop_Tomato",
+            "Position": [
+                5789.078125,
+                17.657489776611329,
+                10779.9599609375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Tomato",
+            "DisplayName": "bldr_prop_Tomato",
+            "Position": [
+                5789.02685546875,
+                17.65751838684082,
+                10780.0380859375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Tomato",
+            "DisplayName": "bldr_prop_Tomato",
+            "Position": [
+                5789.19482421875,
+                17.657581329345704,
+                10780.0546875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Tomato",
+            "DisplayName": "bldr_prop_Tomato",
+            "Position": [
+                5789.1376953125,
+                17.657512664794923,
+                10780.173828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Tomato",
+            "DisplayName": "bldr_prop_Tomato",
+            "Position": [
+                5788.8828125,
+                17.657535552978517,
+                10780.0595703125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Tomato",
+            "DisplayName": "bldr_prop_Tomato",
+            "Position": [
+                5789.04541015625,
+                17.657461166381837,
+                10780.0166015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Cannabis",
+            "DisplayName": "bldr_prop_Cannabis",
+            "Position": [
+                5789.01904296875,
+                17.691923141479493,
+                10780.2705078125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_VitaminBottle",
+            "DisplayName": "bldr_prop_VitaminBottle",
+            "Position": [
+                5789.13525390625,
+                17.43585777282715,
+                10783.1318359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Splint",
+            "DisplayName": "bldr_prop_Splint",
+            "Position": [
+                5788.81201171875,
+                17.252220153808595,
+                10782.427734375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_S1023_Blue",
+            "DisplayName": "Land_Wreck_S1023_Blue",
+            "Position": [
+                5830.9228515625,
+                17.615375518798829,
+                10742.2607421875
+            ],
+            "Orientation": [
+                88.16949462890625,
+                2.612119674682617,
+                -1.275863528251648
+            ],
+            "Scale": 0.9995701313018799,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long1",
+            "DisplayName": "bldr_Decal_dirt_damage_long1",
+            "Position": [
+                5841.0029296875,
+                20.113649368286134,
+                10755.7666015625
+            ],
+            "Orientation": [
+                65.5163345336914,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long1",
+            "DisplayName": "bldr_Decal_dirt_damage_long1",
+            "Position": [
+                5841.89599609375,
+                20.34919548034668,
+                10751.2666015625
+            ],
+            "Orientation": [
+                57.880489349365237,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long1",
+            "DisplayName": "bldr_Decal_dirt_damage_long1",
+            "Position": [
+                5843.84814453125,
+                20.543851852416993,
+                10748.2998046875
+            ],
+            "Orientation": [
+                46.463966369628909,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999985694885254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Lada_Green",
+            "DisplayName": "Land_Wreck_Lada_Green",
+            "Position": [
+                5826.4052734375,
+                16.970455169677736,
+                10762.8056640625
+            ],
+            "Orientation": [
+                35.050750732421878,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979138374329,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x4",
+            "DisplayName": "BetterClutterCutter4x4",
+            "Position": [
+                5841.1162109375,
+                17.14158821105957,
+                10753.8515625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x4",
+            "DisplayName": "BetterClutterCutter4x4",
+            "Position": [
+                5844.21630859375,
+                17.509431838989259,
+                10747.9111328125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PileOfWoodenPlanks",
+            "DisplayName": "bldr_prop_PileOfWoodenPlanks",
+            "Position": [
+                5783.29052734375,
+                17.05704689025879,
+                10768.4892578125
+            ],
+            "Orientation": [
+                -173.14541625976563,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PileOfWoodenPlanks",
+            "DisplayName": "bldr_prop_PileOfWoodenPlanks",
+            "Position": [
+                5783.3603515625,
+                17.68388557434082,
+                10768.3095703125
+            ],
+            "Orientation": [
+                -173.14541625976563,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                5782.3583984375,
+                16.908246994018556,
+                10770.443359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                5784.00830078125,
+                16.932804107666017,
+                10769.677734375
+            ],
+            "Orientation": [
+                147.42588806152345,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_TirePile_Large",
+            "DisplayName": "bldr_Misc_TirePile_Large",
+            "Position": [
+                5820.07763671875,
+                17.00840950012207,
+                10762.6201171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_TirePile_Large",
+            "DisplayName": "bldr_Misc_TirePile_Large",
+            "Position": [
+                5820.39013671875,
+                16.99911880493164,
+                10763.888671875
+            ],
+            "Orientation": [
+                -48.860252380371097,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999993443489075,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_TirePile_Large",
+            "DisplayName": "bldr_Misc_TirePile_Large",
+            "Position": [
+                5821.20654296875,
+                17.237751007080079,
+                10763.017578125
+            ],
+            "Orientation": [
+                157.6268310546875,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "FBF_Static_Campfire",
+            "DisplayName": "FBF_Static_Campfire",
+            "Position": [
+                5819.8486328125,
+                16.193912506103517,
+                10762.7568359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "FBF_Static_Campfire",
+            "DisplayName": "FBF_Static_Campfire",
+            "Position": [
+                5821.33740234375,
+                16.322254180908204,
+                10762.884765625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "FBF_Static_Campfire",
+            "DisplayName": "FBF_Static_Campfire",
+            "Position": [
+                5801.33056640625,
+                16.854700088500978,
+                10780.48046875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Slum_Roof2",
+            "DisplayName": "bldr_Slum_Roof2",
+            "Position": [
+                5779.84912109375,
+                19.027042388916017,
+                10794.1875
+            ],
+            "Orientation": [
+                -82.02412414550781,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Slum_Roof6",
+            "DisplayName": "bldr_Slum_Roof6",
+            "Position": [
+                5771.3642578125,
+                23.420658111572267,
+                10796.0908203125
+            ],
+            "Orientation": [
+                -26.17831802368164,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999984502792358,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Pile1",
+            "DisplayName": "bldr_Garbage_Pile1",
+            "Position": [
+                5757.76123046875,
+                17.329240798950197,
+                10776.5859375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.09167524427175522
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5761.833984375,
+                16.876392364501954,
+                10781.515625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5769.263671875,
+                16.875295639038087,
+                10781.5224609375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5774.33740234375,
+                16.875289916992189,
+                10781.703125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long2",
+            "DisplayName": "bldr_Decal_dirt_damage_long2",
+            "Position": [
+                5772.44873046875,
+                20.422683715820314,
+                10781.6201171875
+            ],
+            "Orientation": [
+                84.38133239746094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long2",
+            "DisplayName": "bldr_Decal_dirt_damage_long2",
+            "Position": [
+                5762.7490234375,
+                20.704605102539064,
+                10781.0390625
+            ],
+            "Orientation": [
+                86.7390365600586,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "BetterClutterCutter4x2",
+            "DisplayName": "BetterClutterCutter4x2",
+            "Position": [
+                5801.31787109375,
+                16.840087890625,
+                10795.8916015625
+            ],
+            "Orientation": [
+                -86.3476333618164,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long2",
+            "DisplayName": "bldr_Decal_dirt_damage_long2",
+            "Position": [
+                5800.734375,
+                20.40454864501953,
+                10790.119140625
+            ],
+            "Orientation": [
+                4.099783897399902,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long3",
+            "DisplayName": "bldr_Decal_dirt_damage_long3",
+            "Position": [
+                5802.18994140625,
+                20.40220069885254,
+                10782.3154296875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long3",
+            "DisplayName": "bldr_Decal_dirt_damage_long3",
+            "Position": [
+                5802.70751953125,
+                20.39889907836914,
+                10784.8310546875
+            ],
+            "Orientation": [
+                32.71995544433594,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_damage_long2",
+            "DisplayName": "bldr_Decal_dirt_damage_long2",
+            "Position": [
+                5801.716796875,
+                20.392356872558595,
+                10793.658203125
+            ],
+            "Orientation": [
+                11.212053298950196,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_tirepile_group",
+            "DisplayName": "bldr_misc_tirepile_group",
+            "Position": [
+                5772.86865234375,
+                21.146936416625978,
+                10763.65234375
+            ],
+            "Orientation": [
+                -89.49774932861328,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Candle",
+            "DisplayName": "bldr_prop_Candle",
+            "Position": [
+                5795.86474609375,
+                17.9338321685791,
+                10780.1015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Power_Pole_Wood1_Lamp_Amp",
+            "DisplayName": "Land_Power_Pole_Wood1_Lamp_Amp",
+            "Position": [
+                5759.45361328125,
+                18.564775466918947,
+                10774.22265625
+            ],
+            "Orientation": [
+                -138.1568145751953,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_workbench",
+            "DisplayName": "bldr_workbench",
+            "Position": [
+                5763.3203125,
+                16.874034881591798,
+                10763.01953125
+            ],
+            "Orientation": [
+                -85.95899963378906,
+                0.08498425036668778,
+                0.09790672361850739
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_workbench_dz",
+            "DisplayName": "bldr_workbench_dz",
+            "Position": [
+                5759.939453125,
+                17.3483943939209,
+                10765.4853515625
+            ],
+            "Orientation": [
+                93.93193054199219,
+                -0.17661204934120179,
+                -0.10403032600879669
+            ],
+            "Scale": 0.9999977350234985,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BatteryCharger",
+            "DisplayName": "bldr_prop_BatteryCharger",
+            "Position": [
+                5760.015625,
+                17.8436336517334,
+                10764.9189453125
+            ],
+            "Orientation": [
+                0.0,
+                -0.27500054240226748,
+                0.3666744828224182
+            ],
+            "Scale": 0.9999895095825195,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_EngineOil",
+            "DisplayName": "bldr_prop_EngineOil",
+            "Position": [
+                5769.03173828125,
+                16.872974395751954,
+                10768.9814453125
+            ],
+            "Orientation": [
+                134.902587890625,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CanisterGasoline",
+            "DisplayName": "bldr_prop_CanisterGasoline",
+            "Position": [
+                5767.166015625,
+                17.100990295410158,
+                10767.2578125
+            ],
+            "Orientation": [
+                -61.552398681640628,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CanisterGasoline",
+            "DisplayName": "bldr_prop_CanisterGasoline",
+            "Position": [
+                5766.7490234375,
+                17.062578201293947,
+                10767.1357421875
+            ],
+            "Orientation": [
+                57.486019134521487,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelf_dz",
+            "DisplayName": "bldr_shelf_dz",
+            "Position": [
+                5767.05517578125,
+                16.882495880126954,
+                10766.052734375
+            ],
+            "Orientation": [
+                -82.76416015625,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "OVBox1",
+            "DisplayName": "OVBox1",
+            "Position": [
+                5760.08740234375,
+                17.28896713256836,
+                10763.40234375
+            ],
+            "Orientation": [
+                0.0,
+                -0.27500346302986147,
+                0.3666744828224182
+            ],
+            "Scale": 0.9999895095825195,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                5766.78125,
+                17.842437744140626,
+                10766.2236328125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                5766.93115234375,
+                17.843420028686525,
+                10766.166015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                5766.72119140625,
+                17.843219757080079,
+                10766.052734375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_EngineOil",
+            "DisplayName": "bldr_prop_EngineOil",
+            "Position": [
+                5767.2373046875,
+                17.84440040588379,
+                10766.001953125
+            ],
+            "Orientation": [
+                59.55815887451172,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_wreck_truck01_aban2_blue",
+            "DisplayName": "Land_wreck_truck01_aban2_blue",
+            "Position": [
+                5771.88232421875,
+                16.865140914916993,
+                10769.6787109375
+            ],
+            "Orientation": [
+                95.95620727539063,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Nehr_Gaming_01",
+            "DisplayName": "Nehr_Gaming_01",
+            "Position": [
+                5769.0400390625,
+                18.048707962036134,
+                10762.4873046875
+            ],
+            "Orientation": [
+                95.01481628417969,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "OVFeuerloscher",
+            "DisplayName": "OVFeuerloscher",
+            "Position": [
+                5764.9150390625,
+                18.43092918395996,
+                10762.5009765625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "OVKioskfoot",
+            "DisplayName": "OVKioskfoot",
+            "Position": [
+                5786.9619140625,
+                17.46941375732422,
+                10779.083984375
+            ],
+            "Orientation": [
+                85.15497589111328,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999977946281433,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_locker_open_blue_v3",
+            "DisplayName": "bldr_locker_open_blue_v3",
+            "Position": [
+                5771.294921875,
+                16.861961364746095,
+                10773.380859375
+            ],
+            "Orientation": [
+                5.255342960357666,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_locker_closed_blue_v2",
+            "DisplayName": "bldr_locker_closed_blue_v2",
+            "Position": [
+                5771.7470703125,
+                16.86129379272461,
+                10773.3330078125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_locker_closed_blue_v3",
+            "DisplayName": "bldr_locker_closed_blue_v3",
+            "Position": [
+                5772.2119140625,
+                16.861318588256837,
+                10773.326171875
+            ],
+            "Orientation": [
+                5.041193962097168,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_locker_closed_v1",
+            "DisplayName": "bldr_locker_closed_v1",
+            "Position": [
+                5768.4189453125,
+                16.86129379272461,
+                10773.609375
+            ],
+            "Orientation": [
+                7.432376861572266,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_locker_closed_v2",
+            "DisplayName": "bldr_locker_closed_v2",
+            "Position": [
+                5768.87890625,
+                16.861461639404298,
+                10773.583984375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_locker_closed_v2",
+            "DisplayName": "bldr_locker_closed_v2",
+            "Position": [
+                5769.376953125,
+                16.86130142211914,
+                10773.5625
+            ],
+            "Orientation": [
+                8.869844436645508,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Tire",
+            "DisplayName": "bldr_Misc_Tire",
+            "Position": [
+                5774.97607421875,
+                16.946523666381837,
+                10771.263671875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sofa_leather_old",
+            "DisplayName": "bldr_sofa_leather_old",
+            "Position": [
+                5772.63671875,
+                17.272090911865236,
+                10762.19140625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_bucket",
+            "DisplayName": "bldr_bucket",
+            "Position": [
+                5761.53271484375,
+                16.872793197631837,
+                10763.2080078125
+            ],
+            "Orientation": [
+                0.0,
+                -0.27500346302986147,
+                0.3666744828224182
+            ],
+            "Scale": 0.9999895095825195,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_radio_b",
+            "DisplayName": "bldr_radio_b",
+            "Position": [
+                5765.48974609375,
+                17.66642951965332,
+                10762.923828125
+            ],
+            "Orientation": [
+                -36.99855041503906,
+                -0.01804671622812748,
+                0.12838606536388398
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_tv_a",
+            "DisplayName": "bldr_tv_a",
+            "Position": [
+                5767.5322265625,
+                16.86167335510254,
+                10762.677734375
+            ],
+            "Orientation": [
+                -142.34205627441407,
+                0.12858456373214723,
+                -0.01656809262931347
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_vending_machine",
+            "DisplayName": "bldr_vending_machine",
+            "Position": [
+                5776.2548828125,
+                17.90041160583496,
+                10761.84375
+            ],
+            "Orientation": [
+                43.33460235595703,
+                0.0666806548833847,
+                0.06291284412145615
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_washing_machine",
+            "DisplayName": "bldr_washing_machine",
+            "Position": [
+                5777.34326171875,
+                16.872196197509767,
+                10766.9111328125
+            ],
+            "Orientation": [
+                114.07640075683594,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelf_1side",
+            "DisplayName": "bldr_shelf_1side",
+            "Position": [
+                5770.7275390625,
+                16.860797882080079,
+                10765.7705078125
+            ],
+            "Orientation": [
+                -86.04022216796875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_flag_chernarus_wall",
+            "DisplayName": "bldr_flag_chernarus_wall",
+            "Position": [
+                5759.09912109375,
+                19.26194953918457,
+                10764.966796875
+            ],
+            "Orientation": [
+                -84.49579620361328,
+                -0.34843209385871889,
+                -0.29620561003685
+            ],
+            "Scale": 0.9999839067459106,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_intercom_speaker",
+            "DisplayName": "bldr_intercom_speaker",
+            "Position": [
+                5759.2109375,
+                18.253990173339845,
+                10766.8115234375
+            ],
+            "Orientation": [
+                -84.49269104003906,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_yellow_star",
+            "DisplayName": "bldr_yellow_star",
+            "Position": [
+                5778.24072265625,
+                20.570371627807618,
+                10769.1875
+            ],
+            "Orientation": [
+                94.64787292480469,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_anvil",
+            "DisplayName": "bldr_anvil",
+            "Position": [
+                5760.2060546875,
+                17.931610107421876,
+                10766.4375
+            ],
+            "Orientation": [
+                -176.93508911132813,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_bag_dz",
+            "DisplayName": "bldr_bag_dz",
+            "Position": [
+                5759.912109375,
+                17.29521369934082,
+                10766.064453125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_bag_dz",
+            "DisplayName": "bldr_bag_dz",
+            "Position": [
+                5759.74609375,
+                17.298677444458009,
+                10764.912109375
+            ],
+            "Orientation": [
+                175.02154541015626,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_grinder",
+            "DisplayName": "bldr_grinder",
+            "Position": [
+                5763.310546875,
+                17.800430297851564,
+                10763.0419921875
+            ],
+            "Orientation": [
+                -175.05271911621095,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_drill",
+            "DisplayName": "bldr_drill",
+            "Position": [
+                5762.2666015625,
+                18.04668617248535,
+                10763.09765625
+            ],
+            "Orientation": [
+                95.47942352294922,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_metal_cutting_saw",
+            "DisplayName": "bldr_metal_cutting_saw",
+            "Position": [
+                5764.22998046875,
+                17.983963012695314,
+                10763.00390625
+            ],
+            "Orientation": [
+                93.66842651367188,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_vise",
+            "DisplayName": "bldr_vise",
+            "Position": [
+                5761.505859375,
+                17.589797973632814,
+                10763.7236328125
+            ],
+            "Orientation": [
+                4.6696577072143559,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Pile3",
+            "DisplayName": "bldr_Garbage_Pile3",
+            "Position": [
+                5757.49951171875,
+                17.0322208404541,
+                10766.1982421875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Pile1",
+            "DisplayName": "bldr_Garbage_Pile1",
+            "Position": [
+                5756.8037109375,
+                17.3238525390625,
+                10773.900390625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Container_Plastic",
+            "DisplayName": "bldr_Garbage_Container_Plastic",
+            "Position": [
+                5761.06396484375,
+                17.70127296447754,
+                10773.9501953125
+            ],
+            "Orientation": [
+                91.64266967773438,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Container_Glass",
+            "DisplayName": "bldr_Garbage_Container_Glass",
+            "Position": [
+                5762.7255859375,
+                17.69940948486328,
+                10773.90625
+            ],
+            "Orientation": [
+                92.89677429199219,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_tirepile",
+            "DisplayName": "bldr_misc_tirepile",
+            "Position": [
+                5777.341796875,
+                21.14206886291504,
+                10772.158203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_decal_govpolice",
+            "DisplayName": "bldr_sign_decal_govpolice",
+            "Position": [
+                5761.5400390625,
+                18.830381393432618,
+                10762.5224609375
+            ],
+            "Orientation": [
+                -174.70245361328126,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999978542327881,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_decal_carserviceblackgar",
+            "DisplayName": "bldr_sign_decal_carserviceblackgar",
+            "Position": [
+                5759.60693359375,
+                20.96088981628418,
+                10770.794921875
+            ],
+            "Orientation": [
+                95.19147491455078,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999959468841553,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_decal_gov2",
+            "DisplayName": "bldr_sign_decal_gov2",
+            "Position": [
+                5771.71240234375,
+                18.610794067382814,
+                10761.5703125
+            ],
+            "Orientation": [
+                -173.653076171875,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_roof_moto",
+            "DisplayName": "bldr_sign_roof_moto",
+            "Position": [
+                5768.3857421875,
+                20.638832092285158,
+                10763.7412109375
+            ],
+            "Orientation": [
+                6.55084753036499,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_fluor_lamp",
+            "DisplayName": "bldr_fluor_lamp",
+            "Position": [
+                5774.2490234375,
+                20.857473373413087,
+                10769.5341796875
+            ],
+            "Orientation": [
+                92.73460388183594,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_fluor_lamp",
+            "DisplayName": "bldr_fluor_lamp",
+            "Position": [
+                5766.80908203125,
+                20.856542587280275,
+                10770.2880859375
+            ],
+            "Orientation": [
+                92.73460388183594,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5766.7900390625,
+                20.74990463256836,
+                10770.2998046875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5774.20654296875,
+                20.752437591552736,
+                10769.59375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_fluor_lamp",
+            "DisplayName": "bldr_fluor_lamp",
+            "Position": [
+                5769.7490234375,
+                20.395566940307618,
+                10763.9345703125
+            ],
+            "Orientation": [
+                97.92633819580078,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "NetworkPointLight",
+            "DisplayName": "NetworkPointLight",
+            "Position": [
+                5769.72998046875,
+                20.288799285888673,
+                10763.900390625
+            ],
+            "Orientation": [
+                5.19173002243042,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_roadblock_cncblocks_short",
+            "DisplayName": "bldr_roadblock_cncblocks_short",
+            "Position": [
+                5794.6708984375,
+                17.496824264526368,
+                10759.79296875
+            ],
+            "Orientation": [
+                0.0,
+                0.09167126566171646,
+                0.36667826771736147
+            ],
+            "Scale": 0.9999927282333374,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_roadblock_cncblocks_short",
+            "DisplayName": "bldr_roadblock_cncblocks_short",
+            "Position": [
+                5794.84619140625,
+                17.507041931152345,
+                10762.65234375
+            ],
+            "Orientation": [
+                -169.1144561767578,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5763.46044921875,
+                16.920766830444337,
+                10763.935546875
+            ],
+            "Orientation": [
+                -170.73866271972657,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5754.21728515625,
+                21.865386962890626,
+                10763.5556640625
+            ],
+            "Orientation": [
+                -141.43417358398438,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5813.80859375,
+                21.433387756347658,
+                10754.2666015625
+            ],
+            "Orientation": [
+                -176.36810302734376,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5810.86865234375,
+                21.609281539916993,
+                10765.7109375
+            ],
+            "Orientation": [
+                96.66715240478516,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5760.48583984375,
+                21.7857608795166,
+                10805.8466796875
+            ],
+            "Orientation": [
+                -44.27861404418945,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5801.791015625,
+                16.875659942626954,
+                10779.4453125
+            ],
+            "Orientation": [
+                -19.375635147094728,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5802.1279296875,
+                16.871232986450197,
+                10781.3486328125
+            ],
+            "Orientation": [
+                -125.07470703125,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999946355819702,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5800.3095703125,
+                16.87912368774414,
+                10780.279296875
+            ],
+            "Orientation": [
+                95.36654663085938,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999936819076538,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ZmbM_JournalistSkinny",
+            "DisplayName": "ZmbM_JournalistSkinny",
+            "Position": [
+                5795.7958984375,
+                16.87535858154297,
+                10779.3828125
+            ],
+            "Orientation": [
+                -19.375635147094728,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": [
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                5834.41943359375,
+                18.9735050201416,
+                10732.01953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                5837.34912109375,
+                19.147050857543947,
+                10733.830078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_1f_dark",
+            "Position": [
+                5839.71435546875,
+                22.564355850219728,
+                10728.3623046875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                5837.7421875,
+                18.252382278442384,
+                10755.5888671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "land_misc_barel_fire_2",
+            "Position": [
+                5769.30322265625,
+                16.986923217773439,
+                10770.26171875
+            ],
+            "Flags": 0
+        }
+    ]
+}

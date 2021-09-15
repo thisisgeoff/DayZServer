@@ -1,7 +1,7 @@
 {
     "m_Version": 2,
-    "EnableMap": 1,
-    "UseMapOnMapItem": 1,
+    "EnableMap": 0,
+    "UseMapOnMapItem": 0,
     "ShowPlayerPosition": 0,
     "ShowMapStats": 0,
     "NeedPenItemForCreateMarker": 0,

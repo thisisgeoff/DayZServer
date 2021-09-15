@@ -12,7 +12,7 @@
     "ShowPlayerAirdropStarted": 0,
     "ShowPlayerAirdropClosingOn": 0,
     "ShowPlayerAirdropDropped": 0,
-    "ShowTerritoryNotifications": 0,
+    "ShowTerritoryNotifications": 1,
     "EnableKillFeed": 0,
     "KillFeedMessageType": 1,
     "KillFeedFall": 1,

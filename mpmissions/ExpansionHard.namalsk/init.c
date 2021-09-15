@@ -14,8 +14,8 @@
 
 void main()
 {
-	bool loadTraderObjects = false;
-	bool loadTraderNPCs = false;
+	bool loadTraderObjects = true;
+	bool loadTraderNPCs = true;
 
 	string MissionWorldName = "empty";
 	GetGame().GetWorldName(MissionWorldName);
@@ -46,7 +46,7 @@ void main()
 	weather.GetOvercast().Set( Math.RandomFloatInclusive( 0.1, 0.2 ), 0, 0 );	// ignored if storage is present
 	weather.GetRain().Set( 0, 0, 0 );											// ignored if storage is present
 	weather.GetFog().Set( 0, 0, 0 );											// ignored if storage is present
-	weather.SetWindMaximumSpeed( 60 );
+	weather.SetWindMaximumSpeed( 30 );
 	weather.SetWindFunctionParams( 0.1, 1.0, 42 );
 	weather.SetStorm( 0, 1, 1 );
 	weather.SetRainThresholds( 0.0, 1.0, 0 );

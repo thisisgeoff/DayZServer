@@ -1,85 +1,88 @@
 
 
 ******************************************************************************
-AdminLog started on 2021-09-12 at 10:27:11
+AdminLog started on 2021-09-14 at 21:21:20
+21:23:24 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+21:25:19 | [COT] 76561197990717655: Teleported to position <5787.489258, 16.848099, 10780.656250>
+21:31:08 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 
 
 ******************************************************************************
-AdminLog started on 2021-09-12 at 10:28:53
+AdminLog started on 2021-09-14 at 21:31:24
+21:31:58 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+21:33:42 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5747.4, 10765.7, 17.4>)[HP: 84.5828] hit by FallDamage
+21:35:17 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5809.4, 10786.6, 16.7>)[HP: 83.0193] hit by FallDamage
+21:35:33 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5794.1, 10779.8, 16.9>)[HP: 81.782] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+21:35:35 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5792.5, 10779.8, 16.9>)[HP: 81.032] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+21:35:36 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5792.7, 10781.9, 16.9>)[HP: 80.372] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+21:36:24 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+21:50:38 | [COT] 76561197990717655: Teleported [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=] to <5785.000000, 16.799999, 10780.000000>
+22:01:18 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 
 
 ******************************************************************************
-AdminLog started on 2021-09-12 at 10:31:12
-10:35:00 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-10:36:48 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-10:36:48 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-10:36:48 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-10:37:29 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-10:37:53 | [COT] 76561197990717655: Teleported to position <5825.494141, 16.323013, 10750.874023>
-10:39:33 | [COT] 76561197990717655: Teleported to position <7283.234375, 18.130014, 10920.259766>
-10:40:32 | [COT] 76561197990717655: Set rain to 0 0 0
-10:40:32 | [COT] 76561197990717655: Set storm to 0 0.8 4000
-10:40:32 | [COT] 76561197990717655: Set fog to 0 0 0
-10:40:32 | [COT] 76561197990717655: Set overcast to 0.01 0 0
-10:40:32 | [COT] 76561197990717655: Set the date to 2011/12/2 0:14
-10:40:32 | [COT] 76561197990717655: Set wind to 6.40761 6.40761 1
-10:43:33 | [COT] 76561197990717655: Spawned Entity  (FBF_AreaLight_Warm<e108a320>, -1, 0) at <7294.641602, 9.779751, 11039.694336>
-10:44:33 | [COT] 76561197990717655: Spawned Entity  (FBF_AreaLight_White<e1092e10>, -1, 0) at <7290.470215, 16.064064, 11046.277344>
-10:46:18 | [COT] 76561197990717655: Spawned Entity  (FBF_CustomAreaLight_3<e109dd90>, -1, 0) at <7283.197266, 14.512081, 11048.126953>
-10:47:00 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-14 at 22:01:34
+22:02:09 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+22:06:07 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 
 
 ******************************************************************************
-AdminLog started on 2021-09-12 at 10:47:35
+AdminLog started on 2021-09-14 at 22:06:30
+22:07:45 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+22:14:01 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 
 
 ******************************************************************************
-AdminLog started on 2021-09-12 at 10:51:15
-10:52:58 | Player "Survivor"(id=Unknown) has been disconnected
-10:54:18 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-10:55:11 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7282.6, 11059, 10.3>)[HP: 88.8339] hit by FallDamage
-10:55:55 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-14 at 22:16:27
+22:19:07 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+22:21:22 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5787.9, 10787.3, 16.8>)[HP: 78.2312] hit by FallDamage
+22:24:58 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 
 
 ******************************************************************************
-AdminLog started on 2021-09-12 at 11:01:46
-11:05:53 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-11:09:13 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-11:09:15 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-11:09:15 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-11:09:15 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-11:09:29 | [COT] 76561197990717655: Spawned Entity NVG Headstrap (NVGHeadstrap<3f66640>, -1, 200) at <7238.225586, 14.075397, 11093.005859>
-11:09:31 | [COT] 76561197990717655: Spawned Entity Night Vision Goggles (NVGoggles<5aeffa20>, -1, 100) at <7238.225586, 14.075397, 11093.005859>
-11:27:57 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-11:28:08 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-11:30:57 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-14 at 22:25:00
+22:26:51 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+22:33:56 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
 
 
 ******************************************************************************
-AdminLog started on 2021-09-12 at 20:03:19
-20:07:50 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-20:11:56 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7201.4, 10818.7, 16.2>)[HP: 98.783] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieFemale)
-20:11:58 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7204.7, 10818.7, 16.1>)[HP: 94.1767] hit by Infected into Torso(1) for 4.5 damage (MeleeZombie)
-20:11:59 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.3, 10817.1, 16.1>)[HP: 93.3511] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
-20:12:01 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7205.8, 10816.6, 16.2>)[HP: 92.8511] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
-20:12:01 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7205.3, 10816.9, 16.2>)[HP: 86.1011] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieFemale)
-20:12:03 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7204.8, 10816.9, 16.2>)[HP: 84.3443] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
-20:12:04 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.1, 10813.5, 16.3>)[HP: 77.5943] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieFemale)
-20:12:04 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.3, 10812.6, 16.3>)[HP: 76.4693] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
-20:12:05 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.3, 10809.5, 16.4>) is unconscious
-20:12:06 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7206.9, 10808.1, 16.5>)[HP: 75.4312] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
-20:12:06 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7207.0, 10807.7, 16.5>)[HP: 74.9312] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
-20:12:57 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7208.8, 10805.3, 16.8>) regained consciousness
-20:19:01 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-20:19:03 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-20:19:05 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-20:19:07 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
-20:21:19 | [COT] 76561197990717655: Teleported to position <5830.211914, 16.573730, 10745.338867>
-20:21:30 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
-20:21:44 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
-20:23:26 | Player "Survivor" (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<5754.3, 10768.1, 16.9>)[HP: 81.4981] hit by FallDamage
-20:27:26 | [COT] 76561197990717655: ESP: ESP updating
-20:27:38 | [COT] 76561197990717655: ESP: Viewing ESP
-20:27:42 | [COT] 76561197990717655: ESP: Clearing ESP
-20:27:43 | [COT] 76561197990717655: ESP: Viewing ESP
-20:31:32 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+AdminLog started on 2021-09-14 at 22:36:23
+22:36:58 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+22:38:52 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+22:38:52 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+22:38:52 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+22:41:00 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-14 at 22:50:31
+
+
+******************************************************************************
+AdminLog started on 2021-09-14 at 22:51:41
+22:52:38 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+22:53:32 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+22:53:32 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+22:53:32 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+22:58:31 | [COT] 76561197990717655: Spawned Entity Anadyr province map (dzn_map_namalsk<d9ed9af0>, -1, 100) at <5804.832031, 16.826107, 10783.112305>
+23:05:57 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-14 at 23:07:45
+23:10:06 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+23:11:34 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+23:11:34 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+23:11:34 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+23:19:30 | [COT] 76561197990717655: Teleported to position <4434.675781, 2.875571, 11185.818359>
+23:24:52 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-14 at 23:34:12
+23:36:52 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+23:38:02 | [COT] 76561197990717655: Teleported to position <5548.897461, 4.446940, 10509.495117>
+23:42:35 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+23:42:35 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+23:42:35 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+23:45:12 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
