@@ -112,6 +112,29 @@ const int RESPAWN_SECONDS = 600;	// The amount of seconds before a new patrol wi
 // channel your inner M.C. Hammer - can't touch this
 autoptr array<autoptr eAIDynamicPatrol> patrols = {};
 
+class CustomPatrol : eAIDynamicPatrol {
+	override void OnPatrolSpawn(eAIGroup patrol) {
+		// Uncomment this line to change the faction of the patrol from Raiders (default)
+		// eAIFactionGuards for example is a faction which only kills players who have their weapons out
+		// patrol.SetFaction(new eAIFactionGuards());
+		
+		// Uncomment this line to slow down or speed up the patrol (1.0 to 3.0)
+		// patrol.SetSpeedLimit(1.0);
+	}
+	override void OnUnitSpawn(eAIBase unit) {
+		// Uncomment this to give the AI unlimited magazines (new one is added on reload)
+		unit.SetUnlimitedMags(true);
+		
+		// You can also do anything you would do in the StartingEquipSetup() for players here
+		
+		// These lines will add attachments the same way you would for a player. However, the AI must have the M4A1 class in the Loadout.json file already for it to work.
+		//Weapon_Base weapon = Weapon_Base.Cast(unit.GetItemInHands());
+		//weapon.GetInventory().CreateAttachment("M4_PlasticHndgrd");
+		//weapon.GetInventory().CreateAttachment("M4_OEBttstck");
+		//weapon.GetInventory().CreateAttachment("M4_CarryHandleOptic");
+	}
+};
+
 void InitDynamicPatrols() {
 	for (int i = 0; i < patrol_list.Count(); i++) {
 		string loadout = "SoldierLoadout.json"; // default

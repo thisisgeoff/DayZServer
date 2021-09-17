@@ -1,6 +1,6 @@
 {
     "ConfigVersion": "7",
-    "UseSimple": 1,
+    "UseSimple": 0,
     "KillFeed": 1,
     "SucideFeed": 0,
     "BanditCanRemoveMask": 0,
