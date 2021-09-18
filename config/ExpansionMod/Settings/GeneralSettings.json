@@ -2,7 +2,7 @@
     "m_Version": 2,
     "PlayerLocationNotifier": 0,
     "EnableGlobalChat": 1,
-    "EnablePartyChat": 1,
+    "EnablePartyChat": 0,
     "EnableTransportChat": 1,
     "DisableShootToUnlock": 0,
     "EnableGravecross": 0,

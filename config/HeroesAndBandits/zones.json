@@ -11,8 +11,7 @@
     "NotificationMessageTime": 15,
     "WarningMessageImagePath": "HeroesAndBandits/gui/images/DeathWarning.paa",
     "Zones": [
-        {
-            "Name": "Alakit Trader Zone",
+        {	"Name": "Alakit Trader Zone",
             "UID": "cBfHGEq9CCDJRqeNo",
             "X": 5785.85009765625,
             "Z": 10780.2001953125,
@@ -36,7 +35,7 @@
             "PreventWeaponRaise": 0,
             "PreventActions": 0,
             "BlockTrader": 0,
-            "KillAggressors": 0,
+            "KillAggressors": 1,
             "AggressorThreshold": 155.0,
             "AggressorReduction": 100.0,
             "AggressorGlobal": 0,
@@ -45,7 +44,17 @@
                     "Affinity": "bambi",
                     "MinPoints": -1.0,
                     "MaxPoints": -1.0
-                }
+                },
+				{
+                    "Affinity": "hero",
+                    "MinPoints": -1.0,
+                    "MaxPoints": -1.0
+                },
+				{
+                    "Affinity": "bandit",
+                    "MinPoints": -1.0,
+                    "MaxPoints": -1.0
+                }			
             ],
             "Guards": [
 				{
@@ -111,6 +120,190 @@
                     "Y": 21.609281539916993,
                     "Z": 10765.7109375,
                     "Orientation": 96.66715240478516,
+                    "ActionPrefix": "",
+                    "Skin": "SurvivorF_Maria",
+                    "WeaponInHands": "M4A1",
+                    "WeaponInHandsMag": "Mag_STANAGCoupled_30Rnd",
+                    "WeaponInHandsAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ],
+                    "GuardGear": [
+                        "PlateCarrierVest",
+                        "JungleBoots_Black",
+                        "CargoPants_Black",
+                        "M65Jacket_Black"
+                    ],
+                    "GunSound": "M4_Shot_SoundSet",
+                    "DamagePerTickMin": 28.0,
+                    "DamagePerTickRand": 35.0,
+                    "GunTickMulitplier": 2.0,
+                    "HitChance": 1.0,
+                    "RespawnTimer": 1200.0,
+                    "CanBeKilled": 0,
+                    "RequireLineOfSight": 1
+                }
+            ],
+            "SubZones": []
+        },
+		{	"Name": "Scientist Trader Zone",
+            "UID": "cBfHGEq9CCDJRqeNo",
+            "X": 6876.8564453125,
+            "Z": 10112.349609375,
+            "WarningRadius": 200.0,
+            "KillRadius": 100.0,
+            "MinHumanity": 0.0,
+            "MaxHumanity": 0.0,
+            "ShowWarningMsg": 1,
+            "WarningMessage": "!!Warning!! you are about to enter the Scientist Trader Zone if you continue you will be shot!",
+            "ShowWelcomeMsg": 1,
+            "WelcomeMessage": "Welcome to the Scientist Trader Zone",
+            "WelcomeIcon": "HeroesAndBandits/gui/images/Bambi.paa",
+            "WelcomeMessageColor": [
+                200,
+                0,
+                200,
+                200
+            ],
+            "OverrideSafeZone": 1,
+            "GodModPlayers": 1,
+            "PreventWeaponRaise": 0,
+            "PreventActions": 0,
+            "BlockTrader": 0,
+            "KillAggressors": 0,
+            "AggressorThreshold": 155.0,
+            "AggressorReduction": 100.0,
+            "AggressorGlobal": 0,
+            "Affinities": [
+                {
+                    "Affinity": "hero",
+                    "MinPoints": 4000.0,
+                    "MaxPoints": -1.0
+                }
+            ],
+            "Guards": [
+				{
+                    "X": 6903.220703125,
+                    "Y": 11.912771224975586,
+                    "Z": 10107.3359375,
+                    "Orientation": 94.27606201171875,
+                    "ActionPrefix": "",
+                    "Skin": "SurvivorF_Maria",
+                    "WeaponInHands": "M4A1",
+                    "WeaponInHandsMag": "Mag_STANAGCoupled_30Rnd",
+                    "WeaponInHandsAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ],
+                    "GuardGear": [
+                        "PlateCarrierVest",
+                        "JungleBoots_Black",
+                        "CargoPants_Black",
+                        "M65Jacket_Black"
+                    ],
+                    "GunSound": "M4_Shot_SoundSet",
+                    "DamagePerTickMin": 28.0,
+                    "DamagePerTickRand": 35.0,
+                    "GunTickMulitplier": 2.0,
+                    "HitChance": 1.0,
+                    "RespawnTimer": 1200.0,
+                    "CanBeKilled": 0,
+                    "RequireLineOfSight": 1
+                },
+				{
+                    "X": 6892.9736328125,
+                    "Y": 12.571653366088868,
+                    "Z": 10114.46875,
+                    "Orientation": 94.27606201171875,
+                    "ActionPrefix": "",
+                    "Skin": "SurvivorF_Maria",
+                    "WeaponInHands": "M4A1",
+                    "WeaponInHandsMag": "Mag_STANAGCoupled_30Rnd",
+                    "WeaponInHandsAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ],
+                    "GuardGear": [
+                        "PlateCarrierVest",
+                        "JungleBoots_Black",
+                        "CargoPants_Black",
+                        "M65Jacket_Black"
+                    ],
+                    "GunSound": "M4_Shot_SoundSet",
+                    "DamagePerTickMin": 28.0,
+                    "DamagePerTickRand": 35.0,
+                    "GunTickMulitplier": 2.0,
+                    "HitChance": 1.0,
+                    "RespawnTimer": 1200.0,
+                    "CanBeKilled": 0,
+                    "RequireLineOfSight": 1
+                },
+				{
+                    "X": 6904.14306640625,
+                    "Y": 13.010198593139649,
+                    "Z": 10121.1474609375,
+                    "Orientation": 94.27606201171875,
+                    "ActionPrefix": "",
+                    "Skin": "SurvivorF_Maria",
+                    "WeaponInHands": "M4A1",
+                    "WeaponInHandsMag": "Mag_STANAGCoupled_30Rnd",
+                    "WeaponInHandsAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ],
+                    "GuardGear": [
+                        "PlateCarrierVest",
+                        "JungleBoots_Black",
+                        "CargoPants_Black",
+                        "M65Jacket_Black"
+                    ],
+                    "GunSound": "M4_Shot_SoundSet",
+                    "DamagePerTickMin": 28.0,
+                    "DamagePerTickRand": 35.0,
+                    "GunTickMulitplier": 2.0,
+                    "HitChance": 1.0,
+                    "RespawnTimer": 1200.0,
+                    "CanBeKilled": 0,
+                    "RequireLineOfSight": 1
+                },
+				{
+                    "X": 6880.11572265625,
+                    "Y": 14.688262939453125,
+                    "Z": 10133.869140625,
+                    "Orientation": -48.51366424560547,
+                    "ActionPrefix": "",
+                    "Skin": "SurvivorF_Maria",
+                    "WeaponInHands": "M4A1",
+                    "WeaponInHandsMag": "Mag_STANAGCoupled_30Rnd",
+                    "WeaponInHandsAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ],
+                    "GuardGear": [
+                        "PlateCarrierVest",
+                        "JungleBoots_Black",
+                        "CargoPants_Black",
+                        "M65Jacket_Black"
+                    ],
+                    "GunSound": "M4_Shot_SoundSet",
+                    "DamagePerTickMin": 28.0,
+                    "DamagePerTickRand": 35.0,
+                    "GunTickMulitplier": 2.0,
+                    "HitChance": 1.0,
+                    "RespawnTimer": 1200.0,
+                    "CanBeKilled": 0,
+                    "RequireLineOfSight": 1
+                },
+				{
+                    "X": 6877.5283203125,
+                    "Y": 11.932069778442383,
+                    "Z": 10095.091796875,
+                    "Orientation": -124.06694030761719,
                     "ActionPrefix": "",
                     "Skin": "SurvivorF_Maria",
                     "WeaponInHands": "M4A1",
