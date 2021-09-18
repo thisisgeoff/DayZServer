@@ -53,3 +53,31 @@ AdminLog started on 2021-09-18 at 16:08:41
 
 ******************************************************************************
 AdminLog started on 2021-09-18 at 16:25:50
+
+
+******************************************************************************
+AdminLog started on 2021-09-18 at 16:38:10
+16:40:10 | Player "Survivor"(id=Unknown) has been disconnected
+16:41:12 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+16:44:09 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2021-09-18 at 16:44:23
+16:45:08 | Player "Survivor" is connected (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=)
+16:49:01 | [COT] 76561197990717655: Set GodMode To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+16:49:01 | [COT] 76561197990717655: Set UnlimitedAmmo To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+16:49:01 | [COT] 76561197990717655: Set UnlimitedStamina To true [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+16:49:03 | [COT] 76561197990717655: Healed [guid=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=]
+16:49:24 | [COT] 76561197990717655: Teleported to position <7294.548828, 14.487741, 10981.842773>
+16:51:43 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7000.6, 11273.8, 15.7>)[HP: 0] hit by FallDamage
+16:51:43 | Player "Survivor" (DEAD) (id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0= pos=<7000.6, 11273.8, 15.7>) died. Stats> Water: 4960.1 Energy: 7426.51 Bleed sources: 0
+16:52:04 | [COT] 76561197990717655: Teleported to position <7225.698242, 46.425194, 10426.530273>
+16:54:28 | [COT] 76561197990717655: Spawned Entity fogmist (FMGreySmoke<e18de150>, -1, 0) at <6911.542480, 8.270355, 10121.408203>
+16:54:48 | [COT] 76561197990717655: Set rain to 0 0 0
+16:54:48 | [COT] 76561197990717655: Set storm to 0 0.8 4000
+16:54:48 | [COT] 76561197990717655: Set fog to 0 0 0
+16:54:48 | [COT] 76561197990717655: Set overcast to 0.404013 0 0
+16:54:48 | [COT] 76561197990717655: Set the date to 2011/6/28 1:0
+16:54:48 | [COT] 76561197990717655: Set wind to 17.6375 17.6375 1
+16:56:00 | Player "Survivor"(id=AdNx87DNyRrGmm24ZM9mjIls2ZAvXQ5GmHdee6aK1-0=) has been disconnected

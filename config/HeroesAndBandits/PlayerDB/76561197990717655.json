@@ -5,6 +5,10 @@
         {
             "Name": "ZombieKill",
             "Stat": 55
+        },
+        {
+            "Name": "bambiSucide",
+            "Stat": 1
         }
     ],
     "Affinities": [
