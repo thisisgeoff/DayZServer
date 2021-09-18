@@ -40,3 +40,846 @@
 
 
 [2021-09-18 15:01:52] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:01:56] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:00] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:04] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:09] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:13] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:17] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:21] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:26] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:30] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:02:55] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:05:26] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:05:35] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:05:41] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:05:58] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:06:06] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:06:12] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:11:03] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:12:38] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:13:24] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:13:31] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:13:37] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:13:42] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:13:49] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:16:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:17:14] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:17:20] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:17:27] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:17:33] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:17:38] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:17:44] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:22:01] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:22:08] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:22:13] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:22:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:22:26] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:22:32] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:23:22] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:23:29] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:25:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:25:46] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:25:57] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:28:43] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:28:49] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:29:09] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:29:15] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:29:23] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:29:28] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:29:34] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:30:45] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:34:28] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:34:39] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:34:43] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:34:47] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:34:51] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:34:55] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:34:59] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:04] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:08] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:12] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:17] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:21] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:24] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:29] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:32] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:37] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:41] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:45] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:49] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:53] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:35:57] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:00] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:04] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:08] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:12] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:15] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:23] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:28] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:31] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:35] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:42] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:46] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:50] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:55] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:36:59] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:37:03] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:37:07] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:37:11] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:37:15] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:37:20] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:37:23] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:37:28] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:39:51] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:02] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:05] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:10] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:14] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:18] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:22] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:26] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:29] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:33] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:38] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:42] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:46] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:50] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:54] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:40:58] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:02] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:06] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:10] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:14] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:18] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:22] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:26] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:30] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:34] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:39] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:42] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:46] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:51] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:41:54] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:02] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:06] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:10] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:15] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:23] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:27] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:32] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:35] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:40] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:44] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:48] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:42:52] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:43:49] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:43:59] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:04] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:08] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:12] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:17] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:21] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:25] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:30] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:32] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:34] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:37] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:40] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:42] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:45] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:48] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:51] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:53] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:55] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:44:58] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:01] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:03] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:06] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:09] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:12] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:15] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:18] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:21] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:24] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:27] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:30] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:32] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:38] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:41] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:44] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:47] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:49] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:52] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:54] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:45:57] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:46:00] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 15:46:02] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:25] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:34] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:40] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:43] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:46] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:48] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:51] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:54] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:57] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:06:59] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:02] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:05] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:08] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:11] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:13] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:16] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:22] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:25] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:27] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:30] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:33] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:36] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:39] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:41] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:44] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:47] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:49] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:52] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:55] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:07:57] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:00] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:03] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:06] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:09] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:11] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:14] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:17] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:22] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:25] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:08:27] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:03] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:13] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:16] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:22] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:25] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:28] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:31] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:34] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:37] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:40] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:43] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:45] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:48] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:51] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:54] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:13:57] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:14:00] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:14:03] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:14:06] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:22:23] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:22:40] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:22:50] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:22:55] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:22:59] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:03] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:07] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:11] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:15] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:23] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:27] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:32] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:36] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:41] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:45] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:49] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:53] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:23:58] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:02] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:06] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:11] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:14] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:19] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:23] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:27] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:31] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:35] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:39] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:43] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:47] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:52] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:24:56] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:01] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:04] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:08] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:13] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:18] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:22] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:26] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:30] Shader manager disabled due to running as steamcmd
+
+
+[2021-09-18 16:25:35] Shader manager disabled due to running as steamcmd

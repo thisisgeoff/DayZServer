@@ -1648,3 +1648,473 @@ config/PvZmoD_CustomisableZombies_Profile/PvZmoD_CustomisableZombies_Admins.txt
 @Heroes And Bandits/Addons/HeroesAndBandits/config.cpp
 @Heroes And Bandits/Addons/HeroesAndBandits/$PRODUCT$
 @Heroes And Bandits/Addons/HeroesAndBandits/$PREFIX$
+steamCMD/appcache/appinfo.vdf
+steamCMD/appcache/packageinfo.vdf
+steamCMD/config/config.vdf
+steamCMD/depotcache/221100_2177907859686894657.manifest
+steamCMD/depotcache/221100_2539069512033923905.manifest
+steamCMD/depotcache/221100_4346835095406166033.manifest
+steamCMD/depotcache/221100_4352868481707415268.manifest
+steamCMD/depotcache/221100_4431558738265888931.manifest
+steamCMD/depotcache/221100_4665517477539010406.manifest
+steamCMD/depotcache/221100_4991904144916276239.manifest
+steamCMD/depotcache/221100_5084019933404195903.manifest
+steamCMD/depotcache/221100_520510525387854244.manifest
+steamCMD/depotcache/221100_5366879941161795599.manifest
+steamCMD/depotcache/221100_5370652577464629490.manifest
+steamCMD/depotcache/221100_540612921741930599.manifest
+steamCMD/depotcache/221100_6162618114526615196.manifest
+steamCMD/depotcache/221100_6454391661150352221.manifest
+steamCMD/depotcache/221100_6708351908671293874.manifest
+steamCMD/depotcache/221100_6963863692822637826.manifest
+steamCMD/depotcache/221100_7387272808621647197.manifest
+steamCMD/depotcache/221100_7523271693404054950.manifest
+steamCMD/depotcache/221100_7670805570937519404.manifest
+steamCMD/depotcache/221100_7749251155614737188.manifest
+steamCMD/depotcache/221100_7905671072749046193.manifest
+steamCMD/depotcache/221100_8023736592044029539.manifest
+steamCMD/depotcache/221100_836626958916602700.manifest
+steamCMD/depotcache/223351_5687852036317463365.manifest
+steamCMD/depotcache/223353_6389594408039061332.manifest
+steamCMD/dumps/assert_steamcmd.exe_20210918150232_1.dmp
+steamCMD/dumps/assert_steamcmd.exe_20210918150523_1.dmp
+steamCMD/logs/appinfo_log.txt
+steamCMD/logs/bootstrap_log.txt
+steamCMD/logs/cloud_log.txt
+steamCMD/logs/compat_log.txt
+steamCMD/logs/configstore_log.txt
+steamCMD/logs/connection_log.txt
+steamCMD/logs/content_log.txt
+steamCMD/logs/librarysharing_log.txt
+steamCMD/logs/parental_log.txt
+steamCMD/logs/remote_steamcmd.txt
+steamCMD/logs/shader_log.txt
+steamCMD/logs/sitelicense_steamcmd.txt
+steamCMD/logs/systemmanager.txt
+steamCMD/logs/workshop_log.txt
+steamCMD/ssfn1596350371478982
+steamCMD/ssfn365917477100163396
+steamCMD/steam/games/f8c16699ed5ce1cc8aa9b15ed3fdd66553fce2bf.ico
+steamCMD/steamapps/workshop/appworkshop_221100.acf
+steamCMD/steamapps/workshop/content/221100/1559212036/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1559212036/mod.cpp
+steamCMD/steamapps/workshop/content/221100/1564026768/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1564026768/mod.cpp
+steamCMD/steamapps/workshop/content/221100/1565871491/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1573788098/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/$PBOPREFIX$
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/$PBOPREFIX$.txt
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/config.cpp
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/data/billboard_2020_co.paa
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/data/billboard_back_co.paa
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/data/billboard_custom1_co.paa
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/data/billboard_custom2_co.paa
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/data/billboard_entering_co.paa
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/data/billboard_front_co.paa
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/custom_billboards/billboards/data/billboard_leaving_co.paa
+steamCMD/steamapps/workshop/content/221100/1573788098/Tutorial/How To.txt
+steamCMD/steamapps/workshop/content/221100/1787304576/Example Config/ForcedFirstPersonDefaultExample.json
+steamCMD/steamapps/workshop/content/221100/1787304576/Example Config/ForcedFirstPersonWhiteListExample.json
+steamCMD/steamapps/workshop/content/221100/1787304576/Example Config/readme.txt
+steamCMD/steamapps/workshop/content/221100/1787304576/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1787304576/mod.cpp
+steamCMD/steamapps/workshop/content/221100/1787304576/NoUnpackOrRepackAllowed.txt
+steamCMD/steamapps/workshop/content/221100/1890912719/FBF_Config/FBFConfig.json
+steamCMD/steamapps/workshop/content/221100/1890912719/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1890912719/Types/types.xml
+steamCMD/steamapps/workshop/content/221100/2078722927/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2116157322/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2116157322/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2248016797/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2248016797/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2248016797/TraderConfig/Trader Config.txt
+steamCMD/steamapps/workshop/content/221100/2248016797/TraderConfig/VehicleParts.txt
+steamCMD/steamapps/workshop/content/221100/2248016797/Types/vg7_corvette.xml
+steamCMD/steamapps/workshop/content/221100/2272872962/classnames/Classnames.txt
+steamCMD/steamapps/workshop/content/221100/2272872962/classnames/types.xml
+steamCMD/steamapps/workshop/content/221100/2272872962/Images/Smokeall1.png
+steamCMD/steamapps/workshop/content/221100/2272872962/Images/Volcanoparticle.png
+steamCMD/steamapps/workshop/content/221100/2272872962/Images/VolcanoParticle2png.png
+steamCMD/steamapps/workshop/content/221100/2272872962/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2276010135/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2276010135/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Abandoned_Church.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Abandoned_Sattelite_Antenna.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Gazebo.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Gazebo1.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Lighthouse.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Old_Willage_House.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Sewer(ext).jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Sewer(int).jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Sotovaya_vyshka.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_TrashBridge.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Tubes_Underground.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Buildings/SV_Warehouse.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Bulldozer.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_CrashedMi24.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Autobus.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_AZLK.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Kamaz1.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Kamaz2.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Kamaz3.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_PAZ672.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_Tractor.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_VAZ2109.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_ZAZ.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Damaged Auto/SV_Damaged_ZIL130.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_Bunker_Door.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_Corpse.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_Corpse1.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_Corpse2.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_Deadhead.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_Door.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_GoatHead.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_Ladder_Short.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack/Others/SV_Skeleton.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/AbandonedBuildings/SV_Abandoned_HighFloorBuilding.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/AbandonedBuildings/SV_Abandoned_HighFloorBuilding2.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/Buildings/SV_Abandoned_Warehouse.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/Buildings/SV_Factory.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/Buildings/SV_FootBridge.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/Buildings/SV_MilitaryTunnel.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/Other objects/SV_Boxes.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/Other objects/SV_LabMetalCage.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/Other objects/SV_Steel_Fence_Gates.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/RuinedBuildings/SV_Ruined_Building.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/RuinedBuildings/SV_Ruined_Chram.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack2/RuinedBuildings/SV_RuinedHome.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_AbandonedMine.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_Barn.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_CowShed.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_CowShed_Bucket.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_CowShed_Fork.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_CowShed_MilkJugOpen.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_CowShed_Stool.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_CowShed_Wheelbarrow.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_Garage.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack3/SV_Home.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack4/SV_Abandoned_Factory.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack4/SV_GuardTower4floor.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack4/SV_Mausoleum.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Images/@BuildingsModPack4/SV_RadioTelescope.jpg
+steamCMD/steamapps/workshop/content/221100/2307297070/Level19 Objects/Server_mpmissions_Folder/init.c
+steamCMD/steamapps/workshop/content/221100/2307297070/Level19 Objects/Server_mpmissions_Folder/Level19.c
+steamCMD/steamapps/workshop/content/221100/2307297070/Level19 Objects/Server_mpmissions_Folder/mapgrouppos.xml
+steamCMD/steamapps/workshop/content/221100/2307297070/Level19 Objects/Server_mpmissions_Folder/mapgroupproto.xml
+steamCMD/steamapps/workshop/content/221100/2307297070/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2307297070/Names of all Objects.txt
+steamCMD/steamapps/workshop/content/221100/2307297070/README_PLEASE.txt
+steamCMD/steamapps/workshop/content/221100/2311951200/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2311951200/Readmeand lisence.txt
+steamCMD/steamapps/workshop/content/221100/2323220044/Images/SV_BusHome.jpg
+steamCMD/steamapps/workshop/content/221100/2323220044/Images/SV_RuinedSubwayTunnel.jpg
+steamCMD/steamapps/workshop/content/221100/2323220044/Images/SV_SubwayTunnelFull.jpg
+steamCMD/steamapps/workshop/content/221100/2323220044/Images/SV_Truck.jpg
+steamCMD/steamapps/workshop/content/221100/2323220044/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2323220044/Objects.txt
+steamCMD/steamapps/workshop/content/221100/2323220044/README_PLEASE.txt
+steamCMD/steamapps/workshop/content/221100/2363104791/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2392955057/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/165083.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/165094.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building1.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building10.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building11.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building12.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building13.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building14.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building15.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building16.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building17.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building18.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building19.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building2.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building20.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building21.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building22.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building23.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building24.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building25.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building3.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building4.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building5.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building6.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building8.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/building9.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn1.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn10.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn11.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn12.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn13.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn15.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn17.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn2.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn3.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn4.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn5.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn6.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn7.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn8.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/Images/torn9.jpg
+steamCMD/steamapps/workshop/content/221100/2502755029/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2502755029/Objects.txt
+steamCMD/steamapps/workshop/content/221100/2502755029/README_PLEASE.txt
+steamCMD/steamapps/workshop/content/221100/2518330750/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2518330750/xmls/classnames.txt
+steamCMD/steamapps/workshop/content/221100/2518330750/xmls/Trader.txt
+steamCMD/steamapps/workshop/content/221100/2518330750/xmls/types.xml
+steamCMD/steamapps/workshop/content/221100/2518330750/xmls/VehicleParts.txt
+steamCMD/steamapps/workshop/content/221100/2542638513/CHANGELOG.txt
+steamCMD/steamapps/workshop/content/221100/2542638513/LICENSE.txt
+steamCMD/steamapps/workshop/content/221100/2542638513/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2542638513/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2542638513/readme.txt
+steamCMD/steamapps/workshop/content/221100/2545327648/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2545327648/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2572331007/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2572331007/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2591072025/meta.cpp
+steamCMD/steamapps/workshop/downloads/state_221100_221100_2428595209.patch
+steamCMD/update_hosts_cached.vdf
+steamCMD/userdata/30451927/7/remote/serverbrowser_hist.vdf
+steamCMD/userdata/30451927/7/remote/sharedconfig.vdf
+steamCMD/userdata/30451927/7/remotecache.vdf
+steamCMD/userdata/30451927/config/localconfig.vdf
+steamCMD/userdata/30451927/ugc/241100_subscriptions.vdf
+steamCMD/userdata/anonymous/config/localconfig.vdf
+steamapps/appmanifest_223350.acf
+steamapps/appmanifest_228980.acf
+steamCMD/depotcache/221100_1760794537166270358.manifest
+steamCMD/depotcache/221100_2406049960110707818.manifest
+steamCMD/depotcache/221100_3418702365588104862.manifest
+steamCMD/depotcache/221100_3929462699895305916.manifest
+steamCMD/depotcache/221100_4015985486677272221.manifest
+steamCMD/depotcache/221100_4109915963934094156.manifest
+steamCMD/depotcache/221100_4125922276207185612.manifest
+steamCMD/depotcache/221100_4387363026343335722.manifest
+steamCMD/depotcache/221100_4764512849190572428.manifest
+steamCMD/depotcache/221100_5334307507910847115.manifest
+steamCMD/depotcache/221100_5464528869940391475.manifest
+steamCMD/depotcache/221100_5517521374865365465.manifest
+steamCMD/depotcache/221100_6151975150967153378.manifest
+steamCMD/depotcache/221100_6160747595646853695.manifest
+steamCMD/depotcache/221100_6775843597620151318.manifest
+steamCMD/depotcache/221100_7671020597092425642.manifest
+steamCMD/depotcache/221100_8088434113301528486.manifest
+steamCMD/depotcache/221100_8589652978993185834.manifest
+steamCMD/depotcache/221100_9075486237691106248.manifest
+steamCMD/dumps/assert_steamcmd.exe_20210918161407_1.dmp
+steamCMD/logs/appinfo_log.txt
+steamCMD/logs/bootstrap_log.txt
+steamCMD/logs/compat_log.previous.txt
+steamCMD/logs/configstore_log.txt
+steamCMD/logs/connection_log.previous.txt
+steamCMD/logs/connection_log.txt
+steamCMD/logs/content_log.previous.txt
+steamCMD/logs/content_log.txt
+steamCMD/logs/remote_steamcmd.txt
+steamCMD/logs/shader_log.txt
+steamCMD/logs/systemmanager.txt
+steamCMD/logs/workshop_log.txt
+steamCMD/steamapps/workshop/content/221100/1577784539/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1648967877/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1648967877/mod.cpp
+steamCMD/steamapps/workshop/content/221100/1681963184/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1681963184/model info.txt
+steamCMD/steamapps/workshop/content/221100/1707653948/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1797720064/classes.txt
+steamCMD/steamapps/workshop/content/221100/1797720064/meta.cpp
+steamCMD/steamapps/workshop/content/221100/1797720064/mod.cpp
+steamCMD/steamapps/workshop/content/221100/1797720064/types.xml
+steamCMD/steamapps/workshop/content/221100/2086185116/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2086185116/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2111160696/HeroesAndBandits/actions.json
+steamCMD/steamapps/workshop/content/221100/2111160696/HeroesAndBandits/levels.json
+steamCMD/steamapps/workshop/content/221100/2111160696/HeroesAndBandits/PlayerDB/76561198016558916.json
+steamCMD/steamapps/workshop/content/221100/2111160696/HeroesAndBandits/settings.json
+steamCMD/steamapps/workshop/content/221100/2111160696/HeroesAndBandits/simple.json
+steamCMD/steamapps/workshop/content/221100/2111160696/HeroesAndBandits/zones.json
+steamCMD/steamapps/workshop/content/221100/2111160696/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2111160696/ReadMe.txt
+steamCMD/steamapps/workshop/content/221100/2195930908/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2289456201/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2289456201/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/areaflags.map
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/cfgeconomycore.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/cfgenvironment.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/cfgeventspawns.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/cfglimitsdefinition.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/cfglimitsdefinitionuser.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/cfgplayerspawnpoints.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/cfgrandompresets.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/cfgspawnabletypes.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/db/economy.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/db/events.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/db/globals.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/db/messages.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/db/types.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/db/types_dzn.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/env/brownbear_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/env/domestic_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/env/north_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/env/polarbear_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/env/predator_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/env/south_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/env/tara_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/env/zombie_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/init.c
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/mapclusterproto.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/mapgroupcluster.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/mapgroupdirt.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/mapgrouppos.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/hardcore.namalsk/mapgroupproto.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Hardcore/serverDZ.cfg
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/areaflags.map
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/cfgeconomycore.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/cfgenvironment.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/cfgeventspawns.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/cfglimitsdefinition.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/cfglimitsdefinitionuser.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/cfgplayerspawnpoints.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/cfgrandompresets.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/cfgspawnabletypes.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/db/economy.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/db/events.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/db/globals.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/db/messages.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/db/types.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/db/types_dzn.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/env/brownbear_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/env/domestic_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/env/north_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/env/polarbear_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/env/predator_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/env/south_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/env/tara_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/env/zombie_territories.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/init.c
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/mapclusterproto.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/mapgroupcluster.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/mapgroupdirt.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/mapgrouppos.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/regular.namalsk/mapgroupproto.xml
+steamCMD/steamapps/workshop/content/221100/2289461232/Extras/Regular/serverDZ.cfg
+steamCMD/steamapps/workshop/content/221100/2289461232/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2289461232/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2293916252/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2293916252/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2294323732/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2294323732/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2294323732/Readme.txt
+steamCMD/steamapps/workshop/content/221100/2294323732/ServerFiles/config/ClothesProtectionConfig_explanations.txt
+steamCMD/steamapps/workshop/content/221100/2294323732/ServerFiles/config/CrateSystemConfig_explanations.txt
+steamCMD/steamapps/workshop/content/221100/2294323732/ServerFiles/config/RadiationConfig_explanations.txt
+steamCMD/steamapps/workshop/content/221100/2294323732/ServerFiles/types.xml
+steamCMD/steamapps/workshop/content/221100/2316250469/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_AbandSecurPost.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_AbandSecurPost_1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Chimney.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Crane.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_CraneDestroyed.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Dam.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Dam_1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Dam_2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_GasStation.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_GasTank1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_GasTank2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBarrel1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBarrel2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBarrel3.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding10.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding11.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding3.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding4.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding5.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding6.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding7.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding8.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_IBuilding9.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_iContainer.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_MobileGenerator.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_NuclearReactor1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_NuclearReactor2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_OilTank1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_OilTank2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_RockCrusher.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Sawmill.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Sawmill_1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Sawmill_2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Sawmill_3.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_SecurCabin.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_ShaftTower1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_ShaftTower2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_ShaftTower3.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Silo.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_StationaryGenerator.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_StationaryGenerator_1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Tank1.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Tank2.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Tank3.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Tank4.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_Tank5.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_WastePond.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/Images/SV_WaterStation.jpg
+steamCMD/steamapps/workshop/content/221100/2358569462/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2358569462/Objects.txt
+steamCMD/steamapps/workshop/content/221100/2358569462/README_PLEASE.txt
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZConcrete_Pipe.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZCulvert_A.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZCulvert_B.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZCulvert_C.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZCulvert_tunnel.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZGroundplane_slope_A.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZMetal_grate_round.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZMetal_grate_round_damaged.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZMetal_grate_square.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Highway Culverts/SV_ZMetal_pipe.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Outpost/OutpostComplete.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Outpost/OutpostModules.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Outpost/SV_ZRadioStation.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/Buildings.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/Catwalks.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/Pillars.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/Ruined.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWire2X.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWireFence.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWireX01.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWireX02.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAOBarbedWireX03.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAOCommAntenna.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAODike.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAOPole1.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/SV_ZSWAOPole2.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/Walls.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/Survivors Wall And Outpost/Watchtowers.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_UOverpass (1 img).jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_UOverpass (2 img).jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZDumpster.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZGuardTowerDer.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZGuardTowerMet.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZGuardTowerSand.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZGunShop.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZOutpost.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZShelter(Interior).jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZShelter.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZSkeleton1.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZSkeleton2.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/SV_ZTrolley.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/Images/ZGuardTowers.jpg
+steamCMD/steamapps/workshop/content/221100/2384407442/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2384407442/Objects.txt
+steamCMD/steamapps/workshop/content/221100/2384407442/README_PLEASE.txt
+steamCMD/steamapps/workshop/content/221100/2392484866/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2428595209/ByFIDOv.txt
+steamCMD/steamapps/workshop/content/221100/2428595209/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2469448088/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2469448088/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2507204412/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2507204412/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2536780687/meta.cpp
+steamCMD/userdata/anonymous/config/localconfig.vdf

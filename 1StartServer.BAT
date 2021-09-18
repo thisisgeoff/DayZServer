@@ -2,7 +2,7 @@
 TITLE DayZ SA Server - Status
 COLOR 0A
     :: DEFINE the following variables where applicable to your install
-    SET SteamLogin=anonymous
+    SET SteamLogin=g3015867
     SET DayZBranch=223350
     SET DayZServerPath="E:\Games\SteamLibrary\steamapps\common\DayZServer"
     SET SteamCMDPath="E:\Games\SteamLibrary\steamapps\common\DayZServer\SteamCMD"
@@ -68,7 +68,7 @@ timeout 1 >nul
 cls
 echo Starting DayZ SA Server...
 cd "%DayZServerPath%"
-start DayZServer_x64.exe -instanceId=1 -config=serverDZ.cfg -profiles=ServerName -port=2302 -mod=!MODS_TO_LOAD!% -cpuCount=8 -noFilePatching -dologs -adminlog -freezecheck
+start DayZServer_x64.exe -instanceId=1 -config=serverDZ.cfg -profiles=config -port=2302 "-mod=!MODS_TO_LOAD!%" -cpuCount=8 -noFilePatching -dologs -adminlog -freezecheck
 FOR /l %%s IN (45,-1,0) DO (
     cls
     echo Initializing server, wait %%s seconds to initialize BEC.. 
