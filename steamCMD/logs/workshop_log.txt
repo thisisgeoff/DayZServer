@@ -1,0 +1,29 @@
+
+
+[2021-09-18 14:34:27] Loading workshop items for 0 installed apps for user [a:1:2502616069]:
+[2021-09-18 14:34:34] Loading workshop items for 0 installed apps for user [a:1:2502616069]:
+
+
+[2021-09-18 14:35:56] Loading workshop items for 0 installed apps for user [a:1:1086367753]:
+[2021-09-18 14:35:57] Loading workshop items for 0 installed apps for user [a:1:1086367753]:
+
+
+[2021-09-18 14:59:56] Loading workshop items for 0 installed apps for user [a:1:1255767055]:
+[2021-09-18 14:59:57] Loading workshop items for 0 installed apps for user [a:1:1255767055]:
+
+
+[2021-09-18 15:00:48] Loading workshop items for 0 installed apps for user [a:1:2406914182]:
+[2021-09-18 15:00:49] Loading workshop items for 0 installed apps for user [a:1:2406914182]:
+
+
+[2021-09-18 15:01:38] Loading workshop items for 0 installed apps for user [a:1:2545089711]:
+[2021-09-18 15:01:39] Loading workshop items for 0 installed apps for user [a:1:2545089711]:
+
+
+[2021-09-18 15:01:50] Loading workshop items for 0 installed apps for user [a:1:647076991]:
+[2021-09-18 15:01:51] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (0 installed, 0 needed)
+[2021-09-18 15:01:51] [AppID 221100] Download item 2392955057 requested by app
+[2021-09-18 15:01:51] [AppID 221100] Starting Workshop download job (requested item 2392955057 )
+[2021-09-18 15:01:51] [AppID 221100] Detected workshop change : changed cached item 2392955057, new manifest 7670805570937519404
+[2021-09-18 15:01:51] [AppID 221100] Update canceled: Failed to initialize depot 221100, manifest 7670805570937519404 (Invalid Parameter) (Missing decryption key)
+[2021-09-18 15:01:51] [AppID 221100] Download item 2392955057 result : Failure

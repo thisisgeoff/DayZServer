@@ -1,0 +1,35 @@
+
+
+[2021-09-18 14:34:27] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\appmanifest_*.acf".
+[2021-09-18 14:34:34] Loaded 0 apps from install folder "e:\games\steamlibrary\steamapps\common\dayzserver\steamapps\appmanifest_*.acf".
+[2021-09-18 14:34:35] Failed installing AppID 223350 (No subscription)
+
+
+[2021-09-18 14:35:56] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\appmanifest_*.acf".
+[2021-09-18 14:35:57] Loaded 0 apps from install folder "e:\games\steamlibrary\steamapps\common\dayzserver\steamapps\appmanifest_*.acf".
+[2021-09-18 14:35:57] Failed installing AppID 223350 (No subscription)
+
+
+[2021-09-18 14:59:56] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\appmanifest_*.acf".
+[2021-09-18 14:59:57] Loaded 0 apps from install folder "e:\games\steamlibrary\steamapps\common\dayzserver\steamapps\appmanifest_*.acf".
+[2021-09-18 14:59:57] Failed installing AppID 223350 (No subscription)
+
+
+[2021-09-18 15:00:48] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\appmanifest_*.acf".
+[2021-09-18 15:00:49] Loaded 0 apps from install folder "e:\games\steamlibrary\steamapps\common\dayzserver\steamapps\appmanifest_*.acf".
+[2021-09-18 15:00:49] Failed installing AppID 223350 (No subscription)
+
+
+[2021-09-18 15:01:38] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\appmanifest_*.acf".
+[2021-09-18 15:01:39] Loaded 0 apps from install folder "e:\games\steamlibrary\steamapps\common\dayzserver\steamapps\appmanifest_*.acf".
+[2021-09-18 15:01:39] Failed installing AppID 223350 (No subscription)
+
+
+[2021-09-18 15:01:50] Loaded 0 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\appmanifest_*.acf".
+[2021-09-18 15:01:51] AppID 221100 scheduler update : Priority First, timeSinceLastPlayed=1631988111, appDisableSecondsRemaining=0
+[2021-09-18 15:01:51] AppID 221100 update changed : Running,
+[2021-09-18 15:01:51] AppID 221100 update changed : Running,Reconfiguring,
+[2021-09-18 15:01:51] AppID 221100 update changed : Running,Reconfiguring,Stopping,
+[2021-09-18 15:01:51] AppID 221100 update changed : Running,Stopping,
+[2021-09-18 15:01:51] AppID 221100 update changed : None
+[2021-09-18 15:01:51] AppID 221100 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 

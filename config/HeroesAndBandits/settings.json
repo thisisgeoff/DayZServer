@@ -1,8 +1,8 @@
 {
-    "ConfigVersion": "5",
+    "ConfigVersion": "7",
     "Mode": 0,
     "NotificationMessageTime": 15,
-    "KillFeed": 1,
+    "KillFeed": 0,
     "SucideFeed": 0,
     "KillFeedMessageColor": [
         200,
@@ -11,9 +11,9 @@
         100
     ],
     "CommandPrefix": "/",
-    "AllowStatCommand": 1,
-    "AllowHumanityCommand": 1,
-    "AllowGUI": 1,
+    "AllowStatCommand": 0,
+    "AllowHumanityCommand": 0,
+    "AllowGUI": 0,
     "GUIHeading": "#HAB_TITLE",
     "HideKillsInGUI": 0,
     "BanditCanRemoveMask": 0,

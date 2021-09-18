@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": "6",
+    "ConfigVersion": "7",
     "ZoneCheckTimer": 3,
     "AggressionReductionTickRate": 60,
     "WarningMessageColor": [
@@ -12,18 +12,18 @@
     "WarningMessageImagePath": "HeroesAndBandits/gui/images/DeathWarning.paa",
     "Zones": [
         {
-            "Name": "Default Zone",
+            "Name": "Alakit Trader Zone",
             "UID": "cBfHGEq9CCDJRqeNo",
-            "X": 11250.0,
-            "Z": 4300.0,
-            "WarningRadius": 75.0,
-            "KillRadius": 50.0,
+            "X": 5785.85009765625,
+            "Z": 10780.2001953125,
+            "WarningRadius": 200.0,
+            "KillRadius": 100.0,
             "MinHumanity": 0.0,
             "MaxHumanity": 0.0,
             "ShowWarningMsg": 1,
-            "WarningMessage": "!!Warning!! you are about to enter Default Zone if you continue you will be shot!",
-            "ShowWelcomeMsg": 0,
-            "WelcomeMessage": "Welcome to the Default Zone",
+            "WarningMessage": "!!Warning!! you are about to enter the Alakit Trader Zone if you continue you will be shot!",
+            "ShowWelcomeMsg": 1,
+            "WelcomeMessage": "Welcome to the Alakit Trader Zone",
             "WelcomeIcon": "HeroesAndBandits/gui/images/Bambi.paa",
             "WelcomeMessageColor": [
                 200,
@@ -31,8 +31,8 @@
                 200,
                 200
             ],
-            "OverrideSafeZone": 0,
-            "GodModPlayers": 0,
+            "OverrideSafeZone": 1,
+            "GodModPlayers": 1,
             "PreventWeaponRaise": 0,
             "PreventActions": 0,
             "BlockTrader": 0,
@@ -48,11 +48,69 @@
                 }
             ],
             "Guards": [
-                {
-                    "X": 11250.0,
-                    "Y": -50.0,
-                    "Z": 4300.0,
-                    "Orientation": 0.0,
+				{
+                    "X": 5754.21728515625,
+                    "Y": 21.865386962890626,
+                    "Z": 10763.5556640625,
+                    "Orientation": -141.43417358398438,
+                    "ActionPrefix": "",
+                    "Skin": "SurvivorF_Maria",
+                    "WeaponInHands": "M4A1",
+                    "WeaponInHandsMag": "Mag_STANAGCoupled_30Rnd",
+                    "WeaponInHandsAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ],
+                    "GuardGear": [
+                        "PlateCarrierVest",
+                        "JungleBoots_Black",
+                        "CargoPants_Black",
+                        "M65Jacket_Black"
+                    ],
+                    "GunSound": "M4_Shot_SoundSet",
+                    "DamagePerTickMin": 28.0,
+                    "DamagePerTickRand": 35.0,
+                    "GunTickMulitplier": 2.0,
+                    "HitChance": 1.0,
+                    "RespawnTimer": 1200.0,
+                    "CanBeKilled": 0,
+                    "RequireLineOfSight": 1
+                },
+				{
+                    "X": 5813.80859375,
+                    "Y": 21.433387756347658,
+                    "Z": 10754.2666015625,
+                    "Orientation": -176.36810302734376,
+                    "ActionPrefix": "",
+                    "Skin": "SurvivorF_Maria",
+                    "WeaponInHands": "M4A1",
+                    "WeaponInHandsMag": "Mag_STANAGCoupled_30Rnd",
+                    "WeaponInHandsAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ],
+                    "GuardGear": [
+                        "PlateCarrierVest",
+                        "JungleBoots_Black",
+                        "CargoPants_Black",
+                        "M65Jacket_Black"
+                    ],
+                    "GunSound": "M4_Shot_SoundSet",
+                    "DamagePerTickMin": 28.0,
+                    "DamagePerTickRand": 35.0,
+                    "GunTickMulitplier": 2.0,
+                    "HitChance": 1.0,
+                    "RespawnTimer": 1200.0,
+                    "CanBeKilled": 0,
+                    "RequireLineOfSight": 1
+                },
+				{
+                    "X": 5810.86865234375,
+                    "Y": 21.609281539916993,
+                    "Z": 10765.7109375,
+                    "Orientation": 96.66715240478516,
                     "ActionPrefix": "",
                     "Skin": "SurvivorF_Maria",
                     "WeaponInHands": "M4A1",

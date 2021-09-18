@@ -1,0 +1,80 @@
+
+
+[2021-09-18 14:34:27] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 14:34:27] Change number 0->12606606, apps: 0/0, packages: 0/0
+[2021-09-18 14:34:27] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts)
+[2021-09-18 14:34:27] Requesting 1 apps, 1 packages (full data, 1024 prev attempts)
+[2021-09-18 14:34:28] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 1 (23 KB)
+[2021-09-18 14:34:28] Requesting 805 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 14:34:28] Requested 89 app access tokens, 47 received, 42 denied
+[2021-09-18 14:34:29] Updated SHAs with 47 new access tokens
+[2021-09-18 14:34:29] Downloaded 89 apps via HTTP, 1931 KB (477 KB compressed)
+[2021-09-18 14:34:29] Requesting 716 apps, 0 packages (full data, 1024 prev attempts)
+[2021-09-18 14:34:34] UpdatesJob: finished OK, apps updated 805 (4129 KB), packages updated 0 (0 KB)
+[2021-09-18 14:34:34] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 14:34:34] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 14:34:35] Downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2021-09-18 14:34:35] UpdatesJob: finished OK, apps updated 1 (11 KB), packages updated 0 (0 KB)
+[2021-09-18 14:34:35] Starting async write E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD/appcache/appinfo.vdf (3019854 bytes)
+
+
+[2021-09-18 14:35:56] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 14:35:56] Packages changed: 
+[2021-09-18 14:35:56] Apps changed: 
+[2021-09-18 14:35:56] Change number 12606606->12606611, apps: 0/2, packages: 0/1
+[2021-09-18 14:35:56] Requesting 43 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 14:35:57] Requested 42 app access tokens, 0 received, 42 denied
+[2021-09-18 14:35:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-09-18 14:35:57] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 14:35:57] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 14:35:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2021-09-18 14:59:56] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 14:59:56] Packages changed: 
+[2021-09-18 14:59:56] Apps changed: 1011850=12606645,604540=12606623,
+[2021-09-18 14:59:56] Change number 12606611->12606669, apps: 2/44, packages: 0/4
+[2021-09-18 14:59:56] Requesting 44 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 14:59:57] Requested 42 app access tokens, 0 received, 42 denied
+[2021-09-18 14:59:57] Downloaded 1 apps via HTTP, 18 KB (5 KB compressed)
+[2021-09-18 14:59:57] UpdatesJob: finished OK, apps updated 1 (18 KB), packages updated 0 (0 KB)
+[2021-09-18 14:59:57] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 14:59:57] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 14:59:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-09-18 14:59:57] Starting async write E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD/appcache/appinfo.vdf (3019854 bytes)
+
+
+[2021-09-18 15:00:48] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 15:00:49] Packages changed: 
+[2021-09-18 15:00:49] Apps changed: 
+[2021-09-18 15:00:49] Change number 12606669->12606673, apps: 0/1, packages: 0/1
+[2021-09-18 15:00:49] Requesting 43 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 15:00:49] Requested 42 app access tokens, 0 received, 42 denied
+[2021-09-18 15:00:49] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-09-18 15:00:49] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 15:00:49] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 15:00:49] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2021-09-18 15:01:38] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 15:01:38] Apps changed: 
+[2021-09-18 15:01:38] Change number 12606673->12606678, apps: 0/4, packages: 0/0
+[2021-09-18 15:01:38] Requesting 43 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 15:01:39] Requested 42 app access tokens, 0 received, 42 denied
+[2021-09-18 15:01:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-09-18 15:01:39] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 15:01:39] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 15:01:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2021-09-18 15:01:50] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 15:01:50] Apps changed: 
+[2021-09-18 15:01:50] Change number 12606678->12606679, apps: 0/1, packages: 0/0
+[2021-09-18 15:01:50] Requesting 43 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 15:01:50] Requested 42 app access tokens, 0 received, 42 denied
+[2021-09-18 15:01:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-09-18 15:01:50] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-09-18 15:01:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-09-18 15:01:51] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2021-09-18 15:01:51] UpdatesJob: finished OK, apps updated 1 (8 KB), packages updated 0 (0 KB)
+[2021-09-18 15:01:51] Starting async write E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD/appcache/appinfo.vdf (3025404 bytes)
