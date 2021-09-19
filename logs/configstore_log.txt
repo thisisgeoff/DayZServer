@@ -3,3 +3,19 @@
 [2021-09-18 16:08:50] Failed to read store 'install' from 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf.tmp'
 [2021-09-18 16:08:50] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
 [2021-09-18 16:08:52] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2021-09-19 08:14:40] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+[2021-09-19 08:14:45] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+[2021-09-19 08:14:45] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2021-09-19 08:28:45] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+[2021-09-19 08:28:47] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+[2021-09-19 08:28:48] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2021-09-19 08:32:13] Loaded store 'install' from 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+[2021-09-19 08:32:16] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+[2021-09-19 08:32:16] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+[2021-09-19 08:34:26] Flushed store 'install' to 'E:\Games\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'

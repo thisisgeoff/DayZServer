@@ -38,9 +38,9 @@ void main()
 	*/
 	Weather weather = GetGame().GetWeather();
 	weather.MissionWeather( true );
-	weather.GetOvercast().SetLimits( 0.45, 1.0 );
-	weather.GetRain().SetLimits( 0.3, 1.0 );
-	weather.GetFog().SetLimits( 0.5, 1.0 );
+	weather.GetOvercast().SetLimits( 0.0, 1.0 );
+	weather.GetRain().SetLimits( 0.0, 1.0 );
+	weather.GetFog().SetLimits( 0.0, 1.0 );
 	weather.GetOvercast().SetForecastChangeLimits( 0.1, 0.3 );
 	weather.GetOvercast().SetForecastTimeLimits( 1600, 2100 );
 	weather.GetOvercast().Set( Math.RandomFloatInclusive( 0.1, 0.2 ), 0, 0 );	// ignored if storage is present
@@ -64,10 +64,10 @@ void main()
 	int year, month, day, hour, minute;
 	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
 
-    if ( month < 12 )
+    if ( month != 9 )
     {
     	year = 2011;
-        month = 12;
+        month = 9;
         day = 1;
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );

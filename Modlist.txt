@@ -32,10 +32,12 @@
 1681963184,@Nehr_Stuff
 2316250469,@OV_AllinOne
 2086185116,@ParticlePointsPlacement
+2405175615,@Pripyat
 2294323732,@RadZone
 2507204412,@sGunplay
 2536780687,@SkyZ - Skybox Overhaul
 1707653948,@StaminaSettings
+2000044203,@S.T.A.L.K.E.R.- Area of Decay Building
 2469448088,@sVisual
 1797720064,@WindstridesClothingPack
 2384407442,@ZStuff

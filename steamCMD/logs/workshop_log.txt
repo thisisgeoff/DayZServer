@@ -1599,3 +1599,701 @@
 [2021-09-18 16:25:38] [AppID 221100] Starting Workshop download job (requested item 2384407442 )
 [2021-09-18 16:25:38] [AppID 221100] Download item 2384407442 result : OK
 [2021-09-18 16:25:38] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:01:03] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:01:22] Loading workshop items for 2 installed apps for user [U:1:30451927]:
+
+
+[2021-09-19 08:01:32] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:01:36] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:01:36] [AppID 221100] Download item 2392955057 requested by app
+[2021-09-19 08:01:36] [AppID 221100] Starting Workshop download job (requested item 2392955057 )
+[2021-09-19 08:01:36] [AppID 221100] Download item 2392955057 result : OK
+[2021-09-19 08:01:36] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:01:38] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:01:44] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:01:44] [AppID 221100] Download item 2591072025 requested by app
+[2021-09-19 08:01:44] [AppID 221100] Starting Workshop download job (requested item 2591072025 )
+[2021-09-19 08:01:45] [AppID 221100] Download item 2591072025 result : OK
+[2021-09-19 08:01:45] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:01:47] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:01:52] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:01:52] [AppID 221100] Download item 2078722927 requested by app
+[2021-09-19 08:01:52] [AppID 221100] Starting Workshop download job (requested item 2078722927 )
+[2021-09-19 08:01:52] [AppID 221100] Download item 2078722927 result : OK
+[2021-09-19 08:01:52] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:01:54] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:01:58] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:01:58] [AppID 221100] Download item 1573788098 requested by app
+[2021-09-19 08:01:58] [AppID 221100] Starting Workshop download job (requested item 1573788098 )
+[2021-09-19 08:01:59] [AppID 221100] Download item 1573788098 result : OK
+[2021-09-19 08:01:59] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:02:01] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:02:07] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:02:07] [AppID 221100] Download item 2363104791 requested by app
+[2021-09-19 08:02:07] [AppID 221100] Starting Workshop download job (requested item 2363104791 )
+[2021-09-19 08:02:08] [AppID 221100] Download item 2363104791 result : OK
+[2021-09-19 08:02:08] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:02:10] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:02:15] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:02:15] [AppID 221100] Download item 2248016797 requested by app
+[2021-09-19 08:02:15] [AppID 221100] Starting Workshop download job (requested item 2248016797 )
+[2021-09-19 08:02:15] [AppID 221100] Download item 2248016797 result : OK
+[2021-09-19 08:02:15] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:02:18] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:02:21] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:02:21] [AppID 221100] Download item 2518330750 requested by app
+[2021-09-19 08:02:21] [AppID 221100] Starting Workshop download job (requested item 2518330750 )
+[2021-09-19 08:02:22] [AppID 221100] Download item 2518330750 result : OK
+[2021-09-19 08:02:22] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:02:24] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:02:29] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:02:29] [AppID 221100] Download item 2307297070 requested by app
+[2021-09-19 08:02:29] [AppID 221100] Starting Workshop download job (requested item 2307297070 )
+[2021-09-19 08:02:30] [AppID 221100] Download item 2307297070 result : OK
+[2021-09-19 08:02:30] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:02:32] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:02:36] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:02:36] [AppID 221100] Download item 2323220044 requested by app
+[2021-09-19 08:02:36] [AppID 221100] Starting Workshop download job (requested item 2323220044 )
+[2021-09-19 08:02:37] [AppID 221100] Download item 2323220044 result : OK
+[2021-09-19 08:02:37] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:02:39] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:02:43] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:02:43] [AppID 221100] Download item 2502755029 requested by app
+[2021-09-19 08:02:43] [AppID 221100] Starting Workshop download job (requested item 2502755029 )
+[2021-09-19 08:02:44] [AppID 221100] Download item 2502755029 result : OK
+[2021-09-19 08:02:44] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:02:46] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:02:50] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:02:50] [AppID 221100] Download item 1559212036 requested by app
+[2021-09-19 08:02:50] [AppID 221100] Starting Workshop download job (requested item 1559212036 )
+[2021-09-19 08:02:50] [AppID 221100] Download item 1559212036 result : OK
+[2021-09-19 08:02:50] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:02:53] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:02:57] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:02:57] [AppID 221100] Download item 1564026768 requested by app
+[2021-09-19 08:02:57] [AppID 221100] Starting Workshop download job (requested item 1564026768 )
+[2021-09-19 08:02:57] [AppID 221100] Download item 1564026768 result : OK
+[2021-09-19 08:02:57] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:03:00] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:04] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:04] [AppID 221100] Download item 2545327648 requested by app
+[2021-09-19 08:03:04] [AppID 221100] Starting Workshop download job (requested item 2545327648 )
+[2021-09-19 08:03:04] [AppID 221100] Download item 2545327648 result : OK
+[2021-09-19 08:03:04] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:03:06] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:10] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:10] [AppID 221100] Download item 2276010135 requested by app
+[2021-09-19 08:03:10] [AppID 221100] Starting Workshop download job (requested item 2276010135 )
+[2021-09-19 08:03:11] [AppID 221100] Download item 2276010135 result : OK
+[2021-09-19 08:03:11] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:03:13] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:17] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:17] [AppID 221100] Download item 2572331007 requested by app
+[2021-09-19 08:03:17] [AppID 221100] Starting Workshop download job (requested item 2572331007 )
+[2021-09-19 08:03:18] [AppID 221100] Download item 2572331007 result : OK
+[2021-09-19 08:03:18] [AppID 221100] Finished Workshop download job : No Error
+[2021-09-19 08:03:18] [AppID 221100] Updating workshop item details failed with Failure
+
+
+[2021-09-19 08:03:21] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:24] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:24] [AppID 221100] Download item 2116157322 requested by app
+[2021-09-19 08:03:24] [AppID 221100] Starting Workshop download job (requested item 2116157322 )
+[2021-09-19 08:03:25] [AppID 221100] Download item 2116157322 result : OK
+[2021-09-19 08:03:25] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:03:27] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:31] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:31] [AppID 221100] Download item 2311951200 requested by app
+[2021-09-19 08:03:32] [AppID 221100] Starting Workshop download job (requested item 2311951200 )
+[2021-09-19 08:03:32] [AppID 221100] Download item 2311951200 result : OK
+[2021-09-19 08:03:32] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:03:34] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:38] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:38] [AppID 221100] Download item 2542638513 requested by app
+[2021-09-19 08:03:38] [AppID 221100] Starting Workshop download job (requested item 2542638513 )
+[2021-09-19 08:03:38] [AppID 221100] Download item 2542638513 result : OK
+[2021-09-19 08:03:38] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:03:41] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:45] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:45] [AppID 221100] Download item 2272872962 requested by app
+[2021-09-19 08:03:45] [AppID 221100] Starting Workshop download job (requested item 2272872962 )
+[2021-09-19 08:03:45] [AppID 221100] Download item 2272872962 result : OK
+[2021-09-19 08:03:45] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:03:47] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:51] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:51] [AppID 221100] Download item 1787304576 requested by app
+[2021-09-19 08:03:51] [AppID 221100] Starting Workshop download job (requested item 1787304576 )
+[2021-09-19 08:03:52] [AppID 221100] Download item 1787304576 result : OK
+[2021-09-19 08:03:52] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:03:54] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:03:58] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:03:58] [AppID 221100] Download item 1890912719 requested by app
+[2021-09-19 08:03:58] [AppID 221100] Starting Workshop download job (requested item 1890912719 )
+[2021-09-19 08:03:59] [AppID 221100] Download item 1890912719 result : OK
+[2021-09-19 08:03:59] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:01] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:04:05] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:04:05] [AppID 221100] Download item 2428595209 requested by app
+[2021-09-19 08:04:05] [AppID 221100] Starting Workshop download job (requested item 2428595209 )
+[2021-09-19 08:04:05] [AppID 221100] Download item 2428595209 result : OK
+[2021-09-19 08:04:05] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:08] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:04:12] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:04:12] [AppID 221100] Download item 2195930908 requested by app
+[2021-09-19 08:04:12] [AppID 221100] Starting Workshop download job (requested item 2195930908 )
+[2021-09-19 08:04:13] [AppID 221100] Download item 2195930908 result : OK
+[2021-09-19 08:04:13] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:15] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:04:19] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:04:19] [AppID 221100] Download item 2293916252 requested by app
+[2021-09-19 08:04:19] [AppID 221100] Starting Workshop download job (requested item 2293916252 )
+[2021-09-19 08:04:19] [AppID 221100] Download item 2293916252 result : OK
+[2021-09-19 08:04:19] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:22] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:04:25] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:04:25] [AppID 221100] Download item 1648967877 requested by app
+[2021-09-19 08:04:26] [AppID 221100] Starting Workshop download job (requested item 1648967877 )
+[2021-09-19 08:04:26] [AppID 221100] Download item 1648967877 result : OK
+[2021-09-19 08:04:26] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:28] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:04:32] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:04:32] [AppID 221100] Download item 2111160696 requested by app
+[2021-09-19 08:04:32] [AppID 221100] Starting Workshop download job (requested item 2111160696 )
+[2021-09-19 08:04:33] [AppID 221100] Download item 2111160696 result : OK
+[2021-09-19 08:04:33] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:35] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:04:39] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:04:39] [AppID 221100] Download item 1577784539 requested by app
+[2021-09-19 08:04:39] [AppID 221100] Starting Workshop download job (requested item 1577784539 )
+[2021-09-19 08:04:40] [AppID 221100] Download item 1577784539 result : OK
+[2021-09-19 08:04:40] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:42] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:04:45] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:04:45] [AppID 221100] Download item 2358569462 requested by app
+[2021-09-19 08:04:46] [AppID 221100] Starting Workshop download job (requested item 2358569462 )
+[2021-09-19 08:04:46] [AppID 221100] Download item 2358569462 result : OK
+[2021-09-19 08:04:46] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:49] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:04:53] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:04:53] [AppID 221100] Download item 2392484866 requested by app
+[2021-09-19 08:04:53] [AppID 221100] Starting Workshop download job (requested item 2392484866 )
+[2021-09-19 08:04:54] [AppID 221100] Download item 2392484866 result : OK
+[2021-09-19 08:04:54] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:04:56] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:05:00] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:05:00] [AppID 221100] Download item 2289456201 requested by app
+[2021-09-19 08:05:00] [AppID 221100] Starting Workshop download job (requested item 2289456201 )
+[2021-09-19 08:05:00] [AppID 221100] Download item 2289456201 result : OK
+[2021-09-19 08:05:00] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:05:03] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:05:07] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:05:07] [AppID 221100] Download item 2289461232 requested by app
+[2021-09-19 08:05:07] [AppID 221100] Starting Workshop download job (requested item 2289461232 )
+[2021-09-19 08:05:07] [AppID 221100] Download item 2289461232 result : OK
+[2021-09-19 08:05:07] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:05:10] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:05:14] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:05:14] [AppID 221100] Download item 1681963184 requested by app
+[2021-09-19 08:05:14] [AppID 221100] Starting Workshop download job (requested item 1681963184 )
+[2021-09-19 08:05:14] [AppID 221100] Download item 1681963184 result : OK
+[2021-09-19 08:05:14] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:05:17] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:05:21] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:05:21] [AppID 221100] Download item 2316250469 requested by app
+[2021-09-19 08:05:21] [AppID 221100] Starting Workshop download job (requested item 2316250469 )
+[2021-09-19 08:05:22] [AppID 221100] Download item 2316250469 result : OK
+[2021-09-19 08:05:22] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:05:24] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:05:28] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:05:28] [AppID 221100] Download item 2086185116 requested by app
+[2021-09-19 08:05:28] [AppID 221100] Starting Workshop download job (requested item 2086185116 )
+[2021-09-19 08:05:28] [AppID 221100] Download item 2086185116 result : OK
+[2021-09-19 08:05:28] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:05:30] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:05:34] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (42 installed, 42 needed)
+[2021-09-19 08:05:34] [AppID 221100] Download item 2405175615 requested by app
+[2021-09-19 08:05:34] [AppID 221100] Starting Workshop download job (requested item 2405175615 )
+[2021-09-19 08:05:35] [AppID 221100] Detected workshop change : changed cached item 2405175615, new manifest 6297891414462062836
+[2021-09-19 08:08:14] [AppID 221100] Download item 2405175615 result : OK
+[2021-09-19 08:08:14] [AppID 221100] Finished Workshop download job : No Error
+[2021-09-19 08:08:14] [AppID 221100] Updating workshop item details failed with Failure
+
+
+[2021-09-19 08:08:16] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:08:20] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 43 needed)
+[2021-09-19 08:08:20] [AppID 221100] Download item 2294323732 requested by app
+[2021-09-19 08:08:20] [AppID 221100] Starting Workshop download job (requested item 2294323732 )
+[2021-09-19 08:08:21] [AppID 221100] Download item 2294323732 result : OK
+[2021-09-19 08:08:21] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:08:23] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:08:27] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 43 needed)
+[2021-09-19 08:08:27] [AppID 221100] Download item 2507204412 requested by app
+[2021-09-19 08:08:27] [AppID 221100] Starting Workshop download job (requested item 2507204412 )
+[2021-09-19 08:08:27] [AppID 221100] Download item 2507204412 result : OK
+[2021-09-19 08:08:27] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:08:30] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:08:33] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 43 needed)
+[2021-09-19 08:08:33] [AppID 221100] Download item 2536780687 requested by app
+[2021-09-19 08:08:33] [AppID 221100] Starting Workshop download job (requested item 2536780687 )
+[2021-09-19 08:08:34] [AppID 221100] Download item 2536780687 result : OK
+[2021-09-19 08:08:34] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:08:36] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:08:40] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 43 needed)
+[2021-09-19 08:08:40] [AppID 221100] Download item 1707653948 requested by app
+[2021-09-19 08:08:40] [AppID 221100] Starting Workshop download job (requested item 1707653948 )
+[2021-09-19 08:08:40] [AppID 221100] Download item 1707653948 result : OK
+[2021-09-19 08:08:40] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:08:43] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:08:47] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 43 needed)
+[2021-09-19 08:08:47] [AppID 221100] Download item 2000044203 requested by app
+[2021-09-19 08:08:47] [AppID 221100] Starting Workshop download job (requested item 2000044203 )
+[2021-09-19 08:08:47] [AppID 221100] Detected workshop change : changed cached item 2000044203, new manifest 4062201547712475402
+[2021-09-19 08:13:47] [AppID 221100] Update canceled: Shutdown (No connection)
+
+
+[2021-09-19 08:13:50] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:13:53] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:13:53] [AppID 221100] Download item 2469448088 requested by app
+[2021-09-19 08:13:53] [AppID 221100] Starting Workshop download job (requested item 2469448088 )
+[2021-09-19 08:13:54] [AppID 221100] Download item 2469448088 result : OK
+[2021-09-19 08:13:54] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:13:56] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:14:00] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:14:00] [AppID 221100] Download item 1797720064 requested by app
+[2021-09-19 08:14:00] [AppID 221100] Starting Workshop download job (requested item 1797720064 )
+[2021-09-19 08:14:01] [AppID 221100] Download item 1797720064 result : OK
+[2021-09-19 08:14:01] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:14:03] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:14:07] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:14:07] [AppID 221100] Download item 2384407442 requested by app
+[2021-09-19 08:14:07] [AppID 221100] Starting Workshop download job (requested item 2384407442 )
+[2021-09-19 08:14:07] [AppID 221100] Download item 2384407442 result : OK
+[2021-09-19 08:14:07] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:18:23] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:18:26] Loading workshop items for 2 installed apps for user [U:1:30451927]:
+
+
+[2021-09-19 08:18:36] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:18:40] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:18:40] [AppID 221100] Download item 2392955057 requested by app
+[2021-09-19 08:18:40] [AppID 221100] Starting Workshop download job (requested item 2392955057 )
+[2021-09-19 08:18:40] [AppID 221100] Download item 2392955057 result : OK
+[2021-09-19 08:18:40] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:18:42] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:18:47] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:18:47] [AppID 221100] Download item 2591072025 requested by app
+[2021-09-19 08:18:47] [AppID 221100] Starting Workshop download job (requested item 2591072025 )
+[2021-09-19 08:18:47] [AppID 221100] Download item 2591072025 result : OK
+[2021-09-19 08:18:47] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:18:50] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:18:53] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:18:53] [AppID 221100] Download item 2078722927 requested by app
+[2021-09-19 08:18:53] [AppID 221100] Starting Workshop download job (requested item 2078722927 )
+[2021-09-19 08:18:54] [AppID 221100] Download item 2078722927 result : OK
+[2021-09-19 08:18:54] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:18:56] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:00] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:00] [AppID 221100] Download item 1573788098 requested by app
+[2021-09-19 08:19:00] [AppID 221100] Starting Workshop download job (requested item 1573788098 )
+[2021-09-19 08:19:01] [AppID 221100] Download item 1573788098 result : OK
+[2021-09-19 08:19:01] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:03] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:07] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:07] [AppID 221100] Download item 2363104791 requested by app
+[2021-09-19 08:19:07] [AppID 221100] Starting Workshop download job (requested item 2363104791 )
+[2021-09-19 08:19:07] [AppID 221100] Download item 2363104791 result : OK
+[2021-09-19 08:19:07] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:09] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:13] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:13] [AppID 221100] Download item 2248016797 requested by app
+[2021-09-19 08:19:13] [AppID 221100] Starting Workshop download job (requested item 2248016797 )
+[2021-09-19 08:19:14] [AppID 221100] Download item 2248016797 result : OK
+[2021-09-19 08:19:14] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:16] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:20] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:20] [AppID 221100] Download item 2518330750 requested by app
+[2021-09-19 08:19:20] [AppID 221100] Starting Workshop download job (requested item 2518330750 )
+[2021-09-19 08:19:21] [AppID 221100] Download item 2518330750 result : OK
+[2021-09-19 08:19:21] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:23] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:27] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:27] [AppID 221100] Download item 2307297070 requested by app
+[2021-09-19 08:19:27] [AppID 221100] Starting Workshop download job (requested item 2307297070 )
+[2021-09-19 08:19:27] [AppID 221100] Download item 2307297070 result : OK
+[2021-09-19 08:19:27] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:30] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:34] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:34] [AppID 221100] Download item 2323220044 requested by app
+[2021-09-19 08:19:34] [AppID 221100] Starting Workshop download job (requested item 2323220044 )
+[2021-09-19 08:19:34] [AppID 221100] Download item 2323220044 result : OK
+[2021-09-19 08:19:34] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:36] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:40] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:40] [AppID 221100] Download item 2502755029 requested by app
+[2021-09-19 08:19:40] [AppID 221100] Starting Workshop download job (requested item 2502755029 )
+[2021-09-19 08:19:40] [AppID 221100] Download item 2502755029 result : OK
+[2021-09-19 08:19:40] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:43] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:46] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:46] [AppID 221100] Download item 1559212036 requested by app
+[2021-09-19 08:19:46] [AppID 221100] Starting Workshop download job (requested item 1559212036 )
+[2021-09-19 08:19:46] [AppID 221100] Download item 1559212036 result : OK
+[2021-09-19 08:19:46] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:48] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:52] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:52] [AppID 221100] Download item 1564026768 requested by app
+[2021-09-19 08:19:53] [AppID 221100] Starting Workshop download job (requested item 1564026768 )
+[2021-09-19 08:19:53] [AppID 221100] Download item 1564026768 result : OK
+[2021-09-19 08:19:53] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:19:55] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:19:59] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:19:59] [AppID 221100] Download item 2545327648 requested by app
+[2021-09-19 08:19:59] [AppID 221100] Starting Workshop download job (requested item 2545327648 )
+[2021-09-19 08:20:00] [AppID 221100] Download item 2545327648 result : OK
+[2021-09-19 08:20:00] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:02] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:06] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:06] [AppID 221100] Download item 2276010135 requested by app
+[2021-09-19 08:20:06] [AppID 221100] Starting Workshop download job (requested item 2276010135 )
+[2021-09-19 08:20:07] [AppID 221100] Download item 2276010135 result : OK
+[2021-09-19 08:20:07] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:09] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:13] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:13] [AppID 221100] Download item 2572331007 requested by app
+[2021-09-19 08:20:13] [AppID 221100] Starting Workshop download job (requested item 2572331007 )
+[2021-09-19 08:20:13] [AppID 221100] Download item 2572331007 result : OK
+[2021-09-19 08:20:13] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:16] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:20] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:20] [AppID 221100] Download item 2116157322 requested by app
+[2021-09-19 08:20:20] [AppID 221100] Starting Workshop download job (requested item 2116157322 )
+[2021-09-19 08:20:20] [AppID 221100] Download item 2116157322 result : OK
+[2021-09-19 08:20:20] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:23] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:27] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:27] [AppID 221100] Download item 2311951200 requested by app
+[2021-09-19 08:20:27] [AppID 221100] Starting Workshop download job (requested item 2311951200 )
+[2021-09-19 08:20:27] [AppID 221100] Download item 2311951200 result : OK
+[2021-09-19 08:20:27] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:29] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:33] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:33] [AppID 221100] Download item 2542638513 requested by app
+[2021-09-19 08:20:33] [AppID 221100] Starting Workshop download job (requested item 2542638513 )
+[2021-09-19 08:20:34] [AppID 221100] Download item 2542638513 result : OK
+[2021-09-19 08:20:34] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:36] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:40] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:40] [AppID 221100] Download item 2272872962 requested by app
+[2021-09-19 08:20:40] [AppID 221100] Starting Workshop download job (requested item 2272872962 )
+[2021-09-19 08:20:40] [AppID 221100] Download item 2272872962 result : OK
+[2021-09-19 08:20:40] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:42] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:46] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:46] [AppID 221100] Download item 1787304576 requested by app
+[2021-09-19 08:20:46] [AppID 221100] Starting Workshop download job (requested item 1787304576 )
+[2021-09-19 08:20:46] [AppID 221100] Download item 1787304576 result : OK
+[2021-09-19 08:20:46] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:48] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:52] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:52] [AppID 221100] Download item 1890912719 requested by app
+[2021-09-19 08:20:52] [AppID 221100] Starting Workshop download job (requested item 1890912719 )
+[2021-09-19 08:20:53] [AppID 221100] Download item 1890912719 result : OK
+[2021-09-19 08:20:53] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:20:55] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:20:59] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:20:59] [AppID 221100] Download item 2428595209 requested by app
+[2021-09-19 08:20:59] [AppID 221100] Starting Workshop download job (requested item 2428595209 )
+[2021-09-19 08:21:00] [AppID 221100] Download item 2428595209 result : OK
+[2021-09-19 08:21:00] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:02] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:06] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:06] [AppID 221100] Download item 2195930908 requested by app
+[2021-09-19 08:21:06] [AppID 221100] Starting Workshop download job (requested item 2195930908 )
+[2021-09-19 08:21:07] [AppID 221100] Download item 2195930908 result : OK
+[2021-09-19 08:21:07] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:09] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:13] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:13] [AppID 221100] Download item 2293916252 requested by app
+[2021-09-19 08:21:13] [AppID 221100] Starting Workshop download job (requested item 2293916252 )
+[2021-09-19 08:21:13] [AppID 221100] Download item 2293916252 result : OK
+[2021-09-19 08:21:13] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:16] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:20] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:20] [AppID 221100] Download item 1648967877 requested by app
+[2021-09-19 08:21:20] [AppID 221100] Starting Workshop download job (requested item 1648967877 )
+[2021-09-19 08:21:20] [AppID 221100] Download item 1648967877 result : OK
+[2021-09-19 08:21:20] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:22] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:26] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:26] [AppID 221100] Download item 2111160696 requested by app
+[2021-09-19 08:21:26] [AppID 221100] Starting Workshop download job (requested item 2111160696 )
+[2021-09-19 08:21:27] [AppID 221100] Download item 2111160696 result : OK
+[2021-09-19 08:21:27] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:29] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:32] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:32] [AppID 221100] Download item 1577784539 requested by app
+[2021-09-19 08:21:32] [AppID 221100] Starting Workshop download job (requested item 1577784539 )
+[2021-09-19 08:21:33] [AppID 221100] Download item 1577784539 result : OK
+[2021-09-19 08:21:33] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:35] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:39] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:39] [AppID 221100] Download item 2358569462 requested by app
+[2021-09-19 08:21:39] [AppID 221100] Starting Workshop download job (requested item 2358569462 )
+[2021-09-19 08:21:39] [AppID 221100] Download item 2358569462 result : OK
+[2021-09-19 08:21:39] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:42] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:45] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:45] [AppID 221100] Download item 2392484866 requested by app
+[2021-09-19 08:21:45] [AppID 221100] Starting Workshop download job (requested item 2392484866 )
+[2021-09-19 08:21:45] [AppID 221100] Download item 2392484866 result : OK
+[2021-09-19 08:21:45] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:48] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:52] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:52] [AppID 221100] Download item 2289456201 requested by app
+[2021-09-19 08:21:52] [AppID 221100] Starting Workshop download job (requested item 2289456201 )
+[2021-09-19 08:21:52] [AppID 221100] Download item 2289456201 result : OK
+[2021-09-19 08:21:52] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:21:54] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:21:58] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:21:58] [AppID 221100] Download item 2289461232 requested by app
+[2021-09-19 08:21:58] [AppID 221100] Starting Workshop download job (requested item 2289461232 )
+[2021-09-19 08:21:59] [AppID 221100] Download item 2289461232 result : OK
+[2021-09-19 08:21:59] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:01] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:05] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:05] [AppID 221100] Download item 1681963184 requested by app
+[2021-09-19 08:22:05] [AppID 221100] Starting Workshop download job (requested item 1681963184 )
+[2021-09-19 08:22:05] [AppID 221100] Download item 1681963184 result : OK
+[2021-09-19 08:22:05] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:08] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:11] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:11] [AppID 221100] Download item 2316250469 requested by app
+[2021-09-19 08:22:11] [AppID 221100] Starting Workshop download job (requested item 2316250469 )
+[2021-09-19 08:22:11] [AppID 221100] Download item 2316250469 result : OK
+[2021-09-19 08:22:11] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:13] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:17] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:17] [AppID 221100] Download item 2086185116 requested by app
+[2021-09-19 08:22:17] [AppID 221100] Starting Workshop download job (requested item 2086185116 )
+[2021-09-19 08:22:18] [AppID 221100] Download item 2086185116 result : OK
+[2021-09-19 08:22:18] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:20] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:24] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:24] [AppID 221100] Download item 2405175615 requested by app
+[2021-09-19 08:22:24] [AppID 221100] Starting Workshop download job (requested item 2405175615 )
+[2021-09-19 08:22:24] [AppID 221100] Download item 2405175615 result : OK
+[2021-09-19 08:22:24] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:27] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:31] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:31] [AppID 221100] Download item 2294323732 requested by app
+[2021-09-19 08:22:31] [AppID 221100] Starting Workshop download job (requested item 2294323732 )
+[2021-09-19 08:22:31] [AppID 221100] Download item 2294323732 result : OK
+[2021-09-19 08:22:31] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:34] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:37] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:37] [AppID 221100] Download item 2507204412 requested by app
+[2021-09-19 08:22:38] [AppID 221100] Starting Workshop download job (requested item 2507204412 )
+[2021-09-19 08:22:38] [AppID 221100] Download item 2507204412 result : OK
+[2021-09-19 08:22:38] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:40] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:45] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:45] [AppID 221100] Download item 2536780687 requested by app
+[2021-09-19 08:22:45] [AppID 221100] Starting Workshop download job (requested item 2536780687 )
+[2021-09-19 08:22:46] [AppID 221100] Download item 2536780687 result : OK
+[2021-09-19 08:22:46] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:48] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:52] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:52] [AppID 221100] Download item 1707653948 requested by app
+[2021-09-19 08:22:52] [AppID 221100] Starting Workshop download job (requested item 1707653948 )
+[2021-09-19 08:22:52] [AppID 221100] Download item 1707653948 result : OK
+[2021-09-19 08:22:52] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:22:55] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:22:59] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:22:59] [AppID 221100] Download item 2000044203 requested by app
+[2021-09-19 08:22:59] [AppID 221100] Starting Workshop download job (requested item 2000044203 )
+[2021-09-19 08:28:00] [AppID 221100] Update canceled: Shutdown (No connection)
+
+
+[2021-09-19 08:28:02] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:28:06] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:28:06] [AppID 221100] Download item 2469448088 requested by app
+[2021-09-19 08:28:06] [AppID 221100] Starting Workshop download job (requested item 2469448088 )
+[2021-09-19 08:28:07] [AppID 221100] Download item 2469448088 result : OK
+[2021-09-19 08:28:07] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:28:09] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:28:13] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:28:13] [AppID 221100] Download item 1797720064 requested by app
+[2021-09-19 08:28:13] [AppID 221100] Starting Workshop download job (requested item 1797720064 )
+[2021-09-19 08:28:13] [AppID 221100] Download item 1797720064 result : OK
+[2021-09-19 08:28:13] [AppID 221100] Finished Workshop download job : No Error
+
+
+[2021-09-19 08:28:16] Loading workshop items for 0 installed apps for user [U:1:30451927]:
+[2021-09-19 08:28:19] [AppID 221100] Loaded workshop items in "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamCMD\steamapps\workshop" (43 installed, 44 needed)
+[2021-09-19 08:28:19] [AppID 221100] Download item 2384407442 requested by app
+[2021-09-19 08:28:19] [AppID 221100] Starting Workshop download job (requested item 2384407442 )
+[2021-09-19 08:28:19] [AppID 221100] Download item 2384407442 result : OK
+[2021-09-19 08:28:19] [AppID 221100] Finished Workshop download job : No Error

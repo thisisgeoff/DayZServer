@@ -2118,3 +2118,39 @@ steamCMD/steamapps/workshop/content/221100/2507204412/meta.cpp
 steamCMD/steamapps/workshop/content/221100/2507204412/mod.cpp
 steamCMD/steamapps/workshop/content/221100/2536780687/meta.cpp
 steamCMD/userdata/anonymous/config/localconfig.vdf
+steamCMD/appcache/appinfo.vdf
+steamCMD/config/config.vdf
+steamCMD/depotcache/221100_4062201547712475402.manifest
+steamCMD/depotcache/221100_6297891414462062836.manifest
+steamCMD/logs/appinfo_log.txt
+steamCMD/logs/bootstrap_log.txt
+steamCMD/logs/configstore_log.previous.txt
+steamCMD/logs/configstore_log.txt
+steamCMD/logs/connection_log.txt
+steamCMD/logs/content_log.txt
+steamCMD/logs/remote_steamcmd.txt
+steamCMD/logs/shader_log.txt
+steamCMD/logs/systemmanager.txt
+steamCMD/logs/workshop_log.txt
+steamCMD/steamapps/workshop/content/221100/2405175615/meta.cpp
+steamCMD/steamapps/workshop/content/221100/2405175615/mod.cpp
+steamCMD/steamapps/workshop/content/221100/2405175615/serverMission.Pripyat.zip
+steamCMD/appcache/appinfo.vdf
+steamCMD/config/config.vdf
+steamCMD/logs/appinfo_log.txt
+steamCMD/logs/bootstrap_log.txt
+steamCMD/logs/configstore_log.txt
+steamCMD/logs/connection_log.txt
+steamCMD/logs/content_log.txt
+steamCMD/logs/remote_steamcmd.txt
+steamCMD/logs/shader_log.txt
+steamCMD/logs/systemmanager.txt
+steamCMD/logs/workshop_log.txt
+@S.T.A.L.K.E.R.- Area of Decay Building/Readmy.txt
+@S.T.A.L.K.E.R.- Area of Decay Building/mod.cpp
+@S.T.A.L.K.E.R.- Area of Decay Building/meta.cpp
+@S.T.A.L.K.E.R.- Area of Decay Building/License.txt
+@S.T.A.L.K.E.R.- Area of Decay Building/Changelog.md
+@Pripyat/serverMission.Pripyat.zip
+@Pripyat/mod.cpp
+@Pripyat/meta.cpp

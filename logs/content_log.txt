@@ -1,3 +1,12 @@
 
 
 [2021-09-18 16:08:50] Loaded 2 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamapps\appmanifest_*.acf".
+
+
+[2021-09-19 08:14:40] Loaded 2 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamapps\appmanifest_*.acf".
+
+
+[2021-09-19 08:28:45] Loaded 2 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamapps\appmanifest_*.acf".
+
+
+[2021-09-19 08:32:13] Loaded 2 apps from install folder "E:\Games\SteamLibrary\steamapps\common\DayZServer\steamapps\appmanifest_*.acf".
