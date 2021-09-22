@@ -1,0 +1,23 @@
+{
+    "m_Version": 6,
+    "TraderName": "Event",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EVENT",
+    "TraderIcon": "Questionmark",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Items": {
+        "cauldron": 1,
+        "witchhood_brown": 1,
+        "witchhood_red": 1,
+        "easteregg": 1,
+        "crookednose": 1,
+        "witchhood_black": 1,
+        "broom": 1,
+        "witchhat": 1,
+        "broom_birch": 1
+    }
+}

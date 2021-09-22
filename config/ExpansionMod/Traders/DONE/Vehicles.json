@@ -1,0 +1,15 @@
+{
+    "m_Version": 6,
+    "TraderName": "Vehicles",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLES",
+    "TraderIcon": "Car",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Items": {
+
+    }
+}

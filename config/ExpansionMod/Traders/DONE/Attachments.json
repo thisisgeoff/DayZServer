@@ -1,0 +1,22 @@
+{
+    "m_Version": 6,
+    "TraderName": "Attachments",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS",
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Items": {
+
+
+
+
+
+
+
+
+    }
+}

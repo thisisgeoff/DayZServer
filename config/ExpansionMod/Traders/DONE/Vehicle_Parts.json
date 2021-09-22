@@ -1,0 +1,15 @@
+{
+    "m_Version": 6,
+    "TraderName": "Vehicle_Parts",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS",
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Items": {
+       
+    }
+}

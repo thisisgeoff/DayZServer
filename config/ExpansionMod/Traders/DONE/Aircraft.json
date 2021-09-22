@@ -1,0 +1,33 @@
+{
+    "m_Version": 6,
+    "TraderName": "Aircraft",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Items": {
+        "expansion_mh6_door_1_1": 1,
+
+        "expansionuh1hdoor_1_1": 1,
+        "expansionuh1h": 1,
+
+        "expansion_mh6_door_2_1": 1,
+
+
+
+        "expansionmh6": 1,
+        "expansionmerlin": 1,
+        "expansionmerlinbackwheel": 1,
+        "expansionmerlinfrontwheel": 1,
+        "expansion_mh6_door_1_2": 1,
+
+        "expansioncarkey": 1,
+        "expansionuh1hdoor_1_2": 1,
+        "expansion_mh6_door_2_2": 1,
+ 
+    }
+}

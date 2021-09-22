@@ -1,0 +1,48 @@
+{
+    "m_Version": 6,
+    "TraderName": "Weapons",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Items": {
+
+
+
+        "expansion_ammo_8mm": 1,
+        "expansion_ammobox_8mm_15rnd": 1,
+
+
+
+
+
+        "ammo_expansion_46x30": 1,
+        "ammobox_expansion_46x30_25rnd": 1,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}

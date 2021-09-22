@@ -1,0 +1,83 @@
+{
+    "m_Version": 6,
+    "TraderName": "MechanicWeapons",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Items": {
+        "magnum": 1,
+        "deagle": 1,
+        "deagle_gold": 1		
+        "ammo_357": 1,
+        "ammobox_357_20rnd": 1,
+        "mag_deagle_9rnd": 1,
+		
+        "mp133shotgun": 1,
+        "ammo_12gaslug": 1,
+        "ammobox_12gaslug_10rnd": 1,
+        "ammo_12gapellets": 1,
+        "ammobox_00buck_10rnd": 1,		
+        "ammo_12garubberslug": 1,
+        "ammobox_12garubberslug_10rnd": 1,
+
+        "ump45": 1,
+		"expansion_mpx": 1,
+        "cz61": 1,
+        "ammo_380": 1,
+        "ammobox_380_35rnd": 1,
+        "ammo_45acp": 1,
+        "ammobox_45acp_25rnd": 1,
+        "ammo_9x19": 1,
+        "ammobox_9x19_25rnd": 1,
+        "mag_ump_25rnd": 1,
+        "mag_expansion_mpx_50rnd": 1,
+        "mag_cz61_20rnd": 1,
+		
+		"expansion_kar98": 1,		
+		"expansion_m14": 1,
+        "expansion_m16": 1,
+        "m16a2": 1,
+        "aks74u": 1,
+		"SKS": 1,
+		"ammo_762x39": 1,
+        "ammobox_762x39tracer_20rnd": 1,
+        "ammobox_762x39_20rnd": 1,
+        "ammo_762x39tracer": 1,
+        "ammo_545x39": 1,		
+        "ammobox_545x39_20rnd": 1,
+        "ammo_545x39tracer": 1,		
+        "ammobox_545x39tracer_20rnd": 1,
+        "mag_expansion_m14_10rnd": 1,
+        "expansion_kar98_bayonet": 1,
+        "aks74u_bttstck": 1,
+        "sks_bayonet": 1,
+        "mosin_bayonet": 1,
+		
+        "pipe": 1,
+        "brassknuckles_dull": 1,		
+        "brassknuckles_shiny": 1,
+        "crudemachete": 1,
+
+        "puscopeoptic": 1,
+
+        "kobraoptic": 1,
+        "expansionexps3holooptic": 1,
+        "pistoloptic": 1,
+        "reflexoptic": 1,
+        "expansionkar98scopeoptic": 1,
+
+
+
+
+
+
+
+
+
+    }
+}
