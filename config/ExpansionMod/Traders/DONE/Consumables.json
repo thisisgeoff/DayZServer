@@ -1,8 +1,8 @@
 {
     "m_Version": 6,
-    "TraderName": "Spraycans",
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPRAYCANS",
-    "TraderIcon": "Bottle",
+    "TraderName": "Consumables",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CONSUMABLES",
+    "TraderIcon": "Can Of Beans Big",
     "Currencies": [
         "expansiongoldbar",
         "expansiongoldnugget",
