@@ -4,7 +4,7 @@
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 107
+            "Stat": 108
         },
         {
             "Name": "bambiSucide",
@@ -14,7 +14,7 @@
     "Affinities": [
         {
             "Name": "hero",
-            "Points": 535.0
+            "Points": 540.0
         }
     ]
 }

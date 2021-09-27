@@ -105,7 +105,20 @@
     "MaxPartyDepositMoney": 100000,
     "MarketVIPs": [],
     "SellPricePercent": 50.0,
-    "LandSpawnPositions": [],
+    "LandSpawnPositions": [
+	        {
+            "Position": [
+                5743.13,
+                17.26,
+                10778.71
+            ],
+            "Direction": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        }
+	],
     "AirSpawnPositions": [],
     "WaterSpawnPositions": [],
     "MarketMenuColors": {
