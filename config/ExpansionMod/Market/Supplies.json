@@ -27,6 +27,46 @@
             ]
         },
         {
+            "ClassName": "Golden_Winged_Pin",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Button_Pin_Radioactive",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Button_Pin_Daisy",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Sheriff_Badge",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "rope",
             "MaxPriceThreshold": 8,
             "MinPriceThreshold": 4,

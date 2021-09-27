@@ -101,6 +101,22 @@
             "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
+        },
+		{
+            "ClassName": "Military_Sweater",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 55,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Military_Sweater_Red",
+				"Military_Sweater_Blue",
+				"Military_Sweater_Green",
+				"Military_Sweater_Black",
+				"Military_Sweater_White"
+			]
         }
     ]
 }

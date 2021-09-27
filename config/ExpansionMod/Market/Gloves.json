@@ -87,6 +87,20 @@
             ]
         },
         {
+            "ClassName": "Fingerless_Gloves",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Fingerless_Gloves_Brown",
+                "Fingerless_Gloves_Wool",
+                "Fingerless_Gloves_Wool_Grey"
+            ]
+        },
+        {
             "ClassName": "nbcglovesgray",
             "MaxPriceThreshold": 130,
             "MinPriceThreshold": 65,

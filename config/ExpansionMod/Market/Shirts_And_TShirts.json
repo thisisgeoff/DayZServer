@@ -172,6 +172,34 @@
             "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Layered_Shirt_Base",
+            "MaxPriceThreshold": 28,
+            "MinPriceThreshold": 14,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Layered_Shirt_White",
+				"Layered_Shirt_Cheburashka",
+				"Layered_Shirt_Courage",
+				"Layered_Shirt_Lily"
+			]
+        },
+		{
+            "ClassName": "Medium_Sleeves_Shirt",
+            "MaxPriceThreshold": 28,
+            "MinPriceThreshold": 14,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Medium_Sleeves_Shirt_Red",
+				"Medium_Sleeves_Shirt_Blue"
+			]
         }
     ]
 }

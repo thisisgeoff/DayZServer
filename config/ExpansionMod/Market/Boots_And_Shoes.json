@@ -132,6 +132,16 @@
             "Variants": []
         },
         {
+            "ClassName": "FlipFlops_Colorbase",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "dressshoes_white",
             "MaxPriceThreshold": 64,
             "MinPriceThreshold": 32,
@@ -158,6 +168,18 @@
                 "hikingbootslow_grey",
                 "hikingbootslow_beige",
                 "hikingbootslow_black"
+            ]
+        },
+        {
+            "ClassName": "High_Knee_Sneakers",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "High_Knee_Sneakers_Black"
             ]
         },
         {

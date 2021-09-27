@@ -306,6 +306,19 @@
             "Variants": []
         },
         {
+            "ClassName": "Winter_Parka_Base",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Winter_Parka_White",
+				"Winter_Parka_Green"
+			]
+        },
+        {
             "ClassName": "ttskojacket_camo",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,

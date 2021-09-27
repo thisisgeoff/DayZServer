@@ -1,0 +1,50 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SKIRTS & #STR_EXPANSION_MARKET_CATEGORY_DRESSES",
+    "Items": [
+        {
+            "ClassName": "skirt_blue",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "skirt_red",
+                "skirt_white",
+                "skirt_yellow"
+            ]
+        },
+        {
+            "ClassName": "minidress_pink",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "minidress_pinkchecker",
+                "minidress_redchecker",
+                "minidress_bluechecker",
+                "minidress_bluewithdots",
+                "minidress_whitechecker",
+                "minidress_brownchecker",
+                "minidress_greenchecker"
+            ]
+        },
+        {
+            "ClassName": "nursedress_blue",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nursedress_white"
+            ]
+        }
+    ]
+}

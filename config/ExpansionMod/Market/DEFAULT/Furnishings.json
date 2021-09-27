@@ -1,0 +1,26 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_FURNISHINGS",
+    "Items": [
+        {
+            "ClassName": "expansiongunrack",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 3500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionstove",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

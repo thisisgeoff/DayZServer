@@ -86,6 +86,16 @@
             ]
         },
         {
+            "ClassName": "Slouch_Hat_Brown",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "beaniehat_black",
             "MaxPriceThreshold": 62,
             "MinPriceThreshold": 31,
@@ -127,6 +137,26 @@
             "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Poncho_Red_Checkered",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Poncho_Blue_Checkered",
+				"Poncho_Yellow_Checkered",
+				"Poncho_Brown",
+				"Poncho_Green",
+				"Poncho_White",
+				"Poncho_Red",
+				"Poncho_Black",
+				"Poncho_BlackAndWhite",				
+                "Poncho_BlackAndWhite2"
+			]
         },
         {
             "ClassName": "booniehat_blue",

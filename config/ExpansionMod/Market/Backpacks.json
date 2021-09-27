@@ -76,6 +76,22 @@
             "Variants": []
         },
         {
+            "ClassName": "Canvas_Backpack_Base",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Canvas_Backpack_Black",
+				"Canvas_Backpack_White",
+				"Canvas_Backpack_Red",
+				"Canvas_Backpack_Blue",
+				"Canvas_Backpack_Purple"
+			]
+        },
+        {
             "ClassName": "smershbag",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,

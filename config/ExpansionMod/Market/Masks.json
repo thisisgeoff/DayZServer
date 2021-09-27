@@ -32,6 +32,50 @@
             "SpawnAttachments": [],
             "Variants": []
         },
+		{
+            "ClassName": "HumanSkull",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkullMask",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ragged_Eyepatch",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Shemagh_Brown",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"LShemagh_Green",
+				"Shemagh_Red",
+				"Shemagh_White"
+			]
+        },		
         {
             "ClassName": "balaclavamask_beige",
             "MaxPriceThreshold": 100,
@@ -135,6 +179,16 @@
         },
         {
             "ClassName": "gp5gasmask",
+            "MaxPriceThreshold": 240,
+            "MinPriceThreshold": 120,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PMK_5A_Gas_Mask",
             "MaxPriceThreshold": 240,
             "MinPriceThreshold": 120,
             "MaxStockThreshold": 100,

@@ -1,0 +1,66 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BLOUSES & #STR_EXPANSION_MARKET_CATEGORY_SUITS",
+    "Items": [
+        {
+            "ClassName": "blouse_blue",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "blouse_violet",
+                "blouse_white",
+                "blouse_green"
+            ]
+        },
+        {
+            "ClassName": "blouse_green",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "mansuit_beige",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mansuit_black",
+                "mansuit_blue",
+                "mansuit_brown",
+                "mansuit_darkgrey",
+                "mansuit_khaki",
+                "mansuit_lightgrey",
+                "mansuit_white"
+            ]
+        },
+        {
+            "ClassName": "womansuit_beige",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "womansuit_black",
+                "womansuit_blue",
+                "womansuit_brown",
+                "womansuit_darkgrey",
+                "womansuit_khaki",
+                "womansuit_lightgrey",
+                "womansuit_white"
+            ]
+        }
+    ]
+}

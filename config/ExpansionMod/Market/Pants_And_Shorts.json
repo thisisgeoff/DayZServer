@@ -475,6 +475,34 @@
             "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
-        }
+        },
+        {
+            "ClassName": "Blue_Leggings",
+            "MaxPriceThreshold": 65,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Latex_Leggings",
+				"Adidas_Leggings",
+				"Red_Leggings",
+				"Purple_Leggings",
+				"Latex_White_Leggings"
+			]
+        },
+        {
+            "ClassName": "Kneepads_Jeans_Base",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Kneepads_Jeans_Black"
+            ]
+        },		
     ]
 }

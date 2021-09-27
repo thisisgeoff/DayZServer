@@ -1,0 +1,36 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_LOCKS",
+    "Items": [
+        {
+            "ClassName": "combinationlock",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 700,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "combinationlock4",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 900,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansioncodelock",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

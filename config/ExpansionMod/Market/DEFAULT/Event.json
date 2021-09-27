@@ -1,0 +1,76 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EVENT",
+    "Items": [
+        {
+            "ClassName": "easteregg",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "crookednose",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cauldron",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "witchhat",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "witchhood_black",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "witchhood_brown",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "witchhood_red",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

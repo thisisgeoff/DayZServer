@@ -64,10 +64,10 @@ void main()
 	int year, month, day, hour, minute;
 	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
 
-    if ( month != 9 )
+    if ( month != 10 )
     {
     	year = 2011;
-        month = 9;
+        month = 10;
         day = 1;
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
