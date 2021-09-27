@@ -1,8 +1,8 @@
 {
     "m_Version": 6,
-    "TraderName": "ScientistWeapons",
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
-    "TraderIcon": "Shotgun",
+    "TraderName": "Medicals",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+    "TraderIcon": "Medic Box",
     "Currencies": [
         "expansiongoldbar",
         "expansiongoldnugget",
